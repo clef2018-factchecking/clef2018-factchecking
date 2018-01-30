@@ -34,7 +34,11 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
             logging.error('No such claim_number: {} in gold file!'.format(claim_number))
             quit()
 
-        predicted_labels[claim_number] = label
+        if claim_number in predicted_labels and predicted_labels[claim_number] != label:
+            logging.error('There is an already predicted label for claim_number {} and it is different!'.format(claim_number))
+            quit()
+        else:
+            predicted_labels[claim_number] = label
 
     if len(gold_labels) != len(predicted_labels):
         logging.warning('You have missed some line_numbers in your prediction file.')

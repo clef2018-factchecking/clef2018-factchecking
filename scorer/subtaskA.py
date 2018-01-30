@@ -33,6 +33,9 @@ def _read_gold_and_pred(gold_fpath, pred_fpath):
             if line_number not in gold_labels:
                 logging.error('No such line_number: {} in gold file!'.format(line_number))
                 quit()
+            if line_number in ranked_lines:
+                logging.error('Duplicated line_number in ranked line_numbers: {}'.format(line_number))
+                quit()
             ranked_lines.append(line_number)
 
     if len(gold_labels) != len(ranked_lines):
