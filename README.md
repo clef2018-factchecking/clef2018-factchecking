@@ -1,5 +1,5 @@
 # clef2018-facts-tools
-Contains format checker, scorer and baselines for the CLEF2018-factcheking task.
+Contains format checker, scorer and baselines for the [CLEF2018-factcheking task](http://alt.qcri.org/clef2018-factcheck/).
 
 ## __Results File Format__: 
 
