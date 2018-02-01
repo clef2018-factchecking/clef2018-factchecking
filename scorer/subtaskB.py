@@ -141,5 +141,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     logging.info("Started evaluating results for Subtask B ...")
-    check_format(args.pred_file_path)
-    evaluate(args.gold_file_path, args.pred_file_path)
+    if check_format(args.pred_file_path):
+        evaluate(args.gold_file_path, args.pred_file_path)

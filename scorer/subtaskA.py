@@ -99,9 +99,7 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
     If not specified - 1, 3, 5, 10, 20, 50, len(ranked_lines).
     """
     gold_labels, line_score = _read_gold_and_pred(gold_fpath, pred_fpath)
-
     ranked_lines = [t[0] for t in sorted(line_score, key=lambda x: x[1], reverse=True)]
-
     if thresholds is None or len(thresholds) == 0:
         thresholds = [1, 3, 5, 10, 20, 50, len(ranked_lines)]
 
@@ -148,5 +146,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     logging.info("Started evaluating results for Subtask A ...")
-    check_format(args.pred_file_path)
-    evaluate(args.gold_file_path, args.pred_file_path)
+    if check_format(args.pred_file_path):
+        evaluate(args.gold_file_path, args.pred_file_path)
+
