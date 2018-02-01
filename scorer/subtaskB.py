@@ -60,7 +60,10 @@ def _compute_accuracy(conf_matrix):
     """ Computer Accuracy. """
     num_claims = sum([sum(row.values()) for row in conf_matrix.values()])
     correct_claims = sum([conf_matrix[l][l] for l in _LABELS])
-    return correct_claims / num_claims
+    if num_claims:
+        return correct_claims / num_claims
+    else:
+        return 0.0
 
 
 def _compute_macro_f1(conf_matrix):
@@ -70,22 +73,38 @@ def _compute_macro_f1(conf_matrix):
     r = {'true': 0, 'false': 0, 'half-true': 0}
 
     for label in _LABELS:
-        p[label] = conf_matrix[label][label] / sum([conf_matrix[l][label] for l in _LABELS])
-        r[label] = conf_matrix[label][label] / sum([conf_matrix[label][l] for l in _LABELS])
+        all_predicted = sum([conf_matrix[l][label] for l in _LABELS])
+
+        if all_predicted:
+            p[label] = conf_matrix[label][label] / all_predicted
+        else:
+            p[label] = 0.0
+        all_gold = sum([conf_matrix[label][l] for l in _LABELS])
+
+        if all_gold == 0:
+            raise ValueError('No instances for class {} found!'.format(label))
+
+        r[label] = conf_matrix[label][label] / all_gold
     
     f1 = {'true': 0, 'false': 0, 'half-true': 0}
     for label in _LABELS:
-        f1[label] = 2.0 * p[label] * r[label] / (p[label] + r[label])
+        if p[label] + r[label]:
+            f1[label] = 2.0 * p[label] * r[label] / (p[label] + r[label])
+        else:
+            f1[label] = 0.0
 
     return sum(f1.values()) / len(f1)
 
 
 def _compute_macro_recall(conf_matrix):
     """ Computes Macro Recall """
-    r = {'true': 0, 'false': 0, 'half-true': 0}
-
+    r = {}
     for label in _LABELS:
-        r[label] = conf_matrix[label][label] / sum([conf_matrix[label][l] for l in _LABELS])
+        all_gold = sum([conf_matrix[label][l] for l in _LABELS])
+        if all_gold == 0:
+            raise ValueError('No instances for class {} found!'.format(label))
+
+        r[label] = conf_matrix[label][label] / all_gold
     
     return sum(r.values()) / len(r)
 
