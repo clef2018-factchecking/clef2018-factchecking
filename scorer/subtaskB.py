@@ -1,7 +1,7 @@
 import logging
 import csv
 import argparse
-
+from format_checker.subtaskB import check_format
 """
 Scoring of Subtask B with confusion matrix, Acc, Macro F1 and Average Recall. 
 """
@@ -34,11 +34,7 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
             logging.error('No such claim_number: {} in gold file!'.format(claim_number))
             quit()
 
-        if claim_number in predicted_labels and predicted_labels[claim_number] != label:
-            logging.error('There is an already predicted label for claim_number {} and it is different!'.format(claim_number))
-            quit()
-        else:
-            predicted_labels[claim_number] = label
+        predicted_labels[claim_number] = label
 
     if len(gold_labels) != len(predicted_labels):
         logging.warning('You have missed some line_numbers in your prediction file.')
@@ -145,4 +141,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     logging.info("Started evaluating results for Subtask B ...")
+    check_format(args.pred_file_path)
     evaluate(args.gold_file_path, args.pred_file_path)

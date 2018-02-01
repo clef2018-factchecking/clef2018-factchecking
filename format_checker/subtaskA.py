@@ -14,6 +14,7 @@ where the list is ordered by the estimated 'check-worthiness'.
 _LINE_PATTERN_A = re.compile('^[1-9][0-9]{0,3}$')
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+
 def check_format(file_path):
     with open(file_path, encoding='UTF-8') as out:
         file_content = out.read().strip()
@@ -23,6 +24,12 @@ def check_format(file_path):
                 # 1. Check line format.
                 logging.error("Wrong line format: {}".format(line))
                 return False
+
+            line_number = int(line.strip())
+            if line_number in ids:
+                logging.error('Duplicated line_number in ranked line_numbers: {}'.format(line_number))
+                quit()
+
             ids.append(int(line.strip()))
 
         logging.info("The file looks properly formatted.")

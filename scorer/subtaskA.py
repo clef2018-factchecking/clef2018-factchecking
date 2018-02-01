@@ -1,6 +1,6 @@
 import logging
 import argparse
-
+from format_checker.subtaskA import check_format
 """
 Scoring of Subtask A with the metrics Average Precision, R-Precision, P@N, RR@N. 
 """
@@ -32,9 +32,6 @@ def _read_gold_and_pred(gold_fpath, pred_fpath):
             line_number = int(line_number.strip())
             if line_number not in gold_labels:
                 logging.error('No such line_number: {} in gold file!'.format(line_number))
-                quit()
-            if line_number in ranked_lines:
-                logging.error('Duplicated line_number in ranked line_numbers: {}'.format(line_number))
                 quit()
             ranked_lines.append(line_number)
 
@@ -145,4 +142,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     logging.info("Started evaluating results for Subtask A ...")
+    check_format(args.pred_file_path)
     evaluate(args.gold_file_path, args.pred_file_path)

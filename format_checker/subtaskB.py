@@ -19,7 +19,7 @@ def check_format(file_path):
     with open(file_path, encoding='UTF-8') as out:
         file_content = out.read().strip()
 
-        id_label = []
+        id_label = {}
         for line in file_content.split('\n'):
             if not _LINE_PATTERN_B.match(line.strip()):
                 # 1. Check line format
@@ -27,10 +27,18 @@ def check_format(file_path):
                 return False
 
             _cols = line.split('\t')
-            id_label.append((int(_cols[0].strip()), _cols[1].strip()))
+            claim_number = int(_cols[0].strip())
+            label = _cols[1].strip()
 
-        ids = [_id_label[0] for _id_label in id_label]
-        labels = [_id_label[1] for _id_label in id_label]
+            if claim_number in id_label and id_label[claim_number] != label:
+                logging.error(
+                    'There is an already predicted label for claim_number {} and it is different!'.format(claim_number))
+                quit()
+
+            id_label[claim_number] = label
+
+        ids = list(id_label.keys())
+        labels = list(id_label.values())
 
         # 2. Check if some ids are missing
         if sorted(ids) != list(range(min(ids), max(ids) + 1)):
