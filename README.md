@@ -4,24 +4,23 @@ Contains format checker, scorer and baselines for the [CLEF2018-factcheking task
 ## __Results File Format__: 
 
 ### Subtask A: 
-For this task, results file is a list of ranked claims, ordered according to their estimated check-worthiness. 
+For this task, results file is a list of claims with the estimated score for check-worthiness. 
     Each line in the results file is in the format:
->line_number
+>line_number <TAB> score
 
-Where _line_number_ is the number of the claim in the debate. Line numbers are provided in the order they should be prioritized for fact-checking. For example:
->1328 <br/>
->1225 <br/>
->1222 <br/>
->1103 <br/>
->1098 <br/>
->1086 <br/>
->1062 <br/>
->1061 <br/>
->1060 <br/>
->1002 <br/>
+Where _line_number_ is the number of the claim in the debate and _score_ is a number indicating the priority of the claim for fact-checking. Line numbers are provided in the order they should be prioritized for fact-checking. For example:
+>1	0.9056 <br/>
+>2	0.6862 <br/>
+>3	0.7665 <br/>
+>4	0.9046 <br/>
+>5	0.2598 <br/>
+>6	0.6357 <br/>
+>7	0.9049 <br/>
+>8	0.8721 <br/>
+>9	0.5729 <br/>
+>10	0.1693 <br/>
+>11	0.4115 <br/>
 > ...
-
-Where 1328 is the line_number of the claim, which should be checked first, 1225 is the line_number of the claim that should be checked secont, etc.
 
 ### Subtask B
 
@@ -29,7 +28,7 @@ For this subtask, participants should estimate the credibility of the fact-check
 
 > claim_number <TAB> label
 
-Where claim_number is the consequtive number only of the fact-checked claims and the label is one of: TRUE, FALSE, HALF-TRUE. For example:
+Where claim_number is the consecutive number only of the fact-checked claims and the label is one of: TRUE, FALSE, HALF-TRUE. For example:
 
 >1  TRUE <br/>
 >2	FALSE <br/>
