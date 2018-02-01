@@ -9,7 +9,7 @@ echo '======= Subtask A NOT OK: Running the format checker with some missing lin
 python3 subtaskA.py --pred_file_path=${format_checker_tests_path}subtaskA_NOTOK_MISSING_ID.txt
 echo '======='
 echo '======= Subtask A NOT OK: Running the format checker where the provided list of line_numbers contains duplicates.'
-python3 subtaskA.py --pred_file_path=${format_checker_tests_path}'subtaskA_NOTOK_dup_line_number.txt'
+python3 subtaskA.py --pred_file_path=${format_checker_tests_path}'subtaskA_NOTOK_DUP_LINE_NUM.txt'
 echo '======='
 echo '======= Subtask A NOT OK: Running the format checker where the line_numbers start from 0'
 python3 subtaskA.py --pred_file_path=${format_checker_tests_path}'subtaskA_NOTOK_0.txt'
@@ -24,4 +24,4 @@ echo '======= Subtask B WARNING: Running the format checker where some claim_num
 python3 subtaskB.py --pred_file_path=${format_checker_tests_path}subtaskB_WARN_MISSING_LABEL.txt
 echo '======='
 echo '======= Subtask B NOT OK: Running the format checker where the provided predictions contains duplicate claim_numbers with different labels.'
-python3 subtaskB.py --pred_file_path=${format_checker_tests_path}subtaskB_NOTOK_dup_claim_number.txt
+python3 subtaskB.py --pred_file_path=${format_checker_tests_path}subtaskB_NOTOK_DUP_CLAIM_NUM.txt

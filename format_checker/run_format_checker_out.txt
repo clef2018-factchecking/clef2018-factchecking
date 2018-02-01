@@ -1,32 +1,32 @@
 ======= Subtask A OK: Running the format checker with correct output.
-2018-02-01 13:04:04,359 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_OK.txt
-2018-02-01 13:04:04,364 : INFO : The file looks properly formatted.
+2018-02-02 01:34:25,979 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_OK.txt
+2018-02-02 01:34:25,987 : INFO : The file looks properly formatted.
 =======
 ======= Subtask A NOT OK: Running the format checker with some missing line_numbers.
-2018-02-01 13:04:04,435 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_MISSING_ID.txt
-2018-02-01 13:04:04,442 : ERROR : Problem with line_number: 1037. They should be consecutive and starting from 1.
+2018-02-02 01:34:26,060 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_MISSING_ID.txt
+2018-02-02 01:34:26,065 : ERROR : Problem with line_number: 1037. They should be consecutive and starting from 1.
 =======
 ======= Subtask A NOT OK: Running the format checker where the provided list of line_numbers contains duplicates.
-2018-02-01 13:04:04,504 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_dup_line_number.txt
-2018-02-01 13:04:04,509 : ERROR : Problem with line_number: 1147. They should be consecutive and starting from 1.
+2018-02-02 01:34:26,128 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_DUP_LINE_NUM.txt
+2018-02-02 01:34:26,133 : ERROR : Problem with line_number: 1147. They should be consecutive and starting from 1.
 =======
 ======= Subtask A NOT OK: Running the format checker where the line_numbers start from 0
-2018-02-01 13:04:04,569 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_0.txt
-2018-02-01 13:04:04,571 : ERROR : Wrong line format: 0	0.9056396761745207
+2018-02-02 01:34:26,207 : INFO : Subtask A: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskA_NOTOK_0.txt
+2018-02-02 01:34:26,209 : ERROR : Wrong line format: 0	0.9056396761745207
 =======
 ======= Subtask B OK: Running the format checker with correct output.
-2018-02-01 13:04:04,631 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_OK.txt
-2018-02-01 13:04:04,633 : INFO : The file looks properly formatted.
+2018-02-02 01:34:26,275 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_OK.txt
+2018-02-02 01:34:26,277 : INFO : The file looks properly formatted.
 =======
 ======= Subtask B NOT OK: Running the format checker where the labels are different from TRUE, FALSE, HALF-TRUE.
-2018-02-01 13:04:04,704 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_NOTOK_OTHER_LABELS.txt
-2018-02-01 13:04:04,705 : ERROR : Wrong line format: 57	STRANGE_LABEL
+2018-02-02 01:34:26,345 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_NOTOK_OTHER_LABELS.txt
+2018-02-02 01:34:26,346 : ERROR : Wrong line format: 57	STRANGE_LABEL
 =======
 ======= Subtask B WARNING: Running the format checker where some claim_numbers are missing from the file.
-2018-02-01 13:04:04,772 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_WARN_MISSING_LABEL.txt
-2018-02-01 13:04:04,773 : INFO : The file looks properly formatted.
-2018-02-01 13:04:04,774 : WARNING : It seems you have missed a class in the predicted labels.
+2018-02-02 01:34:26,416 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_WARN_MISSING_LABEL.txt
+2018-02-02 01:34:26,418 : INFO : The file looks properly formatted.
+2018-02-02 01:34:26,419 : WARNING : It seems you have missed a class in the predicted labels.
 =======
 ======= Subtask B NOT OK: Running the format checker where the provided predictions contains duplicate claim_numbers with different labels.
-2018-02-01 13:04:04,842 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_NOTOK_dup_claim_number.txt
-2018-02-01 13:04:04,843 : ERROR : There is an already predicted label for claim_number 5 and it is different!
+2018-02-02 01:34:26,481 : INFO : Subtask B: Checking file: /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/format_checker_tests/subtaskB_NOTOK_DUP_CLAIM_NUM.txt
+2018-02-02 01:34:26,482 : ERROR : There is an already predicted label for claim_number 5 and it is different!
