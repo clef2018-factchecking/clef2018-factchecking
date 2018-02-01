@@ -69,3 +69,10 @@ For the Subtask A ranking task, the scorer computes R-Precision, Average Precisi
 For the Subtask B classification task, the scorer computes Accuracy, Macro F1, Macro Recall, and a confusion matrix.
 
 run_scorer.sh provides more examples of using the scorers and the results can be viewed in the run_scorer_out.txt file.
+
+## Baselines
+
+The _baselines_ module contains a random and a simple ngram baseline for each of the tasks.
+
+If you execute any of the scripts, both of the baselines will be trained on the 1st Presidential and the Vice-Presidential debates and evaluated on the 2nd Presidential debate.
+The performance of both baselines will be displayed with messages, first for the random and then for the n-gram baseline.
