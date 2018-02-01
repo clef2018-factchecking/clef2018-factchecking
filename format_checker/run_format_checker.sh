@@ -1,12 +1,21 @@
 #!/usr/bin/env bash
-python3 subtaskA.py --file_path=examples/subtaskA_OK.txt
+PROJ_DIR="$(dirname $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd ))"
+format_checker_tests_path=${PROJ_DIR}'/data/format_checker_tests/'
+
+echo '======= This is an example of running the format checker with correct output for Subtask A.'
+python3 subtaskA.py --file_path=${format_checker_tests_path}subtaskA_OK.txt
 echo '======='
-python3 subtaskA.py --file_path=examples/subtaskA_WARN_MISSING_ID.txt
+echo '======= This is an example of running the format checker for subtask A, with some missing/skipper line_numbers.'
+python3 subtaskA.py --file_path=${format_checker_tests_path}subtaskA_WARN_MISSING_ID.txt
 echo '======='
-python3 subtaskA.py --file_path=examples/subtaskA_NOTOK_SEP.txt
+echo '======= This is an exmaple of running the format checker for subtask A, where line_numbers are separated with commas, not with new lines.'
+python3 subtaskA.py --file_path=${format_checker_tests_path}subtaskA_NOTOK_SEP.txt
 echo '======='
-python3 subtaskB.py --file_path=examples/subtaskB_OK.txt
+echo '======= This is an example of running the format checker with correct output for Subtask B.'
+python3 subtaskB.py --file_path=${format_checker_tests_path}subtaskB_OK.txt
 echo '======='
-python3 subtaskB.py --file_path=examples/subtaskB_NOTOK_OTHER_LABELS.txt
+echo '======= This is an example of running the format checker on file with predicted labels, where the labels are different from TRUE, FALSE, HALF-TRUE.'
+python3 subtaskB.py --file_path=${format_checker_tests_path}subtaskB_NOTOK_OTHER_LABELS.txt
 echo '======='
-python3 subtaskB.py --file_path=examples/subtaskB_WARN_MISSING_LABEL.txt
+echo '======= This is an example of running the format checker on file with predicted labels, where some claim_numbers are missing from the file.'
+python3 subtaskB.py --file_path=${format_checker_tests_path}subtaskB_WARN_MISSING_LABEL.txt

@@ -1,0 +1,1358 @@
+1	QUIJANO	Good evening.	0
+2	QUIJANO	From Longwood University in Farmville, Virginia, and welcome to the first, and only, vice presidential debate of 2016, sponsored by the Commission on Presidential Debates.	0
+3	QUIJANO	I'm Elaine Quijano, anchor at CBSN, and correspondent for CBS News.	0
+4	QUIJANO	It's an honor to moderate this debate between Senator Tim Kaine and Governor Mike Pence.	0
+5	QUIJANO	Both are longtime public servants who are also proud fathers of sons serving in the U.S. Marines.	0
+6	QUIJANO	The campaigns have agreed to the rules of this 90-minute debate.	0
+7	QUIJANO	There will be nine different segments covering domestic and foreign policy issues.	0
+8	QUIJANO	Each segment will begin with a question to both candidates who will each have two minutes to answer.	0
+9	QUIJANO	Then I'll ask follow-up questions to facilitate a discussion between the candidates.	0
+10	QUIJANO	By coin toss, it's been determined that Senator Kaine will be first to answer the opening question.	0
+11	QUIJANO	We have an enthusiastic audience tonight.	0
+12	QUIJANO	They've agreed to only express that enthusiasm once at the end of the debate and right now as we welcome Governor Mike Pence and Senator Tim Kaine.	0
+13	SYSTEM	(APPLAUSE)	0
+14	QUIJANO	Gentlemen, welcome.	0
+15	QUIJANO	It truly is a privilege to be with both of you tonight.	0
+16	QUIJANO	I'd like to start with the topic of presidential leadership.	0
+17	QUIJANO	Twenty-eight years ago tomorrow night, Lloyd Bentsen said the vice presidential debate was not about the qualifications for the vice presidency, but about how if tragedy should occur, the vice president has to step in without any margin for error, without time for preparation, to take over the responsibility for the biggest job in the world.	0
+18	QUIJANO	What about your qualities, your skills, and your temperament equip you to step into that role at a moment's notice?	0
+19	QUIJANO	Senator Kaine?	0
+20	KAINE	Elaine, thank you for being here tonight, and, Governor Pence, welcome.	0
+21	KAINE	It is so great to be back at Longwood University in Farmville, Virginia.	0
+22	KAINE	This is a very special place.	0
+23	KAINE	Sixty-five years ago, a young, courageous woman, Barbara Johns, led a walkout of her high school, Moton High School.	0
+24	KAINE	She made history by protesting school segregation.	0
+25	KAINE	She believed our nation was stronger together.	0
+26	KAINE	And that walkout led to the Brown v. Board of Education decision that moved us down the path toward equality.	0
+27	KAINE	I am so proud to be running with another strong, history-making woman, Hillary Clinton, to be president of the United States.	0
+28	KAINE	I'm proud because her vision of stronger together, building an economy that works for all, not just those at the top, being safe in the world not only with a strong military, but also strong alliances to battle terrorism and climate change, and also to build a community of respect, just like Barbara Johns tried to do 65 years ago.	0
+29	KAINE	That's why I'm so proud to be her running mate.	0
+30	KAINE	Hillary told me why she asked me to be her running mate.	0
+31	KAINE	She said the test of a Clinton administration will not be the signing of a bill or the passage of a bill.	0
+32	KAINE	It'll be whether we can make somebody's life better, whether we can make a classroom better learning environment for schoolkids or teachers, whether we can make a safer -- it's going to be about results.	0
+33	KAINE	And she said to me, you've been a missionary and a civil rights lawyer.	0
+34	KAINE	You've been a city councilman and mayor.	0
+35	KAINE	You've been a lieutenant governor and governor and now a U.S. senator.	0
+36	KAINE	I think you will help me figure out how to govern this nation so that we always keep in mind that the success of the administration is the difference we make in people's lives.	0
+37	KAINE	And that's what I bring to the ticket, that experience having served at all levels of government.	0
+38	KAINE	But my primary role is to be Hillary Clinton's right-hand person and strong supporter as she puts together the most historic administration possible.	0
+39	KAINE	And I relish that role.	0
+40	KAINE	I'm so proud of her.	0
+41	KAINE	I'll just say this: We trust Hillary Clinton, my wife and I, and we trust her with the most important thing in our life.	0
+42	KAINE	We have a son deployed overseas in the Marine Corps right now.	0
+43	KAINE	We trust Hillary Clinton as president and commander-in-chief, but the thought of Donald Trump as commander-in-chief scares us to death.	0
+44	QUIJANO	Governor Pence?	0
+45	PENCE	Well, first off, thank you, Elaine, and thank you to -- thank you to Norwood University for their wonderful hospitality and the Commission on Presidential Debates.	0
+46	PENCE	It's deeply humbling for me to be here, to be surrounded by my -- my wonderful family.	0
+47	PENCE	And, Senator Kaine, it's an honor to be here with you, as well.	0
+48	PENCE	And I just -- I also want to say -- I want to say thanks to everyone that's looking in tonight, who understands what an enormously important time this is in the life of our nation.	0
+49	PENCE	For the last seven-and-a-half years, we've seen America's place in the world weakened.	0
+50	PENCE	We've seen an economy stifled by more taxes, more regulation, a war on coal, and a failing health care reform come to be known as Obamacare, and the American people know that we need to make a change.	0
+51	PENCE	And so I want to thank all of you for being -- being with us tonight.	0
+52	PENCE	I also want to thank Donald Trump for making that call and inviting us to be a part of this ticket.	0
+53	PENCE	I have to tell you, I'm a -- I'm a small-town boy from a place not too different from Farmville.	0
+54	PENCE	I grew up with a cornfield in my backyard.	0
+55	PENCE	My grandfather had immigrated to this country when he was about my son's age.	0
+56	PENCE	My mom and dad built a -- everything that matters in a small town in Southern Indiana.	0
+57	PENCE	They built a family and -- and a good name and a business.	0
+58	PENCE	And they raised a family.	0
+59	PENCE	And I dreamed some day of representing my home town in Washington, D.C., but I -- honestly, Elaine, I never imagined -- never imagined I'd have the opportunity to be governor of the state that I love, let alone be sitting at a table like this in this kind of a position.	0
+60	PENCE	So to answer your question, I would say I -- I would hope that if -- if the responsibility ever fell to me in this role, that I would meet it with the way that I'm going to meet the responsibility should I be elected vice president of the United States.	0
+61	PENCE	And that's to bring a lifetime of experience, a lifetime growing up in a small town, a lifetime where I've served in the Congress of the United States, where -- where I've led a state that works in the great state of Indiana, and whatever other responsibilities might follow from this, I -- I would hope and, frankly, I would pray to be able to meet that moment with that -- that lifetime of experience.	0
+62	QUIJANO	Senator Kaine, on the campaign trail, you praised Secretary Clinton's character, including her commitment to public service, yet 60 percent of voters don't think she's trustworthy.	0
+63	QUIJANO	Why do so many people distrust her?	0
+64	QUIJANO	Is it because they have questions about her e-mails and the Clinton Foundation?	0
+65	KAINE	Elaine, let me tell you why I trust Hillary Clinton.	0
+66	KAINE	Here's what people should look at as they look at a public servant.	0
+67	KAINE	Do they have a passion in their life that showed up before they were in public life?	0
+68	KAINE	And have they held onto that passion throughout their life, regardless of whether they were in office or not, succeeding or failing?	0
+69	KAINE	Hillary Clinton has that passion.	0
+70	KAINE	From a time as a kid in a Methodist youth group in the suburbs of Chicago, she has been focused on serving others with a special focus on empowering families and kids.	0
+71	KAINE	As a civil rights lawyer in the South, with the Children's Defense Fund, first lady of Arkansas and this country, senator, secretary of state, it's always been about putting others first.	0
+72	KAINE	And that's a sharp contrast with Donald Trump.	0
+73	KAINE	Donald Trump always puts himself first.	0
+74	KAINE	He built a business career, in the words of one of his own campaign staffers, "off the backs of the little guy."	0
+75	KAINE	And as a candidate, he started his campaign with a speech where he called Mexicans rapists and criminals, and he has pursued the discredited and really outrageous lie that President Obama wasn't born in the United States.	0
+76	KAINE	It is so painful to suggest that we go back to think about these days where an African-American could not be a citizen of the United States.	0
+77	KAINE	And I can't imagine how Governor Pence can defend the insult- driven selfish "me first" style of Donald Trump.	0
+78	QUIJANO	Governor Pence, let me ask you, you have said Donald Trump is, quote, "thoughtful, compassionate, and steady."	0
+79	QUIJANO	Yet 67 percent of voters feel he is a risky choice, and 65 percent feel he does not have the right kind of temperament to be president.	0
+80	QUIJANO	Why do so many Americans think Mr. Trump is simply too erratic?	0
+81	PENCE	Well, let me -- let me say first and foremost that, Senator, you and Hillary Clinton would know a lot about an insult- driven campaign.	0
+82	PENCE	It really is remarkable.	0
+83	PENCE	At a time when literally, in the wake of Hillary Clinton's tenure as secretary of state, where she was the architect of the Obama administration's foreign policy, we see entire portions of the world, particularly the wider Middle East, literally spinning out of control.	0
+84	PENCE	I mean, the situation we're watching hour by hour in Syria today is the result of the failed foreign policy and the weak foreign policy that Hillary Clinton helped lead in this administration and create.	0
+85	PENCE	The newly emboldened -- the aggression of Russia, whether it was in Ukraine or now they're heavy-handed approach...	0
+86	KAINE	You guys love Russia.	0
+87	KAINE	You both have said...	0
+88	PENCE	their heavy-handed approach.	0
+89	KAINE	You both have said -- you both have said Vladimir Putin is a better leader than the president.	0
+90	PENCE	Well...	0
+91	SYSTEM	(CROSSTALK)	0
+92	QUIJANO	Well, we're going to get to Russia in just a moment.	0
+93	QUIJANO	But I do want to get back to the question at...	0
+94	PENCE	But in the midst -- Elaine, thank you.	0
+95	PENCE	Thank you.	0
+96	PENCE	Thank you, Senator, I'll...	0
+97	KAINE	These guys have praised Vladimir Putin as a great leader.	0
+98	KAINE	How can that...	0
+99	SYSTEM	(CROSSTALK)	0
+100	QUIJANO	Yes, and we will get to that, Senator.	0
+101	QUIJANO	We do have that coming up here.	0
+102	QUIJANO	But in the meantime, the questions...	0
+103	PENCE	Well, Senator, I must have hit a...	0
+104	SYSTEM	(CROSSTALK)	0
+105	PENCE	I must have hit a nerve here.	0
+106	QUIJANO	Why the disconnect?	0
+107	PENCE	Because at a time of great challenge in the life of this nation, where we've weakened America's place in the world, stifled America's economy, the campaign of Hillary Clinton and Tim Kaine has been an avalanche of insults.	0
+108	PENCE	Look, to get to your question about trustworthiness, Donald Trump has built a business through hard times and through good times.	0
+109	PENCE	He's brought an extraordinary business acumen.	0
+110	PENCE	He's employed tens of thousands of people in this country.	0
+111	KAINE	And paid few taxes and lost a billion a year.	0
+112	SYSTEM	(CROSSTALK)	0
+113	QUIJANO	And why the disconnect with your running mate?	0
+114	PENCE	But there's a -- there's a reason why people question the trustworthiness of Hillary Clinton.	0
+115	PENCE	And that's because they're paying attention.	0
+116	PENCE	I mean, the reality is, when she was secretary of state, Senator, come on.	0
+117	PENCE	She had a Clinton Foundation accepting contributions from foreign governments.	0
+118	KAINE	You are Donald Trump's apprentice.	0
+119	KAINE	Let me talk about this...	0
+120	SYSTEM	(CROSSTALK)	0
+121	PENCE	Senator, I think I'm still on my time.	0
+122	KAINE	Well, I think -- isn't this a discussion?	0
+123	QUIJANO	This is our open discussion.	0
+124	KAINE	Yeah, let's talk about the state of...	0
+125	SYSTEM	(CROSSTALK)	0
+126	PENCE	Well, let me interrupt -- let me interrupt you and finish my sentence, if I can.	0
+127	KAINE	Finish your sentence.	0
+128	PENCE	The Clinton Foundation accepted foreign contributions from foreign governments and foreign donors while she was secretary of state.	0
+129	KAINE	OK, now I can weigh in.	0
+130	KAINE	Now...	0
+131	PENCE	She had a private server...	0
+132	KAINE	Now, I get to weigh in.	0
+133	KAINE	Now, let me just say this...	0
+134	PENCE	that was discovered...	0
+135	SYSTEM	(CROSSTALK)	0
+136	QUIJANO	Senator, you have an opportunity to respond.	0
+137	PENCE	keep that pay to play process out of the reach of the public.	0
+138	KAINE	Governor Pence -- Governor Pence doesn't think the world's going so well and he, you know, is going to say it's everybody's fault.	0
+139	PENCE	Do you?	0
+140	KAINE	Let me tell you this.	0
+141	KAINE	When Hillary Clinton became secretary of state, Governor Pence, did you know that Osama bin Laden was alive?	0
+142	PENCE	Yes.	0
+143	KAINE	Do you know that we had 175,000 troops deployed in the battlefield in Iraq and Afghanistan?	0
+144	KAINE	Do you know that Iran was racing toward a nuclear weapon and Russia was expanding its stockpile?	0
+145	KAINE	Under Secretary Clinton's leadership, she was part of the national team, public safety team that went after and revived the dormant hunt against bin Laden and wiped him off the face of the Earth.	0
+146	KAINE	She worked to deal with the Russians to reduce their chemical weapons stockpile.	1
+147	KAINE	She worked a tough negotiation with nations around the world to eliminate the Iranian nuclear weapons program without firing a shot.	1
+148	PENCE	Eliminate the Iranian nuclear weapons program?	0
+149	KAINE	Absolutely, without firing a shot.	0
+150	KAINE	And instead of 175,000 American troops deployed overseas, we now have 15,000.	0
+151	PENCE	Right and...	0
+152	KAINE	These are very, very good things.	0
+153	PENCE	And Iraq has been overrun by ISIS, because Hillary Clinton failed to renegotiate...	0
+154	KAINE	Well, if you want to put more American troops in Iraq, you can propose that.	0
+155	PENCE	Hillary Clinton -- Hillary Clinton -- Hillary Clinton failed to renegotiate a status of forces agreement...	0
+156	KAINE	No, that is incorrect.	0
+157	KAINE	That's incorrect.	0
+158	PENCE	And so we removed -- we removed all of our...	0
+159	QUIJANO	Gentlemen, we'll get to...	0
+160	SYSTEM	(CROSSTALK)	0
+161	PENCE	troops from Iraq, and ISIS was able to be conjured up in that vacuum.	0
+162	KAINE	But I'd like to correct...	0
+163	PENCE	and overrun vast areas of Iraq.	0
+164	KAINE	Governor, President Bush said we would leave Iraq at the end of 2011.	1
+165	KAINE	And, Elaine, Iraq didn't want our troops to stay, and they wouldn't give us the protection for our troops.	1
+166	KAINE	And guess what?	0
+167	KAINE	If a nation where our troops are serving does not want us to stay, we're not going to stay without their protection.	0
+168	PENCE	It was a failure of the secretary of state...	0
+169	QUIJANO	We need to move on to the next topic, gentlemen.	0
+170	KAINE	If Governor Pence wants to put more troops back in Iraq, that's...	0
+171	QUIJANO	There are a lot of people wondering in this country about the economy.	0
+172	QUIJANO	Let's turn to the issue of the economy.	0
+173	KAINE	OK.	0
+174	QUIJANO	According to the nonpartisan Committee for a Responsible Federal Budget, neither of your economic plans will reduce the growing $19 trillion gross national debt.	0
+175	QUIJANO	In fact, your plans would add even more to it.	0
+176	QUIJANO	Both of you were governors who balanced state budgets.	0
+177	QUIJANO	Are you concerned that adding more to the debt could be disastrous for the country.	0
+178	QUIJANO	Governor Pence?	0
+179	PENCE	I think the fact that -- that under this past administration was of which Hillary Clinton was a part, we've almost doubled the national debt is atrocious.	0
+180	PENCE	I mean, I'm very proud of the fact that -- I come from a state that works.	0
+181	PENCE	The state of Indiana has balanced budgets.	1
+182	PENCE	We cut taxes, we've made record investments in education and in infrastructure, and I still finish my term with $2 billion in the bank.	1
+183	PENCE	That's a little bit different than when Senator Kaine was governor here in Virginia.	0
+184	PENCE	He actually -- he actually tried to raise taxes by about $4 billion.	0
+185	PENCE	He left his state about $2 billion in the hole.	0
+186	PENCE	In the state of Indiana, we've cut unemployment in half; unemployment doubled when he was governor.	1
+187	PENCE	But I think he's a very fitting running mate for Hillary Clinton, because in the wake of a season where American families are struggling in this economy under the weight of higher taxes and Obamacare and the war on coal and the stifling avalanche of regulation coming out of this administration, Hillary Clinton and Tim Kaine want more of the same.	0
+188	PENCE	It really is remarkable that they actually are advocating a trillion dollars in tax increases, which I get that.	0
+189	PENCE	You tried to raise taxes here in Virginia and were unsuccessful.	0
+190	PENCE	But a trillion dollars in tax increases, more regulation, more of the same war on coal, and more of Obamacare that now even former President Bill Clinton calls Obamacare a crazy plan.	0
+191	PENCE	But Hillary Clinton and Tim Kaine want to build on Obamacare.	0
+192	PENCE	They want to expand it into a single-payer program.	0
+193	PENCE	And for all the world, Hillary Clinton just thinks Obamacare is a good start.	0
+194	PENCE	Look, Donald Trump and I have a plan to get this economy moving again just the way that it worked in the 1980s, just the way it worked in the 1960s, and that is by lowering taxes across the board for working families, small businesses and family farms, ending the war on coal that is hurting jobs and hurting this economy even here in Virginia, repealing Obamacare lock, stock, and barrel, and repealing all of the executive orders that Barack Obama has signed that are stifling economic growth in this economy.	0
+195	PENCE	We can get America moving again.	0
+196	PENCE	Put on top of that the kind of trade deals that'll put the American worker first, and you've got a prescription for real growth.	0
+197	PENCE	And when you get the economy growing, Elaine, that's when you can deal with the national debt.	0
+198	PENCE	When we get back to 3.5 percent to 4 percent growth with Donald Trump's plan will do, then we're going to have the resources to meet our nation's needs at home and abroad, and we're going to have the ability to bring down the national debt.	0
+199	QUIJANO	Senator Kaine?	0
+200	KAINE	Elaine, on the economy, there's a fundamental choice for the American electorate.	0
+201	KAINE	Do you want a "you're hired" president in Hillary Clinton or do you want a "you're fired" president in Donald Trump?	0
+202	KAINE	I think that's not such a hard choice.	0
+203	KAINE	Hillary and I have a plan that's on the table that's a "you're hired" plan.	0
+204	KAINE	Five components.	0
+205	KAINE	First thing we do is we invest in manufacturing, infrastructure, and research in the clean energy jobs of tomorrow.	0
+206	KAINE	Second thing is we invest in our workforce, from pre-K education to great teachers to debt-free college and tuition-free college for families that make less than $125,000 a year.	0
+207	KAINE	Third, we promote fairness by raising the minimum wage, so you can't work full-time and be under the poverty level, and by paying women equal pay for equal work.	0
+208	KAINE	Fourth, we promote small business growth, just as we've done in Virginia, to make it easier to start and grow small businesses.	0
+209	KAINE	Hillary and I each grew up in small-business families.	0
+210	KAINE	My dad, who ran an iron working and welding shop, is here tonight.	0
+211	KAINE	And, fifth, we have a tax plan that targets tax relief to middle- class individuals and small businesses and asks those at the very top who've benefited as we've come out of recession to pay more.	0
+212	KAINE	The Trump plan is a different plan.	0
+213	KAINE	It's a "you're fired" plan.	0
+214	KAINE	And there's two key elements to it.	0
+215	KAINE	First, Donald Trump said wages are too high.	1
+216	KAINE	And both Donald Trump and Mike Pence think we ought to eliminate the federal minimum wage.	0
+217	KAINE	Mike Pence, when he was in Congress, voted against raising the minimum wage above $5.15.	0
+218	KAINE	And he has been a one-man bulwark against minimum wage increases in Indiana.	0
+219	KAINE	The second component of the plan is massive tax breaks for the very top, trillions of dollars of tax breaks for people just like Donald Trump.	0
+220	KAINE	The problem with this, Elaine, is that's exactly what we did 10 years ago and it put the economy into the deepest recession -- the deepest recession since the 1930s.	0
+221	KAINE	Independent analysts say the Clinton plan would grow the economy by 10.5 million jobs.	1
+222	KAINE	The Trump plan would cost 3.5 million jobs.	1
+223	KAINE	And Donald Trump -- why would he do this?	0
+224	KAINE	Because his tax plan basically helps him.	0
+225	KAINE	And if he ever met his promise and he gave his tax returns to the American public like he said he would, we would see just how much his economic plan is really a Trump-first plan.	0
+226	QUIJANO	On that point, Governor Pence, recently the New York Times released part of Mr. Trump's 1995 tax return and reported that he could have avoided paying federal income taxes for years.	0
+227	QUIJANO	Yesterday, Mr. Trump said he brilliantly used the laws to pay as little tax as legally possible.	0
+228	QUIJANO	Does that seem fair to you?	0
+229	PENCE	Well, first, let me say, I appreciated the "you're hired," "you're fired" thing, Senator.	0
+230	PENCE	You use that a whole lot.	0
+231	PENCE	And I think your running mate used a lot of pre-done lines.	0
+232	PENCE	Look, what -- what you all just heard out there is more taxes, $2 trillion in more spending, more deficits, more debt, more government.	0
+233	PENCE	And if you think that's all working, then you look at the other side of the table.	0
+234	PENCE	I mean, the truth of the matter is, the policies of this administration, which Hillary Clinton and Senator Kaine want to continue, have run this economy into a ditch.	0
+235	PENCE	We're in the...	0
+236	KAINE	Fifteen million new jobs?	1
+237	PENCE	slowest economic recovery since the Great Depression.	0
+238	KAINE	Fifteen million new jobs?	1
+239	QUIJANO	Governor...	0
+240	SYSTEM	(CROSSTALK)	0
+241	PENCE	There are millions more people living in poverty today than the day that Barack Obama with Hillary Clinton at his side...	0
+242	KAINE	And the poverty level and the median income...	0
+243	PENCE	stepped into the Oval Office.	0
+244	KAINE	improved dramatically between 2014 and 2015.	0
+245	PENCE	You -- honestly, Senator, you can roll out the numbers and the sunny side, but I got to tell you, people in Scranton know different.	0
+246	PENCE	People in Fort Wayne, Indiana, know different.	0
+247	PENCE	I mean, this economy is struggling.	0
+248	PENCE	The answer to this economy is not more taxes.	0
+249	KAINE	But it's not the giveaway tax relief to the folks at the top.	0
+250	PENCE	It's not more spending...	0
+251	SYSTEM	(CROSSTALK)	0
+252	KAINE	I am interested to hear whether he'll defend his running mate's not releasing taxes and not paying taxes.	0
+253	PENCE	Absolutely I will.	0
+254	QUIJANO	Governor, with all due respect, the question was about whether it seems fair to you that Mr. Trump said he brilliantly used the laws to pay as little tax as legally possible.	0
+255	PENCE	Well, this is probably the difference between Donald Trump and Hillary Clinton and Senator Kaine.	0
+256	PENCE	And, I mean, Hillary Clinton and Senator Kaine -- God bless you for it, career public servants, that's great -- Donald Trump is a businessman, not a career politician.	0
+257	PENCE	He actually built a business.	0
+258	PENCE	Those tax returns that were -- that came out publicly this week show that he faced some pretty tough times 20 years ago.	0
+259	PENCE	But like virtually every other business, including the New York Times not too long ago, he used what's called net operating loss.	0
+260	PENCE	We have a tax code, Senator, that actually is designed to encourage entrepreneurship in this country.	0
+261	KAINE	But why won't he release his tax returns?	0
+262	PENCE	Well, we're answering the question about -- about a business thing, is he...	0
+263	KAINE	I do want to come back to that, but...	0
+264	PENCE	His tax returns -- his tax returns showed he went through a very difficult time, but he used the tax code just the way it's supposed to be used.	0
+265	PENCE	And he did it brilliantly.	0
+266	KAINE	How do you know that?	0
+267	KAINE	You haven't seen his tax returns.	0
+268	PENCE	He created a runway -- because he's created a business that's worth billions of dollars today.	0
+269	KAINE	How do you know that?	0
+270	PENCE	And with regard to paying taxes, this whole riff about not paying taxes and people saying he didn't pay taxes for years, Donald Trump has created tens of thousands of jobs.	0
+271	PENCE	And he's paid payroll taxes, sales taxes, property taxes...	0
+272	KAINE	Elaine, let me talk about something.	0
+273	QUIJANO	Senator, I'm going to give you about 30 seconds to respond, and I have question on Social Security for you.	0
+274	KAINE	OK.	0
+275	PENCE	The only issue on taxes -- Hillary Clinton is going to raise taxes, and Donald Trump and I are going to cut them.	0
+276	KAINE	Donald Trump started this campaign in 2014 and he said, "If I run for president, I will absolutely release my taxes."	0
+277	KAINE	He's broken his first...	0
+278	PENCE	And he will.	0
+279	KAINE	He's broken his first promise.	0
+280	KAINE	Second, he stood on the stage...	0
+281	PENCE	He hasn't broken his promise.	0
+282	PENCE	He said he's...	0
+283	KAINE	He stood on the stage last week and when Hillary said, you haven't been paying taxes, he said, "That makes me smart."	0
+284	KAINE	So it's smart not to pay for our military?	0
+285	KAINE	It's smart not to pay for veterans?	0
+286	KAINE	It's smart not to pay for teachers?	0
+287	KAINE	And I guess all of us who do pay for those things, I guess we're stupid.	0
+288	KAINE	And the last thing I'll say is this...	0
+289	PENCE	Senator, do you take all the deductions that you're entitled to?	0
+290	KAINE	The last thing -- the last thing I want to ask Governor Pence is...	0
+291	PENCE	I do.	0
+292	KAINE	Governor Pence had to give Donald Trump his tax returns to show he was qualified to be vice president.	0
+293	KAINE	Donald Trump must give the American public his tax returns to show that he's qualified to be president.	0
+294	KAINE	And he's breaking his promise.	0
+295	PENCE	Elaine, I have to respond to this.	0
+296	QUIJANO	You get very little time, 20 seconds.	0
+297	PENCE	I'll be -- I'll be very respectful.	0
+298	QUIJANO	Governor?	0
+299	PENCE	Look, Donald Trump has filed over 100 pages of financial disclosure, which is what the law requires.	0
+300	KAINE	But he said he would release his tax returns.	0
+301	QUIJANO	All right, Gentlemen...	0
+302	PENCE	The American people can review that.	0
+303	PENCE	And he's going -- Senator, he's going to release his tax returns when the audit is over...	0
+304	QUIJANO	I need to ask you about Social Security...	0
+305	KAINE	Richard Nixon released tax returns when he was under audit.	1
+306	PENCE	They're going to raise your taxes.	0
+307	PENCE	We're going to cut your taxes.	0
+308	QUIJANO	Gentlemen...	0
+309	KAINE	If you can't meet Nixon's standard...	0
+310	QUIJANO	The people at home cannot understand either one of you when you speak over each other.	0
+311	QUIJANO	I would please ask you to wait until it is that the other is finished.	0
+312	KAINE	All right.	0
+313	KAINE	We're having fun up here.	0
+314	QUIJANO	Senator Kaine, on the issue of Social Security, in 18 years, when the Social Security Trust Funds run out of money, you'll be 76.	0
+315	QUIJANO	The Committee for a Responsible Federal Budget estimates your benefits could be cut by as much as $7,500 per year.	0
+316	QUIJANO	What would your administration do to prevent this cut?	0
+317	KAINE	First, we're going to protect Social Security, which is one of the greatest programs that the American government has ever done.	0
+318	KAINE	It happened at a time when you would work your whole life, your whole life, raising your kids, working, being a Little League coach or a Sunday school teacher, and then you would retire into poverty.	0
+319	KAINE	And Social Security has enabled people to retire with dignity and overwhelmingly not be in poverty.	0
+320	KAINE	We have to keep it solvent.	0
+321	KAINE	And we will keep it solvent.	0
+322	KAINE	And we'll look for strategies like adjusting the payroll tax cap upward in order to do that.	0
+323	KAINE	Here's what Hillary and I will not do.	0
+324	KAINE	And I want to make this very plain.	0
+325	KAINE	We will never, ever engage in a risky scheme to privatize Social Security.	0
+326	KAINE	Donald Trump wrote a book and he said Social Security is a Ponzi scheme and privatization would be good for all of us.	0
+327	KAINE	And when Congressman Pence was in Congress, he was the chief cheerleader for the privatization of Social Security.	0
+328	KAINE	Even after President Bush stopped pushing for it, Congressman Pence kept pushing for it.	0
+329	KAINE	We're going to stand up against efforts to privatize Social Security.	0
+330	KAINE	And we'll look for ways to keep it solvent going forward, focusing primarily on the payroll tax cap.	0
+331	QUIJANO	Governor Pence, I'll give you an opportunity to respond.	0
+332	PENCE	Well, thanks, Elaine.	0
+333	PENCE	There they go again.	0
+334	PENCE	OK...	0
+335	KAINE	Go read -- go read the book.	0
+336	PENCE	All Donald Trump -- all Donald Trump and I have said about Social Security is we're going to meet our obligations to our seniors.	0
+337	PENCE	That's it.	0
+338	KAINE	Go read the book.	0
+339	PENCE	We've said we're going to meet the obligations of Medicare.	0
+340	PENCE	That's what this campaign is really about, Senator.	0
+341	PENCE	And I get, this is -- this is the old scare tactic that they roll out...	0
+342	KAINE	But -- but you have a voting record, Governor.	0
+343	PENCE	And I get all of that.	0
+344	PENCE	I just, look...	0
+345	KAINE	I...	0
+346	PENCE	There's a question that you asked a little bit earlier that I want to go back to.	0
+347	KAINE	I can't believe that you won't defend your own voting record.	0
+348	PENCE	I have to go back to.	0
+349	QUIJANO	We...	0
+350	PENCE	Well, look, I -- you're running with Hillary Clinton, who wants to raise taxes by $1 trillion, increase spending by $2 trillion, and you say you're going to keep the promises of Social Security.	0
+351	PENCE	Donald Trump and I are going to cut taxes.	0
+352	PENCE	We're going to -- we're going to -- we're going to...	0
+353	KAINE	You're not going to cut taxes.	1
+354	KAINE	You're going to raise taxes on the middle class.	1
+355	PENCE	reform government programs so we can meet the obligations of Social Security and Medicare.	0
+356	QUIJANO	All right.	0
+357	PENCE	Stay on the path that your party has us on, we're going to be in a -- in a mountain range of debt.	0
+358	PENCE	And we're going to face hard choices and...	0
+359	SYSTEM	(CROSSTALK)	0
+360	QUIJANO	Gentleman, I want to move on now.	0
+361	KAINE	You did ask this question about debt, and the debt explosion on the Trump plan is much, much bigger than anything on the Clinton side.	0
+362	QUIJANO	All right.	0
+363	QUIJANO	Let me move on now...	0
+364	PENCE	Three hundred and five (ph) economists said your plan is bad for the economy.	0
+365	QUIJANO	to the issue of law enforcement and race relations.	0
+366	QUIJANO	Law enforcement and race relations.	0
+367	QUIJANO	After the Dallas police shooting, Police Chief David Brown said, quote, "We're asking cops to do too much in this country.	0
+368	QUIJANO	Every societal failure we put it off on the cops to solve.	0
+369	QUIJANO	Not enough mental health funding, not enough drug addiction funding, schools fail, let's give it to the cops."	0
+370	QUIJANO	Do we ask too much of police officers in this country?	0
+371	QUIJANO	And how would you specifically address the chief's concerns?	0
+372	QUIJANO	Senator Kaine?	0
+373	KAINE	Elaine, I think that's a very fair comment.	0
+374	KAINE	I think we put a lot on police shoulders.	0
+375	KAINE	And this is something I got a lot of scar tissue and experience on.	0
+376	KAINE	I was a city councilman and mayor in Richmond.	0
+377	KAINE	And when I came in, we had one of the highest homicide rates in the United States.	0
+378	KAINE	We fought very, very hard over the course of my time in local office with our police department, and we reduced our homicide rate nearly in half.	0
+379	KAINE	And then when I was governor of Virginia, we worked hard, too.	0
+380	KAINE	And we did something we had really wanted to do.	0
+381	KAINE	For the first time ever, we cracked the top 10, 10 safest states, because we worked together.	0
+382	KAINE	Here's what I learned as a mayor and a governor.	0
+383	KAINE	The way you make communities safer and the way you make police safer is through community policing.	0
+384	KAINE	You build the bonds between the community and the police force, build bonds of understanding, and then when people feel comfortable in their communities, that gap between the police and the communities they serve narrows.	0
+385	KAINE	And when that gap narrows, it's safer for the communities and it's safer for the police.	0
+386	KAINE	That model still works across our country, but there are some other models that don't work, an overly aggressive, more militarized model.	0
+387	KAINE	Donald Trump recently said we need to do more stop-and-frisk around the country.	0
+388	KAINE	That would be a big mistake because it polarizes the relationship between the police and the community.	0
+389	KAINE	So here's what we'll do.	0
+390	KAINE	We'll focus on community policing.	0
+391	KAINE	We will focus on -- and Hillary Clinton has rolled out a really comprehensive mental health reform package that she worked on with law enforcement professionals, and we will also fight the scourge of gun violence in the United States.	0
+392	KAINE	I'm a gun-owner.	0
+393	KAINE	I'm a strong Second Amendment supporter.	0
+394	KAINE	But I've got a lot of scar tissue, because when I was governor of Virginia, there was a horrible shooting at Virginia Tech, and we learned that through that painful situation that gaps in the background record check system should have been closed and it could have prevented that crime, and so we're going to work to do things like close background record checks.	0
+395	KAINE	And if we do, we won't have the tragedies that we did.	0
+396	KAINE	One of those killed at Virginia Tech was a guy named Liviu Librescu.	0
+397	KAINE	He was a 70-plus-year-old Romanian Holocaust survivor.	0
+398	KAINE	He had survived the Holocaust.	0
+399	KAINE	Then he survived the Soviet Union takeover of his country.	0
+400	KAINE	But then he was a visiting professor at Virginia Tech, and he couldn't survive the scourge of gun violence.	0
+401	KAINE	We can support the Second Amendment and do things like background record checks and make us safer, and that will make police safer, too.	0
+402	QUIJANO	Governor Pence?	0
+403	PENCE	You know, my uncle was a cop, a career cop, on the beat in downtown Chicago.	0
+404	PENCE	He was my hero when I was growing up.	0
+405	PENCE	And we'd go up to visit my dad's family in Chicago.	0
+406	PENCE	My three brothers and I would marvel at my uncle when he would come out in his uniform, sidearm at his side.	0
+407	PENCE	Police officers are the best of us.	0
+408	PENCE	And the men and women, white, African-American, Asian, Latino, Hispanic, they put their lives on the line every single day.	0
+409	PENCE	And let my say, at the risk of agreeing with you, community policing is a great idea.	0
+410	PENCE	It's worked in the Hoosier state.	0
+411	PENCE	And we fully support that.	0
+412	PENCE	Donald Trump and I are going to make sure that law enforcement have the resources and the tools to be able to really restore law and order to the cities and communities in this nation.	0
+413	PENCE	It's probably -- probably why the 330,000 members of the Fraternal Order of Police endorsed Donald Trump as the next president of the United States of America, because they see his commitment to them.	0
+414	PENCE	They see his commitment to law and order.	0
+415	PENCE	But they also -- they also hear the bad mouthing, the bad mouthing that comes from people that seize upon tragedy in the wake of police action shootings as -- as a reason to -- to use a broad brush to accuse law enforcement of -- of implicit bias or institutional racism.	0
+416	PENCE	And that really has got to stop.	0
+417	PENCE	I mean, when an African-American police officer in Charlotte named Brentley Vinson, an all-star football player who went to Liberty University here in the state, came home, followed his dad into law enforcement, joined the force in Charlotte, joined the force in Charlotte in 2014, was involved in a police action shooting that claimed the life of Keith -- Keith Lamont Scott, it was a tragedy.	0
+418	PENCE	I mean, I -- we -- we mourn with those who mourn.	0
+419	PENCE	We -- we grieve with those who grieve.	0
+420	PENCE	And we're saddened at the loss of life.	0
+421	PENCE	But Hillary Clinton actually referred to that moment as an example of implicit bias in the police force, where -- where she used -- when she was asked in the debate a week ago whether there was implicit bias in law enforcement, her only answer was that there's implicit bias in everyone in the United States.	1
+422	PENCE	I just think...	0
+423	KAINE	Can I -- can I explain...	0
+424	PENCE	I just think what we ought to do is we ought to stop seizing on these moments of tragedy.	0
+425	PENCE	We ought to assure the public that we'll have a full and complete and transparent investigation whenever there's a loss of life because of police action.	0
+426	PENCE	But, Senator, please, you know, enough of this seeking every opportunity to demean law enforcement broadly by making the accusation of implicit bias every time tragedy occurs.	0
+427	KAINE	Elaine -- Elaine, people shouldn't be afraid to bring up issues of bias in law enforcement.	0
+428	KAINE	And if you're afraid to have...	0
+429	PENCE	I'm not afraid to bring that up.	0
+430	KAINE	And if -- if you're afraid to have the discussion, you'll never solve it.	0
+431	KAINE	And so here's -- here's an example, heartbreaking.	0
+432	KAINE	We would agree this was a heartbreaking example.	0
+433	KAINE	The guy, Philando Castile, who was killed in St. Paul, he was a worker, a valued worker in a local school.	0
+434	KAINE	And he was killed for no apparent reason in an incident that will be discussed and will be investigated.	0
+435	KAINE	But when folks went and explored this situation, what they found is that Philando Castile, who was a -- they called him Mr. Rogers with Dreadlocks in the school that he worked.	0
+436	KAINE	The kids loved him.	0
+437	KAINE	But he had been stopped by police 40 or 50 times before that fatal incident.	0
+438	KAINE	And if you look at sentencing in this country, African-Americans and Latinos get sentenced for the same crimes at very different rates.	0
+439	PENCE	We need criminal justice reform.	0
+440	KAINE	Well, we do.	0
+441	PENCE	Indiana has passed criminal justice reform.	0
+442	KAINE	But I just want to say, those who say that we should not...	0
+443	PENCE	But that's not what you're talking about.	0
+444	KAINE	we should not be able to bring up and talk about bias in the system, we'll never solve the problem...	0
+445	QUIJANO	Governor Pence...	0
+446	SYSTEM	(CROSSTALK)	0
+447	QUIJANO	Governor Pence...	0
+448	PENCE	Senator, when African-American police officers involved in a police action shooting involving an African-American, why would Hillary Clinton accuse that African-American police officer of implicit bias?	1
+449	KAINE	Well, I guess I can't believe you are defending the position that there is no bias and it's a topic we don't even...	0
+450	SYSTEM	(CROSSTALK)	0
+451	QUIJANO	Governor Pence, I have a question on that point.	0
+452	PENCE	I did not make that statement.	0
+453	PENCE	I...	0
+454	QUIJANO	Your fellow Republican, Governor Pence, Senator Tim Scott, who is African-American, recently spoke on the Senate floor.	0
+455	QUIJANO	He said he was stopped seven times by law enforcement in one year.	0
+456	KAINE	A U.S. senator.	0
+457	QUIJANO	He said, "I have felt the anger, the frustration, the sadness, and the humiliation that comes with feeling like you're being targeted for nothing more than being just yourself."	0
+458	QUIJANO	What would you say to Senator Scott about his experiences?	0
+459	PENCE	Well, I have the deepest respect for Senator Scott, and he's a close friend.	0
+460	PENCE	And what I would say is that we -- we need to adopt criminal justice reform nationally.	0
+461	PENCE	I -- I signed criminal justice reform in the state of Indiana, Senator, and we're very proud of it.	0
+462	PENCE	I worked when I was Congress on a second chance act.	0
+463	PENCE	We have got to do a better job recognizing and correcting the errors in the system that do reflect on institutional bias in criminal justice.	0
+464	PENCE	But what -- what -- what Donald Trump and I are saying is let's not have the reflex of assuming the worst of men and women in law enforcement.	0
+465	PENCE	We truly do believe that law enforcement is not a force for racism or division in our country...	0
+466	KAINE	Elaine, can I...	0
+467	QUIJANO	So what would you say to Senator Scott, Governor?	0
+468	PENCE	Law enforcement in this country is a force for good.	0
+469	PENCE	They are the -- they truly are people that put their lives on the line every single day.	0
+470	PENCE	But I would -- I would suggest to you, what we need to do is assert a stronger leadership at the national level to support law enforcement.	0
+471	PENCE	You just heard Senator Kaine reject stop-and-frisk.	0
+472	PENCE	Well, I would suggest to you that the families that live in our inner cities that are besieged by crime...	0
+473	KAINE	Elaine, let me -- let me...	0
+474	QUIJANO	Governor, the question is about Senator Scott.	0
+475	QUIJANO	What would -- what would you tell Senator Scott?	0
+476	KAINE	Elaine, if I could -- if I could jump in.	0
+477	KAINE	I've heard Senator Scott make that eloquent plea.	0
+478	KAINE	And look, criminal justice is about respecting the law and being respected by the law.	0
+479	KAINE	So there is a fundamental respect issue here.	0
+480	KAINE	And I just want to talk about the tone that's set from the top.	0
+481	KAINE	Donald Trump during his campaign has called Mexicans rapists and criminals.	0
+482	KAINE	He's called women slobs, pigs, dogs, disgusting.	0
+483	KAINE	I don't like saying that in front of my wife and my mother.	0
+484	KAINE	He attacked an Indiana-born federal judge and said he was unqualified to hear a federal lawsuit because his parents were Mexican.	0
+485	KAINE	He went after John McCain, a POW, and said he wasn't hero because he'd been captured.	0
+486	KAINE	He said African-Americans are living in Hell.	0
+487	KAINE	And he perpetrated this outrageous and bigoted lie that President Obama is not a U.S. citizen.	0
+488	KAINE	If you want to have a society where people are respected and respect laws, you can't have somebody at the top who demeans every group that he talks about.	0
+489	KAINE	And I just -- again, I cannot believe that Governor Pence will defend the insult-driven campaign that Donald Trump has run.	0
+490	QUIJANO	All right.	0
+491	QUIJANO	I want to turn to our next segment now, immigration.	0
+492	QUIJANO	Your running mates have both said that undocumented immigrants who have committed violent crimes should be deported.	0
+493	QUIJANO	What would you tell the millions of undocumented immigrants who have not committed violent crimes?	0
+494	QUIJANO	Governor Pence?	0
+495	PENCE	Donald Trump's laid out a plan to end illegal immigration once and for all in this country.	0
+496	PENCE	We've been talking it to death for 20 years.	0
+497	PENCE	Hillary Clinton and Tim Kaine want to continue the policies of open borders, amnesty, catch and release, sanctuary cities, all the things that are driving -- that are driving wages down in this country, Senator, and also too often with criminal aliens in the country, it's bringing heartbreak.	0
+498	PENCE	But I -- Donald Trump has a plan that he laid out in Arizona, that will deal systemically with illegal immigration, beginning with border security, internal enforcement.	0
+499	PENCE	It's probably why for the first time in the history of Immigration and Customs Enforcement their union actually endorsed Donald Trump as the next president of the United States, because they know they need help to enforce the laws of this country.	0
+500	PENCE	And Donald Trump has laid out a priority to remove criminal aliens, remove people that have overstayed their visas.	0
+501	PENCE	And -- and once we have accomplished all of that, which will -- which will strengthen our economy, strengthen the rule of law in the country and make our communities safer once the criminal aliens are out, then we'll deal with those that remain.	0
+502	PENCE	But I have to tell you, I just -- I was listening to the avalanche of insults coming out of Senator Kaine a minute ago.	0
+503	KAINE	These were Donald's -- hold on a second, Governor.	0
+504	SYSTEM	(CROSSTALK)	0
+505	PENCE	It's my time, Senator.	0
+506	QUIJANO	It is, in fact, the governor's time.	0
+507	KAINE	I apologize.	0
+508	KAINE	It's your two minutes.	0
+509	KAINE	I apologize.	0
+510	PENCE	Thanks.	0
+511	PENCE	I forgive you.	0
+512	PENCE	He says ours is an insult-driven campaign.	0
+513	PENCE	Did you all just hear that?	0
+514	PENCE	Ours is an insult-driven campaign?	0
+515	PENCE	I mean, to be honest with you, if Donald Trump had said all of the things that you've said he said in the way you said he said them, he still wouldn't have a fraction of the insults that Hillary Clinton leveled when she said that half of our supporters were a basket of deplorables.	0
+516	PENCE	It's -- she said they were irredeemable, they were not American.	0
+517	PENCE	I mean, it's extraordinary.	0
+518	PENCE	And then she labeled one after another "ism" on millions of Americans who believe that we can have a stronger America at home and abroad, who believe we can get this economy moving again, who believe that we can end illegal immigration once and for all.	0
+519	PENCE	So, Senator, this -- this insult-driven campaign, I mean...	0
+520	QUIJANO	Governor...	0
+521	PENCE	That's small potatoes compared to Hillary Clinton...	0
+522	QUIJANO	Senator Kaine?	0
+523	PENCE	calling half of Donald Trump's supporters a basket of deplorables.	0
+524	KAINE	Hillary Clinton said something on the campaign trail, and the very next day, she said, you know what, I shouldn't have said that.	0
+525	PENCE	She said she shouldn't have said half.	0
+526	QUIJANO	Governor, this is Senator Kaine's two minutes, please.	0
+527	KAINE	Yeah, that's right, so now we're even.	0
+528	PENCE	Yeah.	0
+529	SYSTEM	(LAUGHTER)	0
+530	KAINE	Look for Donald trump apologizing to John McCain for saying he wasn't a hero...	0
+531	PENCE	Oh...	0
+532	KAINE	to Donald Trump apologizing for calling women slobs, pigs, dogs, disgusting.	0
+533	PENCE	She apologized for saying "half."	0
+534	QUIJANO	Governor.	0
+535	QUIJANO	It is his two minutes, please.	0
+536	KAINE	Did Donald Trump apologize for taking after somebody in a Twitter war and making fun of her weight?	0
+537	KAINE	Did he apologize for saying African-Americans are living in Hell?	0
+538	KAINE	Did he apologize for saying President Obama was not even a citizen of the United States?	0
+539	KAINE	You will look in vain to see Donald Trump ever taking responsibility for anybody and apologizing.	0
+540	KAINE	Immigration.	0
+541	KAINE	There's two plans on the table.	0
+542	KAINE	Hillary and I believe in comprehensive immigration reform.	0
+543	KAINE	Donald Trump believes in deportation nation.	0
+544	KAINE	You've got to pick your choice.	0
+545	KAINE	Hillary and I want a bipartisan reform that will put keeping families together as the top goal, second, that will help focus enforcement efforts on those who are violent, third, that will do more border control, and, fourth, that will provide a path to citizenship for those who work hard, pay taxes, play by the rules, and take criminal background record checks.	0
+546	KAINE	That's our proposal.	0
+547	KAINE	Donald Trump proposes to deport 16 million people, 11 million who are here without documents.	0
+548	KAINE	And both Donald Trump and Mike Pence want to get rid of birthright citizenship.	0
+549	KAINE	So if you're born here, but your parents don't have documents, they want to eliminate that.	0
+550	KAINE	That's another 4.5 million people.	0
+551	KAINE	These guys -- and Donald Trump have said it -- deportation force.	0
+552	KAINE	They want to go house to house, school to school, business to business, and kick out 16 million people.	0
+553	KAINE	And I cannot believe...	0
+554	PENCE	That's nonsense.	0
+555	PENCE	That's nonsense.	0
+556	KAINE	I cannot believe that Governor Pence would sit here and defend his running mate's claim that we should create a deportation force to -- so that they'll all be gone.	0
+557	PENCE	Senator, we have a deportation force.	0
+558	PENCE	It's called Immigrations and Customs Enforcement.	0
+559	PENCE	And the union for Immigrations and Customs Enforcement for the first time in their history endorsed Donald Trump to be the next president of the United States of America.	0
+560	KAINE	So you like the 16 million deportations?	0
+561	PENCE	Senator, that's -- that's nonsense.	0
+562	PENCE	Look, what you just heard is they have a plan for open borders, amnesty.	1
+563	PENCE	That's...	0
+564	SYSTEM	(CROSSTALK)	0
+565	KAINE	Our plan is like Ronald Reagan's plan from 1986.	0
+566	PENCE	They call it comprehensive immigration reform -- they call it comprehensive immigration reform on Capitol Hill.	0
+567	PENCE	We all know the routine.	0
+568	PENCE	It's amnesty.	0
+569	PENCE	And you heard one of the last things he mentioned was border security.	0
+570	PENCE	That's how Washington always plays it.	0
+571	KAINE	No, I...	0
+572	PENCE	They always say we're going to do this, we're going to do that, we'll eventually get the border...	0
+573	SYSTEM	(CROSSTALK)	0
+574	KAINE	border security three years ago, and Governor Pence was against it.	0
+575	QUIJANO	Governor, Mr. Trump has said...	0
+576	PENCE	Ronald Reagan said a nation without borders is not a nation.	0
+577	PENCE	Donald Trump is committed to restoring the borders of this nation and securing our nation, enforcing our laws.	0
+578	QUIJANO	So, Governor, how would these millions of undocumented immigrants leave?	0
+579	QUIJANO	Would they be forcibly removed?	0
+580	PENCE	Well, I think Donald Trump laid out a series of priorities that doesn't ends with border security.	0
+581	PENCE	It begins with border security.	0
+582	PENCE	And after we secure the border, not only build a wall, but beneath the ground and in the air, we do internal enforcement.	0
+583	PENCE	But he said the focus has to be on criminal aliens.	0
+584	PENCE	We just -- we just had a conversation about law enforcement.	0
+585	PENCE	We just had a conversation about the -- the violence that's besetting our cities.	0
+586	PENCE	The reality is that there's heartbreak and tragedy that has struck American families because people that came into this country illegally are now involved in criminal enterprise and activity.	0
+587	PENCE	And we don't have the resources or the will to deport them systemically.	0
+588	PENCE	Donald Trump has said we're going to move those people out, people who've overstayed their visas.	0
+589	PENCE	We're going to enforce the law of this country.	0
+590	PENCE	We're going to strengthen Immigrations and Customs Enforcements with more resources and more personnel to be able to do that.	0
+591	PENCE	And then Donald Trump has made it clear, once we've done all of those things, that we're going to reform the immigration system that we have...	0
+592	KAINE	I just have to correct Governor Pence....	0
+593	PENCE	where people can come into this country.	0
+594	KAINE	I have to...	0
+595	PENCE	That's the order that you should do it.	0
+596	PENCE	Border security, removing criminal aliens, upholding with law, and then -- but then, Senator, I'll work you when you go back to the Senate, I promise you, we'll work you to reform the immigration system.	0
+597	KAINE	I look forward to working together in whatever capacities we serve in.	0
+598	KAINE	But I just want to make it very, very clear that he's trying to fuzz up what Donald Trump has said.	0
+599	KAINE	When Donald Trump spoke in Phoenix, he looked the audience in the eye and he said, no, we're building a wall, and we're deporting everybody.	0
+600	KAINE	He said, quote, "They will all be gone."	0
+601	KAINE	They will all be gone.	0
+602	KAINE	And this is one of these ones where you can just go to the tape on it and see what Donald Trump has said.	0
+603	KAINE	And to add...	0
+604	PENCE	He's talking about criminal aliens.	0
+605	KAINE	And to add to it, and to add to it, and to add to it, we are a nation of immigrants.	0
+606	KAINE	Mike Pence and I both are descended from immigrant families.	0
+607	KAINE	Some things, you know, maybe weren't said so great about the Irish when they came, but we've done well by absorbing immigrants, and it's made our nation stronger.	0
+608	KAINE	When Donald Trump says Mexicans are rapists and criminals, Mexican immigrants, when Donald Trump says about your judge, a Hoosier judge, he said that Judge Curiel was unqualified to hear a case because his parents were Mexican, I can't imagine how you could defend that.	0
+609	QUIJANO	Gentleman, I'd like to shift now to the threat of terrorism.	0
+610	QUIJANO	Do you think the world today is a safer or more dangerous place than it was eight years ago?	0
+611	QUIJANO	Has the terrorist threat increased or decreased?	0
+612	QUIJANO	Senator Kaine?	0
+613	KAINE	The terrorist threat has decreased in some ways, because bin Laden is dead.	0
+614	KAINE	The terrorist threat has decreased in some ways because an Iranian nuclear weapons program has been stopped.	0
+615	KAINE	The terrorist threat to United States troops has been decreased in some ways because there's not 175,000 in a dangerous part of the world.	0
+616	KAINE	There's only 15,000.	0
+617	KAINE	But there are other parts of the world that are challenging.	0
+618	KAINE	Let me tell you this: To beat terrorism, there's only one candidate who can do it, and it's Hillary Clinton.	0
+619	KAINE	Remember, Hillary Clinton was the senator from New York on 9/11.	0
+620	KAINE	She was there at the World Trade Center when they were still searching for victims and survivors.	0
+621	KAINE	That's seared onto her, the need to beat terrorism.	0
+622	KAINE	And she's got a plan to do it.	0
+623	KAINE	She was part of the national security team that wiped out bin Laden.	0
+624	KAINE	Here's her plan to defeat ISIL.	0
+625	KAINE	First, we've got to keep taking out their leaders on the battlefield.	0
+626	KAINE	She was part of the team that got bin Laden, and she'll lead the team that will get Abu Bakr al-Baghdadi, the head of ISIS.	0
+627	KAINE	Second, we've got to disrupt financing networks, third, disrupt their ability to recruit on the Internet, in their safe havens.	0
+628	KAINE	But, fourth, we also have to work with allies to share and surge intelligence.	0
+629	KAINE	That's the Hillary Clinton plan; she's got the experience to do it.	0
+630	KAINE	Donald Trump.	0
+631	KAINE	Donald Trump can't start a Twitter war with Miss Universe without shooting himself in the foot.	0
+632	KAINE	Donald Trump doesn't have a plan.	0
+633	KAINE	He said, I have a secret plan," and then he said, Um, I know more than all the generals about ISIL.	0
+634	KAINE	And then he said, "I'm going to call the generals to help me figure out a plan."	0
+635	KAINE	And finally he said, "I'm going to fire all the generals."	0
+636	KAINE	He doesn't have a plan.	0
+637	KAINE	But he does have dangerous ideas.	0
+638	KAINE	Here's four.	0
+639	KAINE	He trash talks the military.	0
+640	KAINE	The military is a disaster, John McCain's no hero, the generals need all to be fired, and I know more than them.	0
+641	KAINE	He wants to tear up alliances.	0
+642	KAINE	NATO is obsolete, and we'll only work together with Israel if they pay "big league."	0
+643	KAINE	Third, he loves dictators.	0
+644	KAINE	He's got kind of a personal Mount Rushmore, Vladimir Putin, Kim Jong-un, Moammar Gadhafi...	0
+645	PENCE	Oh, please.	0
+646	PENCE	Come on.	0
+647	KAINE	and Saddam Hussein.	0
+648	KAINE	And last and most dangerously, Donald Trump believes -- Donald Trump believes that the world will be safer if more nations have nuclear weapons.	1
+649	KAINE	He's said Saudi Arabia should get them, Japan should get them, Korea should get them.	1
+650	KAINE	And when he was confronted with this, and told, wait a minute, terrorists could get those, proliferation could lead to nuclear war, here's what Donald Trump said, and I quote: "Go ahead, folks, enjoy yourselves."	1
+651	KAINE	I'd love to hear Governor Pence tell me what's so enjoyable or comical about nuclear war.	0
+652	QUIJANO	Governor Pence?	0
+653	PENCE	Did you work on that one a long time?	0
+654	PENCE	Because that had a lot of really creative lines in it.	0
+655	KAINE	Well, I'm going to see if you can defend any of it.	0
+656	PENCE	Well, look, I can defend -- I -- I -- I can -- I can make very clear to the American people, after traveling millions of miles as our secretary of state, after being the architect of the foreign policy of this administration, America is less safe today than it was the day that Barack Obama became president of the United States.	0
+657	PENCE	It's absolutely inarguable.	0
+658	PENCE	We've weakened America's place in the world.	0
+659	PENCE	It's been a combination of factors, but mostly it's been a lack of leadership.	0
+660	PENCE	I mean, I will give you -- and I was in Washington, D.C., on 9/11.	0
+661	PENCE	I saw the clouds of smoke rise from the Pentagon.	0
+662	KAINE	I was in Virginia where the Pentagon's...	0
+663	SYSTEM	(CROSSTALK)	0
+664	PENCE	I know you were.	0
+665	PENCE	We all lived through that day as a nation.	0
+666	PENCE	It was heartbreaking.	0
+667	PENCE	And I want to give this president credit for bringing Osama bin Laden to justice.	0
+668	PENCE	But the truth is, Osama bin Laden led Al Qaida.	0
+669	PENCE	Our primary threat today is ISIS.	0
+670	PENCE	And because Hillary Clinton failed to renegotiate a status of forces agreement that would have allowed some American combat troops to remain in Iraq and secure the hard fought gains the American soldier had won by 2009, ISIS was able to be literally conjured up out of the desert, and it's overrun vast areas that the American soldier had won in Operation Iraqi Freedom.	0
+671	PENCE	My heart breaks for the likes of Lance Cpl.	0
+672	PENCE	Scott Zubowski.	0
+673	PENCE	He fell in Fallujah in 2005.	0
+674	PENCE	He fought hard through some of the most difficult days in Operation Iraqi Freedom, and he paid the ultimate sacrifice to defend our freedom and secure that nation.	0
+675	PENCE	And that nation was secured in 2009.	0
+676	PENCE	But because Hillary Clinton and Barack Obama failed to provide a status of forces agreement and leave sufficient troops in there, we are back at war.	0
+677	PENCE	The president just ordered more troops on the ground.	0
+678	PENCE	We are back at war in Iraq.	0
+679	PENCE	And Scott Zubowski, whose mom would always come to Memorial Day events in Newcastle, Indiana, to see me, and I'd give her a hug and tell her we're never going to forget her son and we never will, Scott Zubowski and the sacrifices the American soldier made were squandered in Iraq because this administration created a vacuum in which ISIS was able to grow.	0
+680	PENCE	And a reference to the Iranian deal, the Iranian deal that Hillary Clinton initiated, $150 billion to the radical mullahs in Iran.	0
+681	KAINE	Stopping a nuclear weapons program without firing a shot?	0
+682	PENCE	You didn't stop the nuclear weapons program.	0
+683	KAINE	Yes, we did.	0
+684	PENCE	You essentially...	0
+685	KAINE	Even the Israeli military says it stopped.	0
+686	PENCE	guaranteed that Iran will someday become a nuclear power, because there's no limitations once the period of time of the treaty comes off.	0
+687	QUIJANO	Governor Pence, Mr. Trump has proposed extreme vetting of immigrants from parts of the world that export terrorism.	0
+688	QUIJANO	But that does not address many of the recent terrorist attacks in the United States, such as the Orlando nightclub massacre and the recent bombings in New York and New Jersey.	0
+689	QUIJANO	Those were homegrown, committed by U.S. citizens and legal residents.	0
+690	QUIJANO	What specific tools would you use to prevent those kinds of attacks?	0
+691	PENCE	Well, I think it's -- I think it's a great question, Elaine, but it really does begin with us reforming our immigration system and putting the interests, particularly the safety and security of the American people, first.	0
+692	PENCE	I mean, Donald Trump has called for extreme vetting for people coming into this country so that we don't bring people into the United States who are hostile to our Bill of Rights freedoms, who are hostile to the American way life.	0
+693	PENCE	But also, Donald Trump and I are committed to suspending the Syrian refugee program and programs and immigration from areas of the world that have been compromised by terrorism.	0
+694	PENCE	Hillary Clinton and Tim Kaine want to increase the Syrian refugee program by 500...	0
+695	SYSTEM	(CROSSTALK)	0
+696	KAINE	Elaine, I want to...	0
+697	SYSTEM	(CROSSTALK)	0
+698	QUIJANO	Governor, the question was about homegrown.	0
+699	PENCE	Yeah, and so -- but first, you know, let's make sure we're putting the safety and security of the American people first instead of Hillary Clinton expanding the Syrian refugee program...	0
+700	KAINE	Or instead of you violating the Constitution by blocking people based on their national origin rather than whether they're dangerous.	0
+701	PENCE	That's not -- that's absolutely false.	0
+702	KAINE	That's what the Seventh Circuit decided just -- here's the difference, Elaine.	0
+703	PENCE	The Seventh Circuit...	0
+704	KAINE	We have different views on -- on refugee issues and on immigration.	0
+705	KAINE	Hillary and I want to do enforcement based on, are people dangerous?	0
+706	KAINE	These guys say all Mexicans are bad.	0
+707	PENCE	That's absolutely false.	0
+708	KAINE	And with respect to refugees, we want to keep people out if they're dangerous.	0
+709	KAINE	Donald Trump said keep them out if they're Muslim.	0
+710	KAINE	Mike Pence...	0
+711	PENCE	Absolutely...	0
+712	KAINE	put a program in place to keep them out if they're from Syria.	0
+713	KAINE	And yesterday an appellate court with three Republican judges struck down the Pence plan...	0
+714	PENCE	Right.	0
+715	PENCE	Right.	0
+716	KAINE	and said it was discriminatory...	0
+717	PENCE	And those judges -- those judges said...	0
+718	KAINE	We should focus upon danger, not upon discrimination.	0
+719	QUIJANO	Governor?	0
+720	PENCE	Elaine, to your point, those judges said it was because there wasn't any evidence yet that -- that ISIS had infiltrated the United States.	0
+721	PENCE	Well, Germany just arrested three Syrian refugees that were connected to ISIS.	0
+722	SYSTEM	(CROSSTALK)	0
+723	KAINE	But they told you there's a right way and a wrong way to do it.	0
+724	PENCE	But, look, if you're going to be critical of me on that, that's fair game.	0
+725	PENCE	I will tell you, after two Syrian refugees were involved in the attack in Paris that is called Paris' 9/11, as governor of the state of Indiana, I have no higher priority than the safety and security of the people of my state.	0
+726	KAINE	But, Governor Pence...	0
+727	PENCE	So you bet I suspended that program.	0
+728	KAINE	But, Governor Pence, I just...	0
+729	PENCE	And I stand by that decision.	0
+730	PENCE	And if I'm vice president of the United States or Donald Trump is president, we're going to put the safety and security of the American people first.	0
+731	KAINE	Sure.	0
+732	KAINE	Can we just be clear -- Hillary and I will do immigration enforcement and we'll vet refugees based on whether they're dangerous or not.	0
+733	KAINE	We won't do it based on discriminating against you from the country you come from or the religion that you practice.	0
+734	PENCE	But the problem with that...	0
+735	KAINE	That is completely antithetical to the Jeffersonian values of...	0
+736	SYSTEM	(CROSSTALK)	0
+737	PENCE	Elaine, the director of the FBI, our homeland security, said we can't know for certain who these people are coming from Syria.	0
+738	KAINE	Yes, we can, and when we don't let them know, we don't let them in.	0
+739	PENCE	So -- the FBI...	0
+740	KAINE	When we don't know who they are, we don't let them in.	0
+741	PENCE	The FBI and homeland security said we can't know for certain.	0
+742	PENCE	You've got to err on the side of the safety and security of the American people, Senator.	0
+743	PENCE	I understand the...	0
+744	KAINE	By trashing all Syrians or trashing all Muslims?	0
+745	PENCE	the U.N. wants us to expand the Syrian refugee program...	0
+746	QUIJANO	Senator Kaine, let me ask you this.	0
+747	QUIJANO	Secretary Clinton...	0
+748	PENCE	We're going to put the safety and security of the American people first.	0
+749	QUIJANO	has talked about an intelligence surge.	0
+750	KAINE	Yes.	0
+751	QUIJANO	What exactly would an intelligence surge look like?	0
+752	QUIJANO	And how would that help identify terrorists with no operational connection to a foreign terrorist organization?	0
+753	KAINE	Intelligence surge is two-thirds, Elaine.	0
+754	KAINE	It's two things.	0
+755	KAINE	It's, first, dramatically expanding our intelligence capacities by hiring great professionals, but also we've got some of the best intel and cyber employees in the world right here in the United States working for many of our private sector companies.	0
+756	KAINE	So it involves increasing our own workforce, but striking great partnerships with some of our cyber and intel experts in the private sector so that we can, consistent with constitutional principles, gather more intelligence.	0
+757	KAINE	But the second piece of this is really, really important.	0
+758	KAINE	It also means creating stronger alliances, because you gather intelligence and then you share your intelligence back and forth with allies.	0
+759	KAINE	And that's how you find out who may be trying to recruit, who may be trying to come to one country or the next.	0
+760	KAINE	Alliances are critical.	0
+761	KAINE	That's why Donald Trump's claim that he wants to -- that NATO is obsolete and that we need to get rid of NATO is so dangerous.	1
+762	PENCE	That's not his plan.	0
+763	KAINE	Well, he said NATO is obsolete.	0
+764	KAINE	And, look, if you put aside -- push aside your alliances, who you're going to share intelligence with?	0
+765	KAINE	Hillary Clinton is the secretary of state who knows how to build alliances.	0
+766	KAINE	She built the sanctions regime around the word that stopped the Iranian nuclear weapons program.	0
+767	KAINE	And that's what an intelligence surge means.	0
+768	KAINE	Better skill and capacity, but also better alliances.	0
+769	QUIJANO	All right.	0
+770	QUIJANO	I'd like to turn now to the tragedy in Syria.	0
+771	QUIJANO	Two hundred fifty thousand...	0
+772	PENCE	Can I speak about the cybersecurity surge at all?	0
+773	QUIJANO	You can -- you can have 30 seconds, Governor, quickly, please.	0
+774	PENCE	First, Donald Trump just spoke about this issue this week.	0
+775	PENCE	We have got to bring together the best resources of this country to understand that cyber warfare is the new warfare of the asymmetrical enemies that we face in this country.	0
+776	PENCE	And I look forward if I'm privileged to be in this role of working with you in the Senate to make sure that we resource that effort.	0
+777	KAINE	We will work together in whatever roles we inhabit.	0
+778	PENCE	We have an intelligence, sir (ph).	0
+779	PENCE	But I will also tell you that it's important in this moment to remember that Hillary Clinton had a private server in her home that had classified information on it...	0
+780	QUIJANO	And I don't -- 30 seconds is on up.	0
+781	PENCE	about drone strikes, e-mails from the president of the United States of America were on there.	0
+782	QUIJANO	Right.	0
+783	PENCE	Her private server was subject to being hacked by foreign...	0
+784	SYSTEM	(CROSSTALK)	0
+785	QUIJANO	I'd like to ask you about Syria, Governor.	0
+786	PENCE	We could put cybersecurity first if we just make sure the next secretary of state doesn't have a private server.	0
+787	SYSTEM	(CROSSTALK)	0
+788	KAINE	And all investigation concluded that not one reasonable prosecutor would take any additional step.	1
+789	KAINE	You don't get to decide the rights and wrongs of this.	0
+790	KAINE	We have a justice system that does that.	0
+791	KAINE	And a Republican FBI director did an investigation and concluded that...	1
+792	QUIJANO	All right, we are moving on now.	0
+793	QUIJANO	Two hundred fifty thousand people...	0
+794	PENCE	If your son or my son handled classified information the way Hillary Clinton did...	0
+795	QUIJANO	one hundred thousand of them children -- Governor...	0
+796	PENCE	they'd be court martialed.	0
+797	KAINE	That is absolutely false and you know that.	0
+798	PENCE	Absolutely true.	0
+799	KAINE	And you know that, Governor.	0
+800	QUIJANO	Governor...	0
+801	PENCE	It's absolutely true.	0
+802	QUIJANO	Gentlemen, please.	0
+803	KAINE	Because the FBI did an investigation.	0
+804	QUIJANO	Gentlemen.	0
+805	KAINE	And they concluded that there was no reasonable prosecutor who would take it further.	0
+806	KAINE	Sorry.	0
+807	QUIJANO	Senator Kaine, Governor Pence, please.	0
+808	KAINE	Syria.	0
+809	QUIJANO	I want to turn now to Syria.	0
+810	QUIJANO	Two hundred fifty thousand people, 100,000 of them children, are under siege in Aleppo, Syria.	0
+811	QUIJANO	Bunker buster bombs, cluster munitions, and incendiary weapons are being dropped on them by Russian and Syrian militaries.	0
+812	QUIJANO	Does the U.S. have a responsibility to protect civilians and prevent mass casualties on this scale, Governor Pence?	0
+813	PENCE	The United States of America needs to begin to exercise strong leadership to protect the vulnerable citizens and over 100,000 children in Aleppo.	0
+814	PENCE	Hillary Clinton's top priority when she became secretary of state was the Russian reset, the Russians reset.	0
+815	PENCE	After the Russian reset, the Russians invaded Ukraine and took over Crimea.	0
+816	PENCE	And the small and bullying leader of Russia is now dictating terms to the United States to the point where all the United States of America -- the greatest nation on Earth -- just withdraws from talks about a cease-fire while Vladimir Putin puts a missile defense system in Syria while he marshals the forces and begins -- look, we have got to begin to lean into this with strong, broad-shouldered American leadership.	0
+817	PENCE	It begins by rebuilding our military.	0
+818	PENCE	And the Russians and the Chinese have been making enormous investments in the military.	0
+819	PENCE	We have the smallest Navy since 1916.	0
+820	PENCE	We have the lowest number of troops since the end of the Second World War.	0
+821	PENCE	We've got to work with Congress, and Donald Trump will, to rebuild our military and project American strength in the world.	0
+822	PENCE	But about Aleppo and about Syria, I truly do believe that what America ought to do right now is immediately establish safe zones, so that families and vulnerable families with children can move out of those areas, work with our Arab partners, real time, right now, to make that happen.	0
+823	PENCE	And secondly, I just have to tell you that the provocations by Russia need to be met with American strength.	0
+824	PENCE	And if Russia chooses to be involved and continue, I should say, to be involved in this barbaric attack on civilians in Aleppo, the United States of America should be prepared to use military force to strike military targets of the Assad regime to prevent them from this humanitarian crisis that is taking place in Aleppo.	0
+825	PENCE	There's a broad range of other things that we ought to do, as well.	0
+826	PENCE	We ought to deploy a missile defense shield to the Czech Republic and Poland which Hillary Clinton and Barack Obama pulled back on out of not wanting to offend the Russians back in 2009.	0
+827	QUIJANO	Governor, your two minutes are up.	0
+828	PENCE	We've just got to have American strength on the world stage.	0
+829	PENCE	When Donald Trump becomes president of the United States, the Russians and other countries in the world will know they're dealing with a strong American president.	0
+830	QUIJANO	Senator Kaine?	0
+831	KAINE	Hillary and I also agree that the establishment of humanitarian zones in northern Syria with the provision of international human aid, consistent with the U.N. Security Council resolution that was passed in February 2014, would be a very, very good idea.	0
+832	KAINE	And Hillary also has the ability to stand up to Russia in a way that this ticket does not.	0
+833	KAINE	Donald Trump, again and again, has praised Vladimir Putin.	0
+834	KAINE	And it's clear that he has business dealings with Russian oligarchs who are very connected to Putin.	0
+835	KAINE	The Trump campaign management team had to be fired a month or so ago because of those shadowy connections with pro-Putin forces.	0
+836	KAINE	Governor Pence made the odd claim, he said inarguably Vladimir Putin is a better leader than President Obama.	0
+837	KAINE	Vladimir Putin has run his economy into the ground.	0
+838	KAINE	He persecutes LGBT folks and journalists.	0
+839	KAINE	If you don't know the difference between dictatorship and leadership, then you got to go back to a fifth-grade civics class.	0
+840	KAINE	I'll tell you what offends me...	0
+841	PENCE	Well, that offended me.	0
+842	KAINE	Governor Pence just said -- Governor Pence just said that Donald Trump will rebuild the military.	0
+843	KAINE	No, he won't.	0
+844	KAINE	Donald Trump is avoiding paying taxes.	0
+845	KAINE	The New York Times story -- and we need to get this -- but the New York Times suggested that he probably didn't pay taxes for about 18 years starting in 1995.	0
+846	KAINE	Those years included the years of 9/11.	0
+847	KAINE	So get this.	0
+848	KAINE	On 9/11, Hillary Clinton and Donald Trump's hometown was attacked by the worst terrorist attack in the history of the United States.	0
+849	KAINE	Young men and women -- young men and women signed up to serve in the military to fight terrorism.	0
+850	KAINE	Hillary Clinton went to Washington to get funds to rebuild her city and protect first responders, but Donald Trump was fighting a very different fight.	0
+851	KAINE	It was a fight to avoid paying taxes so that he wouldn't support the fight against terror.	0
+852	QUIJANO	The question was about Aleppo, Senator.	0
+853	KAINE	He wouldn't support troops.	0
+854	KAINE	He wouldn't -- he wouldn't support -- this is important, Elaine.	0
+855	KAINE	When a guy running for president will not support the troops, not support veterans, not support teachers, that's really important.	0
+856	QUIJANO	Right.	0
+857	KAINE	And I said about Aleppo, we do agree the notion is we have to create a humanitarian zone in northern Syria.	0
+858	KAINE	It's very important.	0
+859	QUIJANO	Governor Pence, you had mentioned no-fly zone.	0
+860	QUIJANO	Where would you propose setting up a safe zone specifically?	0
+861	QUIJANO	How would you keep it safe?	0
+862	PENCE	Well, first and foremost, Donald Trump supports our troops.	0
+863	PENCE	Donald Trump supports our veterans.	0
+864	KAINE	He won't pay taxes.	0
+865	PENCE	Donald Trump has paid all the taxes that he's -- do you not take deductions?	0
+866	PENCE	How does that work?	0
+867	QUIJANO	Gentlemen, this is about Syria.	0
+868	QUIJANO	I'd like to...	0
+869	SYSTEM	(CROSSTALK)	0
+870	PENCE	Honestly, Senator.	0
+871	PENCE	Honestly, Senator.	0
+872	KAINE	It is about our troops.	0
+873	KAINE	It is about our troops.	0
+874	PENCE	I understand why you want to change -- I understand why you want to change the subject.	0
+875	KAINE	How can you support the troops if you won't pay taxes?	0
+876	PENCE	I understand why you want to change the subject.	0
+877	PENCE	And let me be very clear on this Russian thing.	0
+878	PENCE	The larger question here...	0
+879	KAINE	Do you think Donald Trump is smart to not pay taxes?	0
+880	QUIJANO	Gentlemen, we're going to have time to get to Russia here.	0
+881	PENCE	What we're dealing with is the -- you know, there's an old proverb that says the Russian bear never dies, it just hibernates.	0
+882	PENCE	And the truth of the matter is, the weak and feckless foreign policy of Hillary Clinton and Barack Obama has awakened an aggression in Russia that first appeared a few years ago with their move in Georgia, now their move into Crimea, now their move into the wider Middle East.	0
+883	PENCE	And all the while, all we do is fold our arms and say we're not having talks anymore.	0
+884	PENCE	To answer your question, we just need American strength.	0
+885	PENCE	We need to -- we need to marshal the resources of our allies in the region, and in the immediate, we need to act and act now to get people out of harm's way.	0
+886	QUIJANO	And exactly how would those safe zones work?	0
+887	QUIJANO	How would they remain safe?	0
+888	PENCE	The -- the safe zones would have to be -- as the senator said, there's already a framework for this that's been recognized by the international community.	0
+889	PENCE	The United States of America needs to be prepared to work with our allies in the region to create a route for safe passage and then to protect people in those areas, including with a no-fly zone.	0
+890	PENCE	But, look, this is very tough stuff.	0
+891	PENCE	I served on the Foreign Affairs Committee for a decade.	0
+892	PENCE	I traveled in and out of that region for 10 years.	0
+893	PENCE	I saw what the American soldier won in Operation Iraqi Freedom.	0
+894	PENCE	And to see the weak and feckless leadership that Hillary Clinton was the architect of and the foreign policy of the Obama administration...	0
+895	KAINE	Well, let me -- let me come back...	0
+896	PENCE	is deeply troubling to me.	0
+897	PENCE	That will all change the day Donald Trump becomes president of the United States.	0
+898	KAINE	and talk about -- let me talk about the things that Governor Pence doesn't want to acknowledge, Elaine.	0
+899	KAINE	He doesn't want to acknowledge that we stopped the Iranian nuclear weapons program.	0
+900	KAINE	He doesn't want to acknowledge...	0
+901	PENCE	We didn't.	0
+902	KAINE	that Hillary was part of a team that got bin Laden.	0
+903	KAINE	He doesn't want to acknowledge...	0
+904	PENCE	I just did.	0
+905	KAINE	that it's a good thing, not a bad thing, that it's a good thing -- not a bad thing -- that we're down from 175,000 troops deployed overseas to 15,000.	0
+906	KAINE	But let me tell you what will really make the Middle East dangerous.	0
+907	KAINE	Donald Trump's idea that more nations should get nuclear weapons, Saudi Arabia, Japan, South Korea.	0
+908	KAINE	Ronald Reagan said something really interesting about nuclear proliferation back in the 1980s.	0
+909	KAINE	He said the problem with nuclear proliferation is that some fool or maniac could trigger a catastrophic event.	0
+910	KAINE	And I think that's who Governor Pence's running mate is, exactly who Governor Reagan warned us about.	0
+911	PENCE	And come on.	0
+912	PENCE	Senator.	0
+913	PENCE	Senator, that was even beneath you and Hillary Clinton.	0
+914	PENCE	And that -- that's pretty low.	0
+915	KAINE	But do you -- do you think -- do you think we should have -- more nuclear weapons in the world will make us safer?	0
+916	PENCE	Senator, the...	0
+917	KAINE	That's what Donald Trump thinks.	0
+918	PENCE	Ronald Reagan also said nuclear war should never be fought because it can never be won.	0
+919	PENCE	And the United States of America needs to make investments in modernizing our nuclear force for both deterrence...	0
+920	KAINE	But can you defend Donald Trump's claim that more nations should get nuclear weapons?	0
+921	PENCE	and assurance to our allies.	0
+922	PENCE	But let me go back to this Iran thing.	0
+923	PENCE	I mean, he keeps saying that they prevented -- that Hillary Clinton started the deal with the Iranians prevented Iran from getting a nuclear weapon.	0
+924	SYSTEM	(CROSSTALK)	0
+925	KAINE	That's what the Israeli joint chiefs of staff is saying right now.	0
+926	PENCE	Well, that's not what -- that's not what Israel thinks.	0
+927	KAINE	Gadi Eizenkot, you can go check it.	0
+928	PENCE	You wouldn't necessarily know that.	0
+929	KAINE	Go to the tape.	0
+930	PENCE	I know you boycotted Prime Minister Netanyahu's speech when he came before the Congress.	0
+931	KAINE	No, I visited him in his office.	0
+932	KAINE	I visited him in his office.	0
+933	PENCE	You boycotted the speech.	0
+934	PENCE	The point is, what this Iran -- so-called Iran deal did was essentially guarantee -- I mean, when I was in Congress, I fought hard on a bipartisan basis with Republican and Democrat members to move forward the toughest sanctions, it -- literally in the history of the United States, against Iran.	0
+935	KAINE	And then Hillary used them to get a deal.	0
+936	PENCE	We were bringing them to heel, but the goal was always that we would only lift the sanctions if Iran permanently renounced their nuclear ambitions.	0
+937	KAINE	Elaine, let me just mention one thing.	0
+938	SYSTEM	(CROSSTALK)	0
+939	PENCE	They have not -- Elaine, let me finish a sentence.	0
+940	PENCE	They have not renounced their nuclear ambitions.	0
+941	PENCE	And when the deal's period runs out, there's no limitation on them obtaining weapons.	0
+942	PENCE	That...	0
+943	SYSTEM	(CROSSTALK)	0
+944	QUIJANO	And very quickly, Senator.	0
+945	KAINE	Elaine...	0
+946	PENCE	and the fact that they got $1.7 billion in a ransom payment...	0
+947	QUIJANO	We need to talk about Russia.	0
+948	QUIJANO	Very quickly, though, Senator, please.	0
+949	PENCE	is astonishing to the American people.	0
+950	KAINE	Six times tonight, I have said to Governor Pence I can't imagine how you can defend your running mate's position on one issue after the next.	0
+951	KAINE	And in all six cases, he's refused to defend his running mate.	0
+952	PENCE	Well, let's -- no, no, don't put words in my mouth.	0
+953	QUIJANO	All right.	0
+954	PENCE	He's going...	0
+955	SYSTEM	(CROSSTALK)	0
+956	KAINE	And yet he is asking everybody to vote for somebody that he cannot defend.	0
+957	KAINE	And I just think that should be underlined.	0
+958	PENCE	No, I'm -- look...	0
+959	SYSTEM	(CROSSTALK)	0
+960	QUIJANO	All right, gentlemen, let's talk about Russia.	0
+961	QUIJANO	This is a topic that has come up.	0
+962	PENCE	I'm very, very happy to defend Donald Trump.	0
+963	PENCE	If he wants to take these one at a time, I'll take them one at a time.	0
+964	QUIJANO	I will give you an opportunity to do that.	0
+965	KAINE	More nations should get nuclear weapons.	0
+966	KAINE	Try to defend that.	0
+967	PENCE	Don't put words in my mouth.	0
+968	PENCE	Well, he never said that, Senator.	0
+969	KAINE	He absolutely said it.	0
+970	KAINE	Saudi Arabia, South Korea, Japan.	0
+971	PENCE	Most of the stuffy you've said, he's never said.	0
+972	QUIJANO	Gentlemen, Russia.	0
+973	QUIJANO	Russian President Vladimir Putin invaded Ukraine, annexed Crimea, and has provided crucial military support to the Assad regime.	0
+974	QUIJANO	What steps, if any, would your administration take to counter these actions?	0
+975	QUIJANO	Senator Kaine?	0
+976	KAINE	You've got to be tough on Russia.	0
+977	KAINE	So let's start with not praising Vladimir Putin as a great leader.	0
+978	KAINE	Donald Trump and Mike Pence have said he's a great leader.	0
+979	KAINE	And Donald Trump has business...	0
+980	PENCE	No, we haven't.	0
+981	KAINE	has business dealings -- has business dealings with Russia that he refuses to disclose.	0
+982	KAINE	Hillary Clinton has gone toe-to- toe with Russia.	0
+983	KAINE	She went toe-to-toe with Russia as secretary of state to do the New START Agreement to reduce Russia's nuclear stockpile.	0
+984	KAINE	She's had the experience doing it.	0
+985	KAINE	She went toe-to-toe with Russia and lodged protests when they went into Georgia.	0
+986	KAINE	And we've done the same thing about Ukraine, but more than launching protests, we've put punishing economic sanctions on Russia that we need to continue.	0
+987	KAINE	Donald Trump, on the other hand, didn't know that Russia had invaded the Crimea.	0
+988	PENCE	Oh, that's nonsense.	0
+989	KAINE	He was on a TV show a couple months back, and he said, "I'll guarantee you this, Russia's not going into the Ukraine."	0
+990	KAINE	And he had to be reminded that they had gone into the Crimea two years before.	0
+991	PENCE	He knew that.	0
+992	KAINE	Hillary Clinton has gone toe-to-toe with Russia to work out a deal on New START.	0
+993	KAINE	She got them engaged on a meaningful way to cap Iran's nuclear weapons program.	0
+994	KAINE	And yet she stood up to them on issues such as Syria and their invasion of Georgia.	0
+995	KAINE	You've got to have the ability to do that, and Hillary does.	0
+996	KAINE	On the other hand, in Donald Trump, you have somebody who praises Vladimir Putin all the time.	0
+997	KAINE	America should really wonder about a President Trump, who had a campaign manager with ties to Putin, pro- Putin elements in the Ukraine, who had to be fired for that reason.	0
+998	KAINE	They should wonder -- when Donald Trump is sitting down with Vladimir Putin, is it going to be America's bottom line or is it going to be Donald Trump's bottom line that he's going to be worried about with all of his business dealings?	0
+999	KAINE	Now, this could be solved if Donald Trump would be willing to release his tax returns, as he told the American public that he would do.	0
+1000	KAINE	And I know he's laughing at this, but every president...	0
+1001	PENCE	But what's it got to do with Russia?	0
+1002	KAINE	Every president since Richard Nixon has done it, and Donald Trump has said I'm doing business with Russia.	0
+1003	KAINE	The only way the American public will see whether he has a conflict of interest...	0
+1004	PENCE	No, he hasn't said that.	0
+1005	KAINE	He has, actually.	0
+1006	QUIJANO	Senator, your time is up.	0
+1007	QUIJANO	Governor?	0
+1008	PENCE	Well, thanks.	0
+1009	PENCE	I'm just trying to keep up with the insult-driven campaign on the other side of the table.	0
+1010	KAINE	You know, I'm just saying facts about your running mate.	0
+1011	PENCE	Yeah.	0
+1012	KAINE	And I know you can't defend.	0
+1013	QUIJANO	Senator, please.	0
+1014	QUIJANO	This is the governor's two minutes.	0
+1015	PENCE	I'm happy to defend him, Senator.	0
+1016	PENCE	Don't put words in my mouth that I'm not defending him.	0
+1017	KAINE	You're not.	0
+1018	PENCE	I'm happy to defend him.	0
+1019	PENCE	Most of what you said is completely false, and the American people know that.	0
+1020	KAINE	I'll run through the list of things where you won't defend...	0
+1021	PENCE	This isn't the old days where you can just say stuff and people believe it.	0
+1022	QUIJANO	Senator, please.	0
+1023	QUIJANO	This is Governor Pence's two minutes.	0
+1024	PENCE	Look, this is the alternative universe of Washington, D.C., versus reality.	0
+1025	PENCE	Hillary Clinton said her number-one priority was a reset with Russia.	0
+1026	PENCE	That reset resulted in the invasion of Ukraine, after they'd infiltrated with what are called little green men, Russian soldiers that were dressing up like Ukrainian dissidents, and then they moved all the way into Crimea, took over the Crimean Peninsula.	0
+1027	PENCE	Donald Trump knew that happened.	0
+1028	PENCE	He basically was saying it's not going to happen again.	0
+1029	PENCE	The truth of the matter is that what you have in the rise of aggressive Russia, which has had -- increased its influence in Iran, that's now -- now because of this deal is on a pathway in the future to obtain a nuclear -- the leading state sponsor of terror in the world in Iran now has a closer working relationship with Russia because of Hillary Clinton and Barack Obama's foreign policy and $150 billion and sanctions all being lifted.	0
+1030	PENCE	And then, of course, Syria, I mean, it really is extraordinary that -- Syria is imploding.	0
+1031	PENCE	You just asked a very thoughtful question about the disaster in Aleppo.	0
+1032	PENCE	ISIS is headquartered in Raqqa.	0
+1033	PENCE	It is -- ISIS from Raqqa has overrun vast areas that at great sacrifice the American soldier won in Operation Iraqi Freedom, and yet Senator Kaine still sits here, loyal soldier -- I get all that -- in saying that the foreign policy of Hillary Clinton and Barack Obama somehow made the world more secure.	0
+1034	PENCE	I mean, it really is astonishing that on the day...	0
+1035	KAINE	We even wiped out the leader of Al Qaida.	0
+1036	PENCE	on the day that Iran released four American hostages...	0
+1037	KAINE	We stopped Iran from getting nuclear weapons.	0
+1038	QUIJANO	Governor...	0
+1039	PENCE	we delivered $400 million in cash as a ransom payment for Americans held by the radical mullahs in Tehran.	0
+1040	SYSTEM	(CROSSTALK)	0
+1041	QUIJANO	Governor, yesterday, Mr. Trump said...	0
+1042	KAINE	And we stopped a nuclear weapons program without a shot.	0
+1043	QUIJANO	quote, "Putin has no respect for Hillary Clinton and no respect for Obama."	0
+1044	QUIJANO	Why do you think he'll respect a Trump- Pence administration?	0
+1045	PENCE	Strength.	0
+1046	PENCE	Plain and simple.	0
+1047	KAINE	Business dealings.	0
+1048	PENCE	Donald Trump -- that's nonsense.	0
+1049	PENCE	Donald Trump is a strong leader...	0
+1050	KAINE	Donald Trump's son says that the Trump organization...	0
+1051	PENCE	who is going to lead with American strength.	0
+1052	QUIJANO	Please, Senator, I'll give you a chance to respond.	0
+1053	PENCE	We're going to rebuild our military.	0
+1054	PENCE	And let me -- let me -- this whole Putin thing.	0
+1055	PENCE	Look, America is stronger than Russia.	0
+1056	PENCE	Our economy is 16 times larger than the Russian economy.	0
+1057	PENCE	America's political system is superior to the crony, corrupt capitalist system in Russia in every way.	0
+1058	PENCE	When Donald Trump and I observe that, as I've said in Syria, in Iran, in Ukraine, that the small and bullying leader of Russia has been stronger on the world stage than this administration, that's stating painful facts.	0
+1059	PENCE	That's not an endorsement of Vladimir Putin.	0
+1060	PENCE	That's an indictment of the weak and feckless leadership...	0
+1061	QUIJANO	Senator Kaine?	0
+1062	PENCE	of Hillary Clinton and Barack Obama.	0
+1063	KAINE	Well, this is one where we can just kind of go to the tape on it.	0
+1064	KAINE	But Governor Pence said, inarguably, Vladimir Putin is a better leader than President Obama.	1
+1065	PENCE	That is absolutely inaccurate.	0
+1066	KAINE	And -- and -- and I just think a guy who praises...	0
+1067	PENCE	He said he's stronger -- he's been stronger on the world stage.	0
+1068	KAINE	No, he said leader.	0
+1069	KAINE	And if -- and I'll just say this, Governor.	0
+1070	PENCE	You just said better.	0
+1071	KAINE	If you mistake leadership for dictatorship, and you can't tell the difference, a country that's running its economy into the ground...	0
+1072	PENCE	Yeah, here we go.	0
+1073	PENCE	This is the grade school thing again?	0
+1074	KAINE	persecuting journalists...	0
+1075	PENCE	Right, this is grade school.	0
+1076	KAINE	if you can't tell the difference, you shouldn't be commander-in-chief.	0
+1077	PENCE	Yeah.	0
+1078	KAINE	And with Donald Trump -- Donald Trump's sons say that they have all these business dealings with Russia.	0
+1079	KAINE	Those could be disclosed with tax returns, but they refuse to do them.	0
+1080	KAINE	Americans need to worry about whether Donald Trump will be watching out for America's bottom line or his own bottom line.	0
+1081	QUIJANO	Senator Kaine, what went wrong with the Russia reset?	0
+1082	KAINE	Vladimir Putin.	0
+1083	KAINE	Vladimir Putin is a dictator.	0
+1084	QUIJANO	And what would do you differently?	0
+1085	KAINE	Vladimir Putin is a dictator.	0
+1086	KAINE	He's not a leader.	0
+1087	KAINE	Anybody who thinks otherwise doesn't know Russian history and they don't know Vladimir Putin.	0
+1088	KAINE	Hillary Clinton knows exactly who this guy is.	0
+1089	KAINE	John McCain said, I look in his eyes and I see KGB.	0
+1090	KAINE	And Hillary kind of has that same feeling.	0
+1091	PENCE	Right.	0
+1092	KAINE	So how do deal with him?	0
+1093	KAINE	You've got to -- we do have to deal with Russia in a lot of different ways.	0
+1094	KAINE	There are areas where we can cooperate.	0
+1095	KAINE	So it was Hillary Clinton who worked with Russia on the New START Treaty to reduce their nuclear weapons stockpile.	0
+1096	KAINE	It was Hillary Clinton that worked with Russia to get them engaged in a community of nations to stop the Iranian nuclear weapons without firing a shot.	0
+1097	KAINE	She's not going around praising Vladimir Putin as a great guy.	0
+1098	KAINE	But she knows how to sit down at a table and negotiate tough deals.	0
+1099	KAINE	This is a very challenging part of the world, and we ought to have a commander-in-chief who is prepared and done it, rather than somebody who goes around praising Vladimir Putin as a great leader.	0
+1100	QUIJANO	All right, I'd like to ask now about North Korea, Iran and the threat of nuclear weapons.	0
+1101	QUIJANO	North Korea recently conducted its fifth and most powerful nuclear test.	0
+1102	PENCE	Right.	0
+1103	QUIJANO	What specific steps would you take to prevent North Korea from developing a nuclear-armed missile capable of reaching the United States?	0
+1104	QUIJANO	Governor Pence?	0
+1105	PENCE	Well, first, we need to -- we need to make a commitment to rebuild our military, including modernizing our nuclear forces.	0
+1106	PENCE	And we also need -- we also need an effective American diplomacy that will marshal the resources of nations in the Asian Pacific Rim to put pressure on North Korea, on Kim Jong-un, to abandon his nuclear ambitions.	0
+1107	PENCE	It has to remain the policy of the United States of America the denuclearization of the Korean Peninsula, plain and simple.	0
+1108	PENCE	And when Donald Trump is president of the United States, we're -- we're not going to have the -- the kind of posture in the world that has Russia invading Crimea and Ukraine, that has the Chinese building new islands in the South China Sea, that has literally the world, including North Korea, flouting American power.	0
+1109	PENCE	We're going to -- we're going to go back to the days of peace through strength.	0
+1110	PENCE	But I have to tell you that -- that all this talk about tax returns -- and I get it, you know, you want to keep bringing that up.	0
+1111	PENCE	It must have -- must have...	0
+1112	KAINE	Until he...	0
+1113	SYSTEM	(CROSSTALK)	0
+1114	PENCE	done well in some focus group.	0
+1115	PENCE	But here -- Hillary Clinton and her husband set up a private foundation called the Clinton Foundation.	0
+1116	PENCE	While she was secretary of state, the Clinton Foundation accepted tens of millions of dollars from foreign governments and foreign donors.	0
+1117	PENCE	Now, you all need to know out there, this is basic stuff.	0
+1118	PENCE	Foreign donors, and certainly foreign governments, cannot participate in the American political process.	0
+1119	PENCE	They cannot make financial contributions.	0
+1120	PENCE	But the Clintons figured out a way to create a foundation where foreign governments and foreign donors could donate millions of dollars.	0
+1121	PENCE	And then we found, thanks to the good work of the Associated Press, that more than half her private meetings when she was secretary of state were given to major donors of the Clinton Foundation.	0
+1122	PENCE	When you talk about all these -- all these baseless rumors about Russia and the rest, Hillary Clinton -- you asked the trustworthy question at the very beginning -- the reason...	0
+1123	QUIJANO	Governor, your two minutes are up.	0
+1124	PENCE	the reason the American people don't trust Hillary Clinton is because they are looking at the pay to play politics that she operated with the Clinton Foundation through a private server...	0
+1125	QUIJANO	Governor, please.	0
+1126	PENCE	while she's secretary of state.	0
+1127	QUIJANO	Your two minutes are up, Governor.	0
+1128	PENCE	And they're saying enough is enough.	0
+1129	QUIJANO	Senator Kaine?	0
+1130	KAINE	I'm going to talk about the foundation, and then I'll talk about North Korea.	0
+1131	KAINE	So, on the foundation.	0
+1132	KAINE	I am glad to talk about the foundation.	0
+1133	KAINE	The Clinton Foundation is one of the highest- rated charities in the world.	0
+1134	KAINE	It provides AIDS drugs to about 11.5 million people.	0
+1135	KAINE	It helps Americans deal with opioid overdoses.	0
+1136	KAINE	It gets higher rankings for its charity than the American Red Cross does.	0
+1137	KAINE	The Clinton foundation does an awful lot of good work.	0
+1138	KAINE	Hillary Clinton as secretary of state took no action to benefit the foundation.	0
+1139	KAINE	The State Department did an investigation, and they concluded that everything Hillary Clinton did as secretary of state was completely in the interest of the United States.	0
+1140	KAINE	So the foundation does good work.	0
+1141	KAINE	And Hillary Clinton as secretary of state acted in the interests of the United States.	0
+1142	KAINE	But let's compare this now with the Trump organization and the Trump Foundation.	0
+1143	KAINE	The Trump organization is an octopus-like organization with tentacles all over the world whose conflict of interests could only be known if Donald Trump would release his tax returns.	0
+1144	KAINE	He's refused to do it.	0
+1145	KAINE	His sons have said that the organization has a lot of business dealings in Russia.	0
+1146	KAINE	And remember, the Trump organization is not a non-profit.	0
+1147	KAINE	It's putting money into Donald Trump's pockets and into the pockets of his children, whereas the Clinton Foundation is a non- profit and no Clinton family member draws any salary.	0
+1148	PENCE	The Trump Foundation is non-profit.	0
+1149	KAINE	In addition, Donald Trump has a foundation.	0
+1150	KAINE	The foundation was just fined for illegally contributing foundation dollars to a political campaign of a Florida attorney general.	0
+1151	KAINE	They made an illegal contribution, and then they tried to hide it by disguising it to somebody else.	0
+1152	KAINE	And the person they donated to was somebody whose office was charged with investigating Trump University.	0
+1153	KAINE	This is the difference between a foundation that does good work and a secretary of state who acted in accordance with American interest and somebody who is conflicted and doing work around the world and won't share with the American public what he's doing and what those conflicts are.	0
+1154	QUIJANO	Governor, I will give you 30 seconds to respond, because I know you want to, but, again, I would remind you both this was about North Korea.	0
+1155	SYSTEM	(LAUGHTER)	0
+1156	PENCE	Well, Thank you.	0
+1157	PENCE	Thank you.	0
+1158	PENCE	The Trump Foundation is a private family foundation.	0
+1159	PENCE	They give virtually every cent in the Trump Foundation to charitable causes.	0
+1160	KAINE	Political contributions?	0
+1161	PENCE	Less than ten cents on the dollar in the Clinton Foundation has gone to charitable causes.	0
+1162	KAINE	A $20,000 portrait of Donald Trump?	0
+1163	PENCE	Less than 10 cents on the dollar of the Clinton Foundation has gone to charitable causes.	1
+1164	KAINE	Ninety percent.	0
+1165	PENCE	It has been a platform for the Clintons to travel the world, to have staff.	0
+1166	PENCE	But honestly, Senator, we would know a lot more about it if Hillary Clinton would just turn over the 33,000 e-mails...	1
+1167	QUIJANO	All right, let's turn back to North Korea...	0
+1168	PENCE	that she refused to turn over in her private server...	0
+1169	QUIJANO	Senator Kaine...	0
+1170	PENCE	and we'd have a much better picture of what the Clinton Foundation was about.	0
+1171	QUIJANO	Senator Kaine, if you had intelligence that North Korea was about to launch a missile, a nuclear-armed missile capable of reaching the United States, would you take preemptive action?	0
+1172	KAINE	If we -- look, a president should take action to defend the United States against imminent threat.	0
+1173	KAINE	You have to.	0
+1174	KAINE	A president has to do that.	0
+1175	KAINE	Now exactly what action, you would have to determine what your intelligence was, how certain you were of that intelligence, but you would have to take action.	0
+1176	KAINE	You asked the question about how do we deal with a North Korea.	0
+1177	KAINE	I'm on the Foreign Relations Committee.	0
+1178	KAINE	We just did an extensive sanctions package against North Korea.	0
+1179	KAINE	And interestingly enough, Elaine, the U.N. followed and did this -- virtually the same package.	0
+1180	KAINE	Often China will use their veto in the Security Council to veto a package like that.	0
+1181	KAINE	They're starting to get worried about North Korea, too.	0
+1182	KAINE	So they actually supported the sanctions package, even though many of the sanctions are against Chinese firms, Chinese financial institutions.	0
+1183	KAINE	So we're working together with China, and we need to.	0
+1184	KAINE	China's another one of those relationships where it's competitive, it's also challenging, and in times like North Korea, we have to be able to cooperate.	0
+1185	KAINE	Hillary understands that very well.	0
+1186	KAINE	She went once famously to China and stood up at a human rights meeting and looked them in the eye and said, "Women's rights are human rights."	0
+1187	KAINE	They didn't want her to say that, but she did.	0
+1188	KAINE	But she's also worked on a lot of diplomatic and important diplomatic deals with China.	0
+1189	KAINE	And that's what it's going to take.	0
+1190	KAINE	The thing I would worry a little bit about is that Donald Trump owes about $650 million to banks, including the Bank of China.	0
+1191	KAINE	I'm not sure he could stand up so tough to the people who have loaned him money.	0
+1192	QUIJANO	All right.	0
+1193	QUIJANO	I'd like to turn to our next segment now.	0
+1194	QUIJANO	And in this, I'd like to focus on social issues.	0
+1195	QUIJANO	You have both been open about the role that faith has played in your lives.	0
+1196	QUIJANO	Can you discuss in detail a time when you struggled to balance your personal faith and a public policy position?	0
+1197	QUIJANO	Senator Kaine?	0
+1198	KAINE	Yeah, that's an easy one for me, Elaine.	0
+1199	KAINE	It's an easy one.	0
+1200	KAINE	I'm really fortunate.	0
+1201	KAINE	I grew up in a wonderful household with great Irish Catholic parents.	0
+1202	KAINE	My mom and dad are sitting right here.	0
+1203	KAINE	I was educated by Jesuits at Rockhurst High School in Kansas City.	0
+1204	KAINE	My 40th reunion is in 10 days.	0
+1205	KAINE	And I worked with Jesuit missionaries in Honduras, now nearly 35 years ago, and they were the heroes of my life.	0
+1206	KAINE	I try to practice my religion in a very devout way and follow the teachings of my church in my own personal life.	0
+1207	KAINE	But I don't believe in this nation, a First Amendment nation, where we don't raise any religion over the other, and we allow people to worship as they please, that the doctrines of any one religion should be mandated for everyone.	0
+1208	KAINE	For me, the hardest struggle in my faith life was the Catholic Church is against the death penalty and so am I.	0
+1209	KAINE	But I was governor of a state, and the state law said that there was a death penalty for crimes if the jury determined them to be heinous.	0
+1210	KAINE	And so I had to grapple with that.	0
+1211	KAINE	When I was running for governor, I was attacked pretty strongly because of my position on the death penalty.	0
+1212	KAINE	But I looked the voters of Virginia in the eye and said, look, this is my religion.	0
+1213	KAINE	I'm not going to change my religious practice to get one vote, but I know how to take an oath and uphold the law.	0
+1214	KAINE	And if you elect me, I will uphold the law.	0
+1215	KAINE	And I was elected, and I did.	0
+1216	KAINE	It was very, very difficult to allow executions to go forward, but in circumstances where I didn't feel like there was a case for clemency, I told Virginia voters I would uphold the law, and I did.	0
+1217	KAINE	That was a real struggle.	0
+1218	KAINE	But I think it is really, really important that those of us who have deep faith lives don't feel that we could just substitute our own views for everybody else in society, regardless of their views.	0
+1219	QUIJANO	Governor Pence?	0
+1220	PENCE	Well, it's a wonderful question.	0
+1221	PENCE	And my Christian faith is at the very heart of who I am.	0
+1222	PENCE	I was also raised in a wonderful family of faith.	0
+1223	PENCE	It was a church on Sunday morning and grace before dinner.	0
+1224	PENCE	But my Christian faith became real for me when I made a personal decision for Christ when I was a freshman in college.	0
+1225	PENCE	And I've tried to live that out however imperfectly every day of my life since.	0
+1226	PENCE	And with my wife at my side, we've followed a calling into public service, where we've -- we've tried to -- we've tried to keep faith with the values that we cherish.	0
+1227	PENCE	And with regard to when I struggle, I appreciate, and -- and -- and -- I have a great deal of respect for Senator Kaine's sincere faith.	0
+1228	PENCE	I truly do.	0
+1229	KAINE	That's shared.	0
+1230	PENCE	But for me, I would tell you that for me the sanctity of life proceeds out of the belief that -- that ancient principle that -- where God says before you were formed in the womb, I knew you, and so for my first time in public life, I sought to stand with great compassion for the sanctity of life.	0
+1231	PENCE	The state of Indiana has also sought to make sure that we expand alternatives in health care counseling for women, non-abortion alternatives.	0
+1232	PENCE	I'm also very pleased at the fact we're well on our way in Indiana to becoming the most pro-adoption state in America.	0
+1233	PENCE	I think if you're going to be pro-life, you should -- you should be pro- adoption.	0
+1234	PENCE	But what I can't understand is with Hillary Clinton and now Senator Kaine at her side is to support a practice like partial-birth abortion.	1
+1235	PENCE	I mean, to hold to the view -- and I know Senator Kaine, you hold pro-life views personally -- but the very idea that a child that is almost born into the world could still have their life taken from them is just anathema to me.	0
+1236	PENCE	And I cannot -- I can't conscience about -- about a party that supports that.	0
+1237	PENCE	Or that -- I know you've historically opposed taxpayer funding of abortion.	0
+1238	PENCE	But Hillary Clinton wants to -- wants to repeal the longstanding provision in the law where we said we wouldn't use taxpayer dollars to fund abortion.	0
+1239	PENCE	So for me, my faith informs my life.	0
+1240	PENCE	I try and spend a little time on my knees every day.	0
+1241	PENCE	But it all for me begins with cherishing the dignity, the worth, the value of every human life.	0
+1242	KAINE	Elaine, this is a fundamental question, a fundamental question.	0
+1243	KAINE	Hillary and I are both people out of religious backgrounds, from Methodist church experience, which was really formative for her as a public servant.	0
+1244	KAINE	But we really feel like you should live fully and with enthusiasm the commands of your faith.	0
+1245	KAINE	But it is not the role of the public servant to mandate that for everybody else.	0
+1246	KAINE	So let's talk about abortion and choice.	0
+1247	KAINE	Let's talk about them.	0
+1248	KAINE	We support Roe v. Wade.	0
+1249	KAINE	We support the constitutional right of American women to consult their own conscience, their own supportive partner, their own minister, but then make their own decision about pregnancy.	0
+1250	KAINE	That's something we trust American women to do that.	0
+1251	KAINE	And we don't think that women should be punished, as Donald Trump said they should, for making the decision to have an abortion.	0
+1252	KAINE	Governor Pence wants to repeal Roe v. Wade.	0
+1253	KAINE	He said he wants to put it on the ash heap of history.	0
+1254	KAINE	And we have some young people in the audience who weren't even born when Roe was decided.	0
+1255	KAINE	This is pretty important.	0
+1256	KAINE	Before Roe v. Wade, states could pass criminal laws to do just that, to punish women if they made the choice to terminate a pregnancy.	0
+1257	KAINE	I think you should live your moral values.	0
+1258	KAINE	But the last thing, the very last thing that government should do is have laws that would punish women who make reproductive choices.	0
+1259	KAINE	And that is the fundamental difference between a Clinton-Kaine ticket and a Trump- Pence ticket that wants to punish women who make that choice.	0
+1260	PENCE	No, it's really not.	0
+1261	PENCE	Donald Trump and I would never support legislation that punished women who made the heartbreaking choice to end a pregnancy.	0
+1262	KAINE	Then why did Donald Trump say that?	0
+1263	PENCE	We just never would.	0
+1264	KAINE	Why did he say that?	0
+1265	PENCE	Well, look, it's -- look, he's not a polished politician like you and Hillary Clinton.	0
+1266	PENCE	And so...	0
+1267	KAINE	Well, I would admit that's not a polished...	0
+1268	SYSTEM	(CROSSTALK)	0
+1269	PENCE	You know, things don't always come out exactly the way he means them.	0
+1270	KAINE	Well, can I say...	0
+1271	PENCE	But I'm telling you what the policy of our administration would be.	0
+1272	KAINE	Great line from the -- great line from the gospel of Matthew.	0
+1273	KAINE	From the fullness of the heart, the mouth speaks.	0
+1274	PENCE	Yeah.	0
+1275	KAINE	When Donald Trump says women should be punished or Mexicans are rapists and criminals...	0
+1276	PENCE	I'm telling you...	0
+1277	KAINE	or John McCain is not a hero, he is showing you who he is.	0
+1278	PENCE	Senator, you've whipped out that Mexican thing again.	0
+1279	PENCE	He -- look...	0
+1280	KAINE	Can you defend it?	0
+1281	PENCE	There are criminal aliens in this country, Tim, who have come into this country illegally who are perpetrating violence and taking American lives.	0
+1282	KAINE	You want to -- you want to use a big broad brush against Mexicans on that?	0
+1283	PENCE	He also said and many of them are good people.	0
+1284	PENCE	You keep leaving that out of your quote.	0
+1285	PENCE	And if you want me to go there, I'll go there.	0
+1286	PENCE	But here's -- there is a choice, and it is a choice on life.	0
+1287	PENCE	I couldn't be more proud to be standing with Donald Trump, who's standing for the right to life.	0
+1288	PENCE	It's a principle that -- Senator Kaine -- and I'm very gentle about this, because I really do respect you -- it's a principle that you embrace.	0
+1289	PENCE	And I have appreciated the fact that you've supported the Hyde amendment, which bans the use of taxpayer funding for abortion, in the past, but that's not Hillary Clinton's view.	0
+1290	PENCE	People need to understand, we can come together as a nation.	0
+1291	PENCE	We can create a culture of life.	0
+1292	PENCE	More and more young people today are embracing life because we know we are -- we're better for it.	0
+1293	PENCE	We can -- like Mother Teresa said at that famous national prayer breakfast...	0
+1294	KAINE	This is important --	0
+1295	PENCE	bring the -- let's welcome the children into our world.	0
+1296	PENCE	There are so many families around the country who can't have children.	0
+1297	PENCE	We could improve adoption...	0
+1298	KAINE	But, Governor...	0
+1299	PENCE	so that families that can't have children can adopt more readily those children from crisis pregnancies.	0
+1300	KAINE	Governor, why don't you trust women to make this choice for themselves?	0
+1301	KAINE	We can encourage people to support life.	0
+1302	KAINE	Of course we can.	0
+1303	KAINE	But why don't you trust women?	0
+1304	KAINE	Why doesn't Donald Trump trust women to make this choice for themselves?	0
+1305	KAINE	That's what we ought to be doing in public life.	0
+1306	KAINE	Living our lives of faith or motivation with enthusiasm and excitement, convincing other, dialoguing with each other about important moral issues of the day...	0
+1307	PENCE	Because there are...	0
+1308	KAINE	but on fundamental issues of morality, we should let women make their own decisions.	0
+1309	PENCE	Because there is -- a society can be judged by how it deals with its most vulnerable, the aged, the infirm, the disabled, and the unborn.	0
+1310	PENCE	I believe it with all my heart.	0
+1311	PENCE	And I couldn't be more proud to be standing with a pro-life candidate in Donald Trump.	0
+1312	QUIJANO	I do have one final question for you both tonight.	0
+1313	QUIJANO	It has been a divisive campaign.	0
+1314	QUIJANO	Senator Kaine, if your ticket wins, what specifically are you going to do to unify the country and reassure the people who voted against you?	0
+1315	KAINE	That's a really important one.	0
+1316	KAINE	That may be the $64,000 question, because it has been a divisive campaign.	0
+1317	KAINE	And again, Hillary is running a campaign about stronger together, and Donald Trump -- and this is -- this is not directed at this man, except to the extent that he can't defend Donald Trump -- Donald Trump has run a campaign that's been about one insult after the next.	0
+1318	KAINE	But we do have to bring the country together.	0
+1319	KAINE	So here's what we'll do.	0
+1320	KAINE	Hillary Clinton was first lady, then senator for eight years and secretary of state.	0
+1321	KAINE	And I served in the Senate.	0
+1322	KAINE	And I'm really amazed, Elaine, as I talk to Republican senators, how well they regard and respect Hillary Clinton.	0
+1323	KAINE	She was on the Armed Services Committee.	0
+1324	KAINE	She was on other committees.	0
+1325	KAINE	She worked across the aisle when she was first lady to get the CHIP program passed so that 8 million low-income kids have health insurance in this country, including 150,000 in Indiana.	0
+1326	KAINE	She worked across the aisle after 9/11 to get health benefits for the first responders who bravely went into the towers and into the Pentagon.	0
+1327	KAINE	She worked to get benefits for -- TRICARE benefits for National Guard members, including Hoosiers and Virginians in the National Guard.	0
+1328	KAINE	She has a track record of working across the aisle to make things happen.	0
+1329	KAINE	And, you know, Elaine, I have the same track record.	0
+1330	KAINE	I was a governor of Virginia with two Republican houses.	0
+1331	KAINE	And in the Senate, I have good working relationships across the aisle.	0
+1332	KAINE	Because I think it's fine to be a Democrat or Republican or independent, but after Election Day, the goal is work together.	0
+1333	KAINE	And Hillary Clinton has a track record of accomplishment across the aisle that will enable her to do just that when we work with the new Congress in January.	0
+1334	QUIJANO	Governor, how will you unify the country if you win?	0
+1335	PENCE	Well, thank you, Elaine, and thanks for a great discussion...	0
+1336	KAINE	Absolutely.	0
+1337	PENCE	tonight.	0
+1338	PENCE	Thank you, Senator.	0
+1339	PENCE	This is a very challenging time in the life of our nation.	0
+1340	PENCE	Weakened America's place in the world after the leadership of Hillary Clinton and Barack Obama on the world stage has been followed by an economy that is truly struggling, stifled by an avalanche of more taxes, more regulation, Obamacare, the war on coal, and the kind of trade deals that have put American workers in the back seat.	0
+1341	PENCE	I think the best way that we can bring people together is through change in Washington, D.C.	0
+1342	PENCE	You know, I served in Washington, D.C., for 12 years in the Congress of the United States.	0
+1343	PENCE	And I served with many Republicans and Democrats, men and women of goodwill.	0
+1344	PENCE	The potential is there to really change the direction of this country, but it's going to take leadership to do it.	0
+1345	PENCE	The American people want to see our nation standing tall on the world stage again.	0
+1346	PENCE	They want to see us supporting our military, rebuilding our military, commanding the respect of the world, and they want to see the American economy off to the races again.	0
+1347	PENCE	They want to see an American comeback.	0
+1348	PENCE	And Donald Trump's entire career has been about building.	0
+1349	PENCE	It's been about -- it's going through hardship just like a businessperson does and finding a way through smarts and ingenuity and resilience to fight forward and -- when Donald Trump becomes president of the United States, we're going to have a stronger America.	0
+1350	PENCE	When you hear him say he wants to make America great again, when we do that, I truly do believe the American people are going to be standing taller.	0
+1351	PENCE	They're going to see that real change can happen after decades of just talking about it.	0
+1352	PENCE	And when that happens, the American people are going to stand tall, stand together, and we'll have the kind of unity that's been missing for way too long.	0
+1353	QUIJANO	All right, gentlemen, thank you so much.	0
+1354	QUIJANO	This concludes the vice presidential debate.	0
+1355	QUIJANO	My thanks to the candidates, the commission, and to you for watching.	0
+1356	QUIJANO	Please tune in this Sunday for the second presidential debate at Washington University in St. Louis and the final debate on October 19th at the University of Nevada, Las Vegas.	0
+1357	QUIJANO	From Farmville, Virginia, I'm Elaine Quijano of CBS News.	0
+1358	QUIJANO	Good night.	0
