@@ -12,8 +12,8 @@ def _read_gold_and_pred(gold_fpath, pred_fpath):
     """
     Read gold and predicted data.
     :param gold_fpath: the original annotated gold file, where the last 4th column contains the labels.
-    :param pred_fpath: a file with line_number at each line, where the list is ordered by check-worthiness.
-    :return: {line_number:label} dict; list with the predicted order of the line_numbers.
+    :param pred_fpath: a file with line_number and score at each line.
+    :return: {line_number:label} dict; list with (line_number, score) tuples.
     """
 
     logging.info("Reading gold predictions from file {}".format(gold_fpath))
@@ -26,19 +26,22 @@ def _read_gold_and_pred(gold_fpath, pred_fpath):
 
     logging.info('Reading predicted ranking order from file {}'.format(pred_fpath))
 
-    ranked_lines = []
+    line_score = []
     with open(pred_fpath) as pred_f:
-        for line_number in pred_f:
+        for line in pred_f:
+            line_number, score = line.split('\t')
             line_number = int(line_number.strip())
+            score = float(score.strip())
+
             if line_number not in gold_labels:
                 logging.error('No such line_number: {} in gold file!'.format(line_number))
                 quit()
-            ranked_lines.append(line_number)
+            line_score.append((line_number, score))
 
-    if len(gold_labels) != len(ranked_lines):
+    if len(gold_labels) != len(line_score):
         logging.warning('You have missed some line_numbers in your prediction file.')
 
-    return gold_labels, ranked_lines
+    return gold_labels, line_score
 
 
 def _compute_average_precision(gold_labels, ranked_lines, threshold):
@@ -95,7 +98,10 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
     :param thresholds: thresholds used for Reciprocal Rank@N and Precision@N.
     If not specified - 1, 3, 5, 10, 20, 50, len(ranked_lines).
     """
-    gold_labels, ranked_lines = _read_gold_and_pred(gold_fpath, pred_fpath)
+    gold_labels, line_score = _read_gold_and_pred(gold_fpath, pred_fpath)
+
+    ranked_lines = [t[0] for t in sorted(line_score, key=lambda x: x[1], reverse=True)]
+
     if thresholds is None or len(thresholds) == 0:
         thresholds = [1, 3, 5, 10, 20, 50, len(ranked_lines)]
 
