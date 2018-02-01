@@ -1,114 +1,117 @@
-2018-01-30 13:10:02,999 : INFO : Started evaluating results for Subtask A ...
-2018-01-30 13:10:03,000 : INFO : Reading gold predictions from file examples/Task1-English-1st-Presidential.txt
-2018-01-30 13:10:03,002 : INFO : Reading predicted ranking order from file examples/subtaskA_random_baseline.txt
-2018-01-30 13:10:03,027 : INFO : ========================================================RESULTS=========================================================
-2018-01-30 13:10:03,028 : INFO : R-PRECISION (R=37):      0.0000
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,028 : INFO : AVERAGE PRECISION:       @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,028 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0222    0.0250    
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,028 : INFO : RECIPROCAL RANK@N:       @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,028 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0222    0.0250    
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,028 : INFO : PRECISION@N:             @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,028 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0200    0.0264    
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,028 : INFO : Description of the evaluation metrics: 
-2018-01-30 13:10:03,028 : INFO : R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.
-2018-01-30 13:10:03,028 : INFO : Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th.
-2018-01-30 13:10:03,028 : INFO : Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.
-2018-01-30 13:10:03,028 : INFO : Precision@N is precision estimated for the first N line_numbers in the provided ranked list.
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,028 : INFO : ========================================================================================================================
+Scoring a random baseline for subtask A
+2018-02-01 10:16:13,426 : INFO : Started evaluating results for Subtask A ...
+2018-02-01 10:16:13,448 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,449 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task1-English-1st-Presidential.txt
+2018-02-01 10:16:13,452 : INFO : Reading predicted ranking order from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests/subtaskA_random_baseline.txt
+2018-02-01 10:16:13,455 : INFO : ========================================================RESULTS=========================================================
+2018-02-01 10:16:13,455 : INFO : R-PRECISION (R=37):      0.0000
+2018-02-01 10:16:13,455 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,455 : INFO : AVERAGE PRECISION:       @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,455 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0222    0.0250    
+2018-02-01 10:16:13,455 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,455 : INFO : RECIPROCAL RANK@N:       @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,455 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0222    0.0250    
+2018-02-01 10:16:13,455 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,455 : INFO : PRECISION@N:             @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,455 : INFO :                          0.0000    0.0000    0.0000    0.0000    0.0000    0.0200    0.0264    
+2018-02-01 10:16:13,455 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,456 : INFO : Description of the evaluation metrics: 
+2018-02-01 10:16:13,456 : INFO : R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.
+2018-02-01 10:16:13,456 : INFO : Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th.
+2018-02-01 10:16:13,456 : INFO : Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.
+2018-02-01 10:16:13,456 : INFO : Precision@N is precision estimated for the first N line_numbers in the provided ranked list.
+2018-02-01 10:16:13,456 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,456 : INFO : ========================================================================================================================
 **********
-2018-01-30 13:10:03,102 : INFO : Started evaluating results for Subtask A ...
-2018-01-30 13:10:03,102 : INFO : Reading gold predictions from file examples/Task1-English-1st-Presidential.txt
-2018-01-30 13:10:03,104 : INFO : Reading predicted ranking order from file examples/subtaskA_gold.txt
-2018-01-30 13:10:03,124 : INFO : ========================================================RESULTS=========================================================
-2018-01-30 13:10:03,124 : INFO : R-PRECISION (R=37):      1.0000
-2018-01-30 13:10:03,124 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,124 : INFO : AVERAGE PRECISION:       @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,124 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    
-2018-01-30 13:10:03,124 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,124 : INFO : RECIPROCAL RANK@N:       @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,124 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    
-2018-01-30 13:10:03,124 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,124 : INFO : PRECISION@N:             @1        @3        @5        @10       @20       @50       @1403     
-2018-01-30 13:10:03,124 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    0.7400    0.0264    
-2018-01-30 13:10:03,124 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,125 : INFO : Description of the evaluation metrics: 
-2018-01-30 13:10:03,125 : INFO : R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.
-2018-01-30 13:10:03,125 : INFO : Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th.
-2018-01-30 13:10:03,125 : INFO : Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.
-2018-01-30 13:10:03,125 : INFO : Precision@N is precision estimated for the first N line_numbers in the provided ranked list.
-2018-01-30 13:10:03,125 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,125 : INFO : ========================================================================================================================
+Scoring the gold predictions for subtask A
+2018-02-01 10:16:13,532 : INFO : Started evaluating results for Subtask A ...
+2018-02-01 10:16:13,556 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,556 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task1-English-1st-Presidential.txt
+2018-02-01 10:16:13,559 : INFO : Reading predicted ranking order from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests/subtaskA_gold.txt
+2018-02-01 10:16:13,561 : INFO : ========================================================RESULTS=========================================================
+2018-02-01 10:16:13,561 : INFO : R-PRECISION (R=37):      1.0000
+2018-02-01 10:16:13,561 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,561 : INFO : AVERAGE PRECISION:       @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,562 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    
+2018-02-01 10:16:13,562 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,562 : INFO : RECIPROCAL RANK@N:       @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,562 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    1.0000    
+2018-02-01 10:16:13,562 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,562 : INFO : PRECISION@N:             @1        @3        @5        @10       @20       @50       @1403     
+2018-02-01 10:16:13,562 : INFO :                          1.0000    1.0000    1.0000    1.0000    1.0000    0.7400    0.0264    
+2018-02-01 10:16:13,562 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,562 : INFO : Description of the evaluation metrics: 
+2018-02-01 10:16:13,562 : INFO : R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.
+2018-02-01 10:16:13,562 : INFO : Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th.
+2018-02-01 10:16:13,562 : INFO : Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.
+2018-02-01 10:16:13,562 : INFO : Precision@N is precision estimated for the first N line_numbers in the provided ranked list.
+2018-02-01 10:16:13,562 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,563 : INFO : ========================================================================================================================
 **********
-2018-01-30 13:10:03,184 : INFO : Started evaluating results for Subtask A ...
-2018-01-30 13:10:03,184 : INFO : Reading gold predictions from file examples/Task1-English-1st-Presidential.txt
-2018-01-30 13:10:03,187 : INFO : Reading predicted ranking order from file examples/subtaskA_other_line_number.txt
-2018-01-30 13:10:03,205 : ERROR : No such line_number: 3000 in gold file!
-**********
-2018-01-30 13:10:03,269 : INFO : Started evaluating results for Subtask A ...
-2018-01-30 13:10:03,269 : INFO : Reading gold predictions from file examples/Task1-English-1st-Presidential.txt
-2018-01-30 13:10:03,272 : INFO : Reading predicted ranking order from file examples/subtaskA_dup_line_number.txt
-2018-01-30 13:10:03,294 : ERROR : Duplicated line_number in ranked line_numbers: 1133
+TEST ERROR: Scoring subtask A, where the provided list of line_numbers contains a line_number, which is not in the gold file.
+2018-02-01 10:16:13,625 : INFO : Started evaluating results for Subtask A ...
+2018-02-01 10:16:13,644 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,645 : WARNING : You seem to have missing line_numbers in the provided list.
+2018-02-01 10:16:13,645 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task1-English-1st-Presidential.txt
+2018-02-01 10:16:13,647 : INFO : Reading predicted ranking order from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests/subtaskA_other_line_number.txt
+2018-02-01 10:16:13,648 : ERROR : No such line_number: 3000 in gold file!
 **********
 **********
-2018-01-30 13:10:03,357 : INFO : Started evaluating results for Subtask B ...
-2018-01-30 13:10:03,357 : INFO : Reading gold predictions from file examples/Task2-English-1st-Presidential.txt
-2018-01-30 13:10:03,371 : INFO : Reading predicted classification labels from file examples/subtaskB_gold.txt
-2018-01-30 13:10:03,371 : INFO : ========================================================RESULTS=========================================================
-2018-01-30 13:10:03,371 : INFO : ACC:                     1.0000
-2018-01-30 13:10:03,371 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,371 : INFO : MACRO F1:                1.0000
-2018-01-30 13:10:03,371 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,371 : INFO : MACRO RECALL:            1.0000
-2018-01-30 13:10:03,372 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,372 : INFO : CONFUSION MATRIX:        
-2018-01-30 13:10:03,372 : INFO :                      true          false      half-true
-2018-01-30 13:10:03,372 : INFO : true                    8              0              0
-2018-01-30 13:10:03,372 : INFO : false                   0             13              0
-2018-01-30 13:10:03,372 : INFO : half-true               0              0              9
-2018-01-30 13:10:03,372 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,372 : INFO : Description of the evaluation metrics: 
-2018-01-30 13:10:03,372 : INFO : Accuracy computes the percentage of correctly predicted classes.
-2018-01-30 13:10:03,372 : INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
-2018-01-30 13:10:03,372 : INFO : Macro Recall computes Recall for each of the classes and takes its average.
-2018-01-30 13:10:03,372 : INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
-2018-01-30 13:10:03,372 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,372 : INFO : ========================================================================================================================
+Scoring the gold predictions for subtask B
+2018-02-01 10:16:13,717 : INFO : Started evaluating results for Subtask B ...
+2018-02-01 10:16:13,717 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,717 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task2-English-1st-Presidential.txt
+2018-02-01 10:16:13,726 : INFO : Reading predicted classification labels from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests/subtaskB_gold.txt
+2018-02-01 10:16:13,727 : INFO : ========================================================RESULTS=========================================================
+2018-02-01 10:16:13,727 : INFO : ACC:                     1.0000
+2018-02-01 10:16:13,727 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,727 : INFO : MACRO F1:                1.0000
+2018-02-01 10:16:13,727 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,727 : INFO : MACRO RECALL:            1.0000
+2018-02-01 10:16:13,727 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,728 : INFO : CONFUSION MATRIX:        
+2018-02-01 10:16:13,728 : INFO :                      true          false      half-true
+2018-02-01 10:16:13,728 : INFO : true                    8              0              0
+2018-02-01 10:16:13,728 : INFO : false                   0             13              0
+2018-02-01 10:16:13,728 : INFO : half-true               0              0              9
+2018-02-01 10:16:13,728 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,728 : INFO : Description of the evaluation metrics: 
+2018-02-01 10:16:13,728 : INFO : Accuracy computes the percentage of correctly predicted classes.
+2018-02-01 10:16:13,728 : INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
+2018-02-01 10:16:13,728 : INFO : Macro Recall computes Recall for each of the classes and takes its average.
+2018-02-01 10:16:13,728 : INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
+2018-02-01 10:16:13,728 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,728 : INFO : ========================================================================================================================
 **********
-2018-01-30 13:10:03,435 : INFO : Started evaluating results for Subtask B ...
-2018-01-30 13:10:03,435 : INFO : Reading gold predictions from file examples/Task2-English-1st-Presidential.txt
-2018-01-30 13:10:03,447 : INFO : Reading predicted classification labels from file examples/subtaskB_random_baseline.txt
-2018-01-30 13:10:03,447 : INFO : ========================================================RESULTS=========================================================
-2018-01-30 13:10:03,447 : INFO : ACC:                     0.6000
-2018-01-30 13:10:03,447 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,447 : INFO : MACRO F1:                0.5912
-2018-01-30 13:10:03,447 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,448 : INFO : MACRO RECALL:            0.6054
-2018-01-30 13:10:03,448 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,448 : INFO : CONFUSION MATRIX:        
-2018-01-30 13:10:03,448 : INFO :                      true          false      half-true
-2018-01-30 13:10:03,448 : INFO : true                    4              1              3
-2018-01-30 13:10:03,448 : INFO : false                   3              7              3
-2018-01-30 13:10:03,448 : INFO : half-true               2              0              7
-2018-01-30 13:10:03,448 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,448 : INFO : Description of the evaluation metrics: 
-2018-01-30 13:10:03,448 : INFO : Accuracy computes the percentage of correctly predicted classes.
-2018-01-30 13:10:03,448 : INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
-2018-01-30 13:10:03,448 : INFO : Macro Recall computes Recall for each of the classes and takes its average.
-2018-01-30 13:10:03,448 : INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
-2018-01-30 13:10:03,448 : INFO : ========================================================================================================================
-2018-01-30 13:10:03,448 : INFO : ========================================================================================================================
+Scoring a random baseline for subtask B
+2018-02-01 10:16:13,790 : INFO : Started evaluating results for Subtask B ...
+2018-02-01 10:16:13,791 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,791 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task2-English-1st-Presidential.txt
+2018-02-01 10:16:13,800 : INFO : Reading predicted classification labels from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests/subtaskB_random_baseline.txt
+2018-02-01 10:16:13,801 : INFO : ========================================================RESULTS=========================================================
+2018-02-01 10:16:13,801 : INFO : ACC:                     0.6000
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,801 : INFO : MACRO F1:                0.5912
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,801 : INFO : MACRO RECALL:            0.6054
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,801 : INFO : CONFUSION MATRIX:        
+2018-02-01 10:16:13,801 : INFO :                      true          false      half-true
+2018-02-01 10:16:13,801 : INFO : true                    4              1              3
+2018-02-01 10:16:13,801 : INFO : false                   3              7              3
+2018-02-01 10:16:13,801 : INFO : half-true               2              0              7
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,801 : INFO : Description of the evaluation metrics: 
+2018-02-01 10:16:13,801 : INFO : Accuracy computes the percentage of correctly predicted classes.
+2018-02-01 10:16:13,801 : INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
+2018-02-01 10:16:13,801 : INFO : Macro Recall computes Recall for each of the classes and takes its average.
+2018-02-01 10:16:13,801 : INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
+2018-02-01 10:16:13,801 : INFO : ========================================================================================================================
 **********
-2018-01-30 13:10:03,512 : INFO : Started evaluating results for Subtask B ...
-2018-01-30 13:10:03,512 : INFO : Reading gold predictions from file examples/Task2-English-1st-Presidential.txt
-2018-01-30 13:10:03,524 : INFO : Reading predicted classification labels from file examples/subtaskB_other_claim_number.txt
-2018-01-30 13:10:03,524 : ERROR : No such claim_number: 31 in gold file!
-**********
-2018-01-30 13:10:03,595 : INFO : Started evaluating results for Subtask B ...
-2018-01-30 13:10:03,596 : INFO : Reading gold predictions from file examples/Task2-English-1st-Presidential.txt
-2018-01-30 13:10:03,607 : INFO : Reading predicted classification labels from file examples/subtaskB_dup_claim_number.txt
-2018-01-30 13:10:03,607 : ERROR : There is an already predicted label for claim_number 5 and it is different!
+TEST ERROR: Scoring a file with predicted labels, which contains a claim_number, which is not present in the gold file.
+2018-02-01 10:16:13,870 : INFO : Started evaluating results for Subtask B ...
+2018-02-01 10:16:13,871 : INFO : The file looks properly formatted.
+2018-02-01 10:16:13,871 : INFO : Reading gold predictions from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/gold/Task2-English-1st-Presidential.txt
+2018-02-01 10:16:13,881 : INFO : Reading predicted classification labels from file /Users/pgencheva/PycharmProjects/CLEF2018-facts/data/scorer_tests//subtaskB_other_claim_number.txt
+2018-02-01 10:16:13,881 : ERROR : No such claim_number: 31 in gold file!
