@@ -56,7 +56,7 @@ def check_format(file_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file_path", help="The absolute path to the file you want to check.", type=str)
+    parser.add_argument("--pred_file_path", help="The absolute path to the file you want to check.", type=str)
     args = parser.parse_args()
-    logging.info("Subtask B: Checking file: {}".format(args.file_path))
-    check_format(args.file_path)
+    logging.info("Subtask B: Checking file: {}".format(args.pred_file_path))
+    check_format(args.pred_file_path)
