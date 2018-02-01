@@ -33,7 +33,7 @@ def check_format(file_path):
             if claim_number in id_label and id_label[claim_number] != label:
                 logging.error(
                     'There is an already predicted label for claim_number {} and it is different!'.format(claim_number))
-                quit()
+                return False
 
             id_label[claim_number] = label
 
@@ -42,7 +42,7 @@ def check_format(file_path):
 
         # 2. Check if some ids are missing
         if sorted(ids) != list(range(min(ids), max(ids) + 1)):
-            logging.error("You seem to have missing line_numbers in the provided list.")
+            logging.error("You seem to have missing claim_numbers in the provided list.")
             return False
 
         logging.info("The file looks properly formatted.")
