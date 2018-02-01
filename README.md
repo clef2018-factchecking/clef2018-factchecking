@@ -48,8 +48,8 @@ Where claim_number is the consequtive number only of the fact-checked claims and
 The format checkers for each subtask are located in the format_checker module of the project.
 Each format checker is aimed at checking whether your generated results file does not comply to the result's format.
 They can be started from the command line, for example: 
-> python3 subtaskA.py --file_path=<path_to_your_results_file> <br/>
-> python3 subtaskB.py --file_path=<path_to_your_results_file> 
+> python3 subtaskA.py --pred_file_path=<path_to_your_results_file> <br/>
+> python3 subtaskB.py --pred_file_path=<path_to_your_results_file> 
 
 As result, messages about in-/proper formatting will be displayed.
 
@@ -62,6 +62,8 @@ Scorers of the results for each task can be started from the command line as fol
 > python3 subtaskB.py --gold_file_path=<path_to_gold_file> --pred_file=<predicted_results_path> 
     
 where __<path_to_gold_file>__ is the path to the file containing the gold annotations for the tested debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in 'Results File Format' section.
+
+All of the scorers make calls to the format checkers for the corresponding task
 
 For Subtask A, which a ranking task, the scorer provides the metrics R-Precision, Average Precision, Recipocal Rank@N, Precision@N.
 
