@@ -10,7 +10,7 @@ from scorer.subtaskA import evaluate
 from format_checker.subtaskA import check_format
 
 random.seed(1)
-_COL_NAMES = ['line_number', 'speaker', 'text', 'label'],
+_COL_NAMES = ['line_number', 'speaker', 'text', 'label']
 
 def run_random_baseline(gold_fpath, results_fpath):
     gold_df = pd.read_csv(gold_fpath, names=_COL_NAMES, sep='\t')
