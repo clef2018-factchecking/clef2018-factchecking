@@ -4,8 +4,8 @@ Contains format checker, scorer and baselines for the [CLEF2018-factcheking task
 ## __Results File Format__: 
 
 ### Subtask A: 
-For this task, results file is a list of claims with the estimated score for check-worthiness. 
-    Each line in the results file is in the format:
+For this task, the expected results file is a list of claims with the estimated score for check-worthiness. 
+    Each line contains a tab-separated line with:
 >line_number <TAB> score
 
 Where _line_number_ is the number of the claim in the debate and _score_ is a number indicating the priority of the claim for fact-checking. Line numbers are provided in the order they should be prioritized for fact-checking. For example:
@@ -24,7 +24,7 @@ Where _line_number_ is the number of the claim in the debate and _score_ is a nu
 
 ### Subtask B
 
-For this subtask, participants should estimate the credibility of the fact-checked claims. The results file is in the format:
+For this subtask, participants should estimate the credibility of the fact-checked claims. The results file contains one tab-separeted line per instance with:
 
 > claim_number <TAB> label
 
@@ -50,9 +50,8 @@ To launch them run:
 > python3 subtaskA.py --pred_file_path=<path_to_your_results_file> <br/>
 > python3 subtaskB.py --pred_file_path=<path_to_your_results_file> 
 
-As result, messages about in-/proper formatting will be displayed.
-
-`run_format_checker.sh` includes examples of the output of the checkers when dealing with an ill-formed results file. You can view the results from running run_format_checker.sh in run_format_checker_out.txt
+`run_format_checker.sh` includes examples of the output of the checkers when dealing with an ill-formed results file. 
+Its output can be seen in run_format_checker_out.txt
 
 ## Scorers 
 
@@ -60,19 +59,22 @@ Launch the scorers for each task as follows:
 > python3 subtaskA.py --gold_file_path=<path_to_gold_file> --pred_file_path=<predicted_results_path> <br/>
 > python3 subtaskB.py --gold_file_path=<path_to_gold_file> --pred_file=<predicted_results_path> 
     
-where __<path_to_gold_file>__ is the path to the file containing the gold annotations for the debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in 'Results File Format' section.
+where __<path_to_gold_file>__ is the path to the file containing the gold annotations for a debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in the 'Results File Format' section.
 
-All of the scorers make calls to the format checkers for the corresponding task
+The scorers call the format checkers for the corresponding task to verify the output is properly shaped.
 
-For the Subtask A ranking task, the scorer computes R-Precision, Average Precision, Recipocal Rank@k, Precision@k.
+run_scorer.sh provides examples on using the scorers and the results can be viewed in the run_scorer_out.txt file.
 
-For the Subtask B classification task, the scorer computes Accuracy, Macro F1, Macro Recall, and a confusion matrix.
+### Evaluation metrics
 
-run_scorer.sh provides more examples of using the scorers and the results can be viewed in the run_scorer_out.txt file.
+For Subtask A (ranking): R-Precision, Average Precision, Recipocal Rank@k, Precision@k.
+
+For Subtask B (classification): Accuracy, Macro F1, Macro Recall (+ confusion matrix).
+
 
 ## Baselines
 
 The _baselines_ module contains a random and a simple ngram baseline for each of the tasks.
 
 If you execute any of the scripts, both of the baselines will be trained on the 1st Presidential and the Vice-Presidential debates and evaluated on the 2nd Presidential debate.
-The performance of both baselines will be displayed with messages, first for the random and then for the n-gram baseline.
+The performance of both baselines will be displayed.
