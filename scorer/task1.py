@@ -1,8 +1,8 @@
 import logging
 import argparse
-from format_checker.subtaskA import check_format
+from format_checker.task1 import check_format
 """
-Scoring of Subtask A with the metrics Average Precision, R-Precision, P@N, RR@N. 
+Scoring of Task 1 with the metrics Average Precision, R-Precision, P@N, RR@N. 
 """
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -145,7 +145,7 @@ if __name__ == '__main__':
     parser.add_argument("--pred_file_path", help="The absolute path to the file with ranked line_numbers.", type=str)
     args = parser.parse_args()
 
-    logging.info("Started evaluating results for Subtask A ...")
+    logging.info("Started evaluating results for Task 1 ...")
     if check_format(args.pred_file_path):
         evaluate(args.gold_file_path, args.pred_file_path)
 

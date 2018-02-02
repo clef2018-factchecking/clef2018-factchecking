@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 
 from format_checker.task2 import check_format
-from scorer.subtaskB import evaluate
+from scorer.task2 import evaluate
 
 _LABELS = ['TRUE', 'FALSE', 'HALF-TRUE']
 _COL_NAMES = ['line_number', 'speaker', 'text', 'claim_number', 'normalized_claim', 'label']

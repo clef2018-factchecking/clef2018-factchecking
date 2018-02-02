@@ -1,9 +1,9 @@
 import logging
 import csv
 import argparse
-from format_checker.subtaskB import check_format
+from format_checker.task2 import check_format
 """
-Scoring of Subtask B with confusion matrix, Acc, Macro F1 and Average Recall. 
+Scoring of Task 2 with confusion matrix, Acc, Macro F1 and Average Recall. 
 """
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -159,6 +159,6 @@ if __name__ == '__main__':
     parser.add_argument("--pred_file_path", help="The absolute path to the file with ranked line_numbers.", type=str)
     args = parser.parse_args()
 
-    logging.info("Started evaluating results for Subtask B ...")
+    logging.info("Started evaluating results for Task 2 ...")
     if check_format(args.pred_file_path):
         evaluate(args.gold_file_path, args.pred_file_path)

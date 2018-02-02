@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 
-from scorer.subtaskA import evaluate
+from scorer.task1 import evaluate
 from format_checker.task1 import check_format
 
 random.seed(1)
