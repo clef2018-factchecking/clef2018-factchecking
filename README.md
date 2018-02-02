@@ -16,13 +16,27 @@ release of a part of the training data set.
 The full training sets and the test sets will be provided in future versions.
 All changes and updates on these data sets are reported in Section 1 of this document.
 
+__Table of contents:__
+* [List of Versions](#list-of-versions)
+* [Contents of the Distribution v1.0](#contents-of-the-distribution-v10)
+* [Subtasks](#subtasks)
+* [Data Format](#data-format)
+* [Results File Format](#results-file-format)
+* [Format checkers](#format-checkers)
+* [Scorers](#scorers)
+   * [Evaluation metrics](#evaluation-metrics)
+* [Baselines](#baselines)
+* [Notes](#notes)
+* [Licensing](#licensing)
+* [Citation](#citation)
+* [Credits](#credits)
 
-## LIST OF VERSIONS
+## List of Versions
 
 * __v1.0 [2018/01/25]__ -  TRIAL data. Partial distribution of the training data for task 1 and 2, in English and Arabic: It contains examples extracted from two US Presidential and one Vice-Presidential debate in 2016. 
 
 
-## CONTENTS OF THE DISTRIBUTION v1.0
+## Contents of the Distribution v1.0
 
 We provide the following files:
 
@@ -55,7 +69,7 @@ We provide the following files:
     [Task2-Arabic-2nd-Presidential.txt](/gold_data/task2/Arabic/Task2-Arabic-2nd-Presidential.txt) <br/>
     [Task2-Arabic-Vice-Presidential.txt](/gold_data/task2/Arabic/Task2-Arabic-Vice-Presidential.txt) <br/>
 
-## SUBTASKS
+## Subtasks
 
 For ease of explanation, here we list the tasks:
 
@@ -63,11 +77,11 @@ For ease of explanation, here we list the tasks:
 
 * __Task 2__: __Factuality__. Checking the factuality of the identified worth-checking claims. In particular, given a sentence that is worth checking, the goal is for the system to determine whether the claim is likely to be true or false, or that it is unsure of its factuality.
 
-## DATA FORMAT
+## Data Format
 
 The datasets are text files with the information TAB separated. The text encoding is UTF-8.
 
-### For task 1:
+### Task 1:
 
 > line_number <TAB> speaker <TAB> text <TAB> label
 
@@ -92,7 +106,7 @@ Example:
 >  ...
 
 
-### For task 2:
+### Task 2:
 
 >  line_number <TAB> speaker <TAB> text <TAB> claim_number <TAB> normalized_claim <TAB> label
 
@@ -200,18 +214,18 @@ The [baselines](/baselines) module contains a random and a simple ngram baseline
 If you execute any of the scripts, both of the baselines will be trained on the 1st Presidential and the Vice-Presidential debates and evaluated on the 2nd Presidential debate.
 The performance of both baselines will be displayed.
 
-## NOTES:
+## Notes:
 
 * This distribution is directly downloadable from the official CLEF-2018 Fact Checking Lab repository:
   https://github.com/clef2018-factchecking/clef2018-factchecking
  
 
-## LICENSING
+## Licensing
 
   These datasets are free for general research use.
 
 
-## CITATION
+## Citation
 
 Whenever using this resource you should use the CLEF-2018 paper by the organizers describing the Fact Checking Lab. For the moment, the paper is not available. We will update the BIB entry below in subsequent versions of this document.
 
@@ -224,7 +238,7 @@ Whenever using this resource you should use the CLEF-2018 paper by the organizer
 }
 ```
 
-## CREDITS
+## Credits
 
 Lab Organizers:
 
