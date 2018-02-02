@@ -27,34 +27,34 @@ All changes and updates on these data sets are reported in Section 1 of this doc
 
 We provide the following files:
 
-- Main folder: [GOLD_DATA](GOLD_DATA)
+- Main folder: [gold_data](gold_data)
 
   * [README.txt](README.md) <br/>
     this file
 
-  - Subfolder [/task1/English/](GOLD_DATA/task1/English) <br/>
-    [Task1-English-1st-Presidential.txt](GOLD_DATA/task1/English/Task1-English-1st-Presidential.txt) <br/>
-    [Task1-English-2nd-Presidential.txt](GOLD_DATA/task1/English/Task1-English-2nd-Presidential.txt) <br/>
-    [Task1-English-Vice-Presidential.txt](GOLD_DATA/task1/English/Task1-English-Vice-Presidential.txt) <br/>
+  - Subfolder [/task1/English/](gold_data/task1/English) <br/>
+    [Task1-English-1st-Presidential.txt](gold_data/task1/English/Task1-English-1st-Presidential.txt) <br/>
+    [Task1-English-2nd-Presidential.txt](gold_data/task1/English/Task1-English-2nd-Presidential.txt) <br/>
+    [Task1-English-Vice-Presidential.txt](gold_data/task1/English/Task1-English-Vice-Presidential.txt) <br/>
 
-  - Subfolder [/task1/Arabic/](GOLD_DATA/task1/Arabic) <br/>
+  - Subfolder [/task1/Arabic/](gold_data/task1/Arabic) <br/>
     same content as the previous folder but with the Arabic datasets
 
-    [Task1-Arabic-1st-Presidential.txt](GOLD_DATA/task1/Arabic/Task1-Arabic-1st-Presidential.txt) <br/>
-    [Task1-Arabic-2nd-Presidential.txt](GOLD_DATA/task1/Arabic/Task1-Arabic-2nd-Presidential.txt) <br/>
-    [Task1-Arabic-Vice-Presidential.txt](GOLD_DATA/task1/Arabic/Task1-Arabic-Vice-Presidential.txt) <br/>
+    [Task1-Arabic-1st-Presidential.txt](gold_data/task1/Arabic/Task1-Arabic-1st-Presidential.txt) <br/>
+    [Task1-Arabic-2nd-Presidential.txt](gold_data/task1/Arabic/Task1-Arabic-2nd-Presidential.txt) <br/>
+    [Task1-Arabic-Vice-Presidential.txt](gold_data/task1/Arabic/Task1-Arabic-Vice-Presidential.txt) <br/>
 
-  - Subfolder [/task2/English/](/GOLD_DATA/task2/English) <br/>
-    [Task2-English-1st-Presidential.txt](GOLD_DATA/task2/English/Task2-English-1st-Presidential.txt) <br/>
-    [Task2-English-2nd-Presidential.txt](GOLD_DATA/task2/English/Task2-English-2nd-Presidential.txt) <br/>
-    [Task2-English-Vice-Presidential.txt](GOLD_DATA/task2/English/Task2-English-Vice-Presidential.txt) <br/>
+  - Subfolder [/task2/English/](/gold_data/task2/English) <br/>
+    [Task2-English-1st-Presidential.txt](gold_data/task2/English/Task2-English-1st-Presidential.txt) <br/>
+    [Task2-English-2nd-Presidential.txt](gold_data/task2/English/Task2-English-2nd-Presidential.txt) <br/>
+    [Task2-English-Vice-Presidential.txt](gold_data/task2/English/Task2-English-Vice-Presidential.txt) <br/>
 
-  - Subfolder [/task2/Arabic/](/GOLD_DATA/task2/Arabic) <br/>
+  - Subfolder [/task2/Arabic/](/gold_data/task2/Arabic) <br/>
     same content as the previous folder but with the Arabic datasets
 
-    [Task2-Arabic-1st-Presidential.txt](/GOLD_DATA/task2/Arabic/Task2-Arabic-1st-Presidential.txt) <br/>
-    [Task2-Arabic-2nd-Presidential.txt](/GOLD_DATA/task2/Arabic/Task2-Arabic-2nd-Presidential.txt) <br/>
-    [Task2-Arabic-Vice-Presidential.txt](/GOLD_DATA/task2/Arabic/Task2-Arabic-Vice-Presidential.txt) <br/>
+    [Task2-Arabic-1st-Presidential.txt](/gold_data/task2/Arabic/Task2-Arabic-1st-Presidential.txt) <br/>
+    [Task2-Arabic-2nd-Presidential.txt](/gold_data/task2/Arabic/Task2-Arabic-2nd-Presidential.txt) <br/>
+    [Task2-Arabic-Vice-Presidential.txt](/gold_data/task2/Arabic/Task2-Arabic-Vice-Presidential.txt) <br/>
 
 ## SUBTASKS
 
