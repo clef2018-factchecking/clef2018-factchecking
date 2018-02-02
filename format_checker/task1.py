@@ -4,10 +4,10 @@ import logging
 
 
 """
-This script checks whether the results format for Subtask A is correct. 
+This script checks whether the results format for Task 1 is correct. 
 It also provides some warnings about possible errors.
 
-The correct format of the Subtask A results file is the following:
+The correct format of the Task 1 results file is the following:
 <line_number> <TAB> <score>
 
 where <line_number> is the number of the claim in the debate 
@@ -45,5 +45,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--pred_file_path", help="The absolute path to the file you want to check.", type=str)
     args = parser.parse_args()
-    logging.info("Subtask A: Checking file: {}".format(args.pred_file_path))
+    logging.info("Task 1: Checking file: {}".format(args.pred_file_path))
     check_format(args.pred_file_path)

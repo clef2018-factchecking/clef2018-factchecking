@@ -6,7 +6,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 
-from format_checker.subtaskB import check_format
+from format_checker.task2 import check_format
 from scorer.subtaskB import evaluate
 
 _LABELS = ['TRUE', 'FALSE', 'HALF-TRUE']

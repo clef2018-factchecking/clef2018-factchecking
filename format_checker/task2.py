@@ -3,10 +3,10 @@ import re
 import logging
 
 """
-This script checks whether the results format for Subtask B is correct. 
+This script checks whether the results format for Task 2 is correct. 
 It also provides some warnings about possible errors.
 
-The correct format of the Subtask B results file is:
+The correct format of the Task 2 results file is:
 claim_number <TAB> label
 where claim_number is only the number of the claims, which are fact-checked (Not N/A).
 """
@@ -58,5 +58,5 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--pred_file_path", help="The absolute path to the file you want to check.", type=str)
     args = parser.parse_args()
-    logging.info("Subtask B: Checking file: {}".format(args.pred_file_path))
+    logging.info("Task 2: Checking file: {}".format(args.pred_file_path))
     check_format(args.pred_file_path)
