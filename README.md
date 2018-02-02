@@ -8,7 +8,7 @@ For this task, the expected results file is a list of claims with the estimated 
     Each line contains a tab-separated line with:
 >line_number <TAB> score
 
-Where _line_number_ is the number of the claim in the debate and _score_ is a number indicating the priority of the claim for fact-checking. Line numbers are provided in the order they should be prioritized for fact-checking. For example:
+Where _line_number_ is the number of the claim in the debate and _score_ is a number indicating the priority of the claim for fact-checking. For example:
 >1	0.9056 <br/>
 >2	0.6862 <br/>
 >3	0.7665 <br/>
