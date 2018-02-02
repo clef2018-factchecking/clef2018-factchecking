@@ -1,0 +1,1303 @@
+1	RADDATZ	Ladies and gentlemen the Republican nominee for president, Donald J. Trump, and the Democratic nominee for president, Hillary Clinton.	N/A	-	-
+2	SYSTEM	(APPLAUSE)	N/A	-	-
+3	COOPER	Thank you very much for being here.	N/A	-	-
+4	COOPER	We're going to begin with a question from one of the members in our town hall.	N/A	-	-
+5	COOPER	Each of you will have two minutes to respond to this question.	N/A	-	-
+6	COOPER	Secretary Clinton, you won the coin toss, so you'll go first.	N/A	-	-
+7	COOPER	Our first question comes from Patrice Brock.	N/A	-	-
+8	COOPER	Patrice?	N/A	-	-
+9	QUESTION	Thank you, and good evening.	N/A	-	-
+10	QUESTION	The last debate could have been rated as MA, mature audiences, per TV parental guidelines.	N/A	-	-
+11	QUESTION	Knowing that educators assign viewing the presidential debates as students' homework, do you feel you're modeling appropriate and positive behavior for today's youth?	N/A	-	-
+12	CLINTON	Well, thank you.	N/A	-	-
+13	CLINTON	Are you a teacher?	N/A	-	-
+14	CLINTON	Yes, I think that that's a very good question, because I've heard from lots of teachers and parents about some of their concerns about some of the things that are being said and done in this campaign.	N/A	-	-
+15	CLINTON	And I think it is very important for us to make clear to our children that our country really is great because we're good.	N/A	-	-
+16	CLINTON	And we are going to respect one another, lift each other up.	N/A	-	-
+17	CLINTON	We are going to be looking for ways to celebrate our diversity, and we are going to try to reach out to every boy and girl, as well as every adult, to bring them in to working on behalf of our country.	N/A	-	-
+18	CLINTON	I have a very positive and optimistic view about what we can do together.	N/A	-	-
+19	CLINTON	That's why the slogan of my campaign is "Stronger Together," because I think if we work together, if we overcome the divisiveness that sometimes sets Americans against one another, and instead we make some big goals -- and I've set forth some big goals, getting the economy to work for everyone, not just those at the top, making sure that we have the best education system from preschool through college and making it affordable, and so much else.	N/A	-	-
+20	CLINTON	If we set those goals and we go together to try to achieve them, there's nothing in my opinion that America can't do.	N/A	-	-
+21	CLINTON	So that's why I hope that we will come together in this campaign.	N/A	-	-
+22	CLINTON	Obviously, I'm hoping to earn your vote, I'm hoping to be elected in November, and I can promise you, I will work with every American.	N/A	-	-
+23	CLINTON	I want to be the president for all Americans, regardless of your political beliefs, where you come from, what you look like, your religion.	N/A	-	-
+24	CLINTON	I want us to heal our country and bring it together because that's, I think, the best way for us to get the future that our children and our grandchildren deserve.	N/A	-	-
+25	COOPER	Secretary Clinton, thank you.	N/A	-	-
+26	COOPER	Mr. Trump, you have two minutes.	N/A	-	-
+27	TRUMP	Well, I actually agree with that.	N/A	-	-
+28	TRUMP	I agree with everything she said.	N/A	-	-
+29	TRUMP	I began this campaign because I was so tired of seeing such foolish things happen to our country.	N/A	-	-
+30	TRUMP	This is a great country.	N/A	-	-
+31	TRUMP	This is a great land.	N/A	-	-
+32	TRUMP	I've gotten to know the people of the country over the last year-and-a-half that I've been doing this as a politician.	N/A	-	-
+33	TRUMP	I cannot believe I'm saying that about myself, but I guess I have been a politician.	N/A	-	-
+34	TRUMP	And my whole concept was to make America great again.	N/A	-	-
+35	TRUMP	When I watch the deals being made, when I watch what's happening with some horrible things like Obamacare, where your health insurance and health care is going up by numbers that are astronomical, 68 percent, 59 percent, 71 percent, when I look at the Iran deal and how bad a deal it is for us, it's a one-sided transaction where we're giving back $150 billion to a terrorist state, really, the number one terror state, we've made them a strong country from really a very weak country just three years ago.	1	Under Obamacare, the cost of health insurance and health care are increasing dramatically.	FALSE
+36	TRUMP	When I look at all of the things that I see and all of the potential that our country has, we have such tremendous potential, whether it's in business and trade, where we're doing so badly.	N/A	-	-
+37	TRUMP	Last year, we had almost $800 billion trade deficit.	2	In 2015, USA had a trade deficit of almost $800 billion a year.	HALF-TRUE
+38	TRUMP	In other words, trading with other countries.	N/A	-	-
+39	TRUMP	We had an $800 billion deficit.	N/A	-	-
+40	TRUMP	It's hard to believe.	N/A	-	-
+41	TRUMP	Inconceivable.	N/A	-	-
+42	TRUMP	You say who's making these deals?	N/A	-	-
+43	TRUMP	We're going the make great deals.	N/A	-	-
+44	TRUMP	We're going to have a strong border.	N/A	-	-
+45	TRUMP	We're going to bring back law and order.	N/A	-	-
+46	TRUMP	Just today, policemen was shot, two killed.	N/A	-	-
+47	TRUMP	And this is happening on a weekly basis.	N/A	-	-
+48	TRUMP	We have to bring back respect to law enforcement.	N/A	-	-
+49	TRUMP	At the same time, we have to take care of people on all sides.	N/A	-	-
+50	TRUMP	We need justice.	N/A	-	-
+51	TRUMP	But I want to do things that haven't been done, including fixing and making our inner cities better for the African-American citizens that are so great, and for the Latinos, Hispanics, and I look forward to doing it.	N/A	-	-
+52	TRUMP	It's called make America great again.	N/A	-	-
+53	COOPER	Thank you, Mr. Trump.	N/A	-	-
+54	COOPER	The question from Patrice was about are you both modeling positive and appropriate behavior for today's youth?	N/A	-	-
+55	COOPER	We received a lot of questions online, Mr. Trump, about the tape that was released on Friday, as you can imagine.	N/A	-	-
+56	COOPER	You called what you said locker room banter.	N/A	-	-
+57	COOPER	You described kissing women without consent, grabbing their genitals.	N/A	-	-
+58	COOPER	That is sexual assault.	N/A	-	-
+59	COOPER	You bragged that you have sexually assaulted women.	N/A	-	-
+60	COOPER	Do you understand that?	N/A	-	-
+61	TRUMP	No, I didn't say that at all.	N/A	-	-
+62	TRUMP	I don't think you understood what was -- this was locker room talk.	N/A	-	-
+63	TRUMP	I'm not proud of it.	N/A	-	-
+64	TRUMP	I apologize to my family.	N/A	-	-
+65	TRUMP	I apologize to the American people.	N/A	-	-
+66	TRUMP	Certainly I'm not proud of it.	N/A	-	-
+67	TRUMP	But this is locker room talk.	N/A	-	-
+68	TRUMP	You know, when we have a world where you have ISIS chopping off heads, where you have -- and, frankly, drowning people in steel cages, where you have wars and horrible, horrible sights all over, where you have so many bad things happening, this is like medieval times.	N/A	-	-
+69	TRUMP	We haven't seen anything like this, the carnage all over the world.	N/A	-	-
+70	TRUMP	And they look and they see.	N/A	-	-
+71	TRUMP	Can you imagine the people that are, frankly, doing so well against us with ISIS?	N/A	-	-
+72	TRUMP	And they look at our country and they see what's going on.	N/A	-	-
+73	TRUMP	Yes, I'm very embarrassed by it.	N/A	-	-
+74	TRUMP	I hate it.	N/A	-	-
+75	TRUMP	But it's locker room talk, and it's one of those things.	N/A	-	-
+76	TRUMP	I will knock the hell out of ISIS.	N/A	-	-
+77	TRUMP	We're going to defeat ISIS.	N/A	-	-
+78	TRUMP	ISIS happened a number of years ago in a vacuum that was left because of bad judgment.	N/A	-	-
+79	TRUMP	And I will tell you, I will take care of ISIS.	N/A	-	-
+80	COOPER	So, Mr. Trump...	N/A	-	-
+81	TRUMP	And we should get on to much more important things and much bigger things.	N/A	-	-
+82	COOPER	Just for the record, though, are you saying that what you said on that bus 11 years ago that you did not actually kiss women without consent or grope women without consent?	N/A	-	-
+83	TRUMP	I have great respect for women.	N/A	-	-
+84	TRUMP	Nobody has more respect for women than I do.	N/A	-	-
+85	COOPER	So, for the record, you're saying you never did that?	N/A	-	-
+86	TRUMP	I've said things that, frankly, you hear these things I said.	N/A	-	-
+87	TRUMP	And I was embarrassed by it.	N/A	-	-
+88	TRUMP	But I have tremendous respect for women.	N/A	-	-
+89	COOPER	Have you ever done those things?	N/A	-	-
+90	TRUMP	And women have respect for me.	N/A	-	-
+91	TRUMP	And I will tell you: No, I have not.	N/A	-	-
+92	TRUMP	And I will tell you that I'm going to make our country safe.	N/A	-	-
+93	TRUMP	We're going to have borders in our country, which we don't have now.	N/A	-	-
+94	TRUMP	People are pouring into our country, and they're coming in from the Middle East and other places.	N/A	-	-
+95	TRUMP	We're going to make America safe again.	N/A	-	-
+96	TRUMP	We're going to make America great again, but we're going to make America safe again.	N/A	-	-
+97	TRUMP	And we're going to make America wealthy again, because if you don't do that, it just -- it sounds harsh to say, but we have to build up the wealth of our nation.	N/A	-	-
+98	COOPER	Thank you, Mr. Trump.	N/A	-	-
+99	TRUMP	Right now, other nations are taking our jobs and they're taking our wealth.	N/A	-	-
+100	COOPER	Thank you, Mr. Trump.	N/A	-	-
+101	TRUMP	And that's what I want to talk about.	N/A	-	-
+102	COOPER	Secretary Clinton, do you want to respond?	N/A	-	-
+103	CLINTON	Well, like everyone else, I've spent a lot of time thinking over the last 48 hours about what we heard and saw.	N/A	-	-
+104	CLINTON	You know, with prior Republican nominees for president, I disagreed with them on politics, policies, principles, but I never questioned their fitness to serve.	N/A	-	-
+105	CLINTON	Donald Trump is different.	N/A	-	-
+106	CLINTON	I said starting back in June that he was not fit to be president and commander-in-chief.	N/A	-	-
+107	CLINTON	And many Republicans and independents have said the same thing.	N/A	-	-
+108	CLINTON	What we all saw and heard on Friday was Donald talking about women, what he thinks about women, what he does to women.	N/A	-	-
+109	CLINTON	And he has said that the video doesn't represent who he is.	N/A	-	-
+110	CLINTON	But I think it's clear to anyone who heard it that it represents exactly who he is.	N/A	-	-
+111	CLINTON	Because we've seen this throughout the campaign.	N/A	-	-
+112	CLINTON	We have seen him insult women.	N/A	-	-
+113	CLINTON	We've seen him rate women on their appearance, ranking them from one to ten.	N/A	-	-
+114	CLINTON	We've seen him embarrass women on TV and on Twitter.	N/A	-	-
+115	CLINTON	We saw him after the first debate spend nearly a week denigrating a former Miss Universe in the harshest, most personal terms.	N/A	-	-
+116	CLINTON	So, yes, this is who Donald Trump is.	N/A	-	-
+117	CLINTON	But it's not only women, and it's not only this video that raises questions about his fitness to be our president, because he has also targeted immigrants, African- Americans, Latinos, people with disabilities, POWs, Muslims, and so many others.	N/A	-	-
+118	CLINTON	So this is who Donald Trump is.	N/A	-	-
+119	CLINTON	And the question for us, the question our country must answer is that this is not who we are.	N/A	-	-
+120	CLINTON	That's why -- to go back to your question -- I want to send a message -- we all should -- to every boy and girl and, indeed, to the entire world that America already is great, but we are great because we are good, and we will respect one another, and we will work with one another, and we will celebrate our diversity.	N/A	-	-
+121	CLINTON	These are very important values to me, because this is the America that I know and love.	N/A	-	-
+122	CLINTON	And I can pledge to you tonight that this is the America that I will serve if I'm so fortunate enough to become your president.	N/A	-	-
+123	RADDATZ	And we want to get to some questions from online...	N/A	-	-
+124	TRUMP	Am I allowed to respond to that?	N/A	-	-
+125	TRUMP	I assume I am.	N/A	-	-
+126	RADDATZ	Yes, you can respond to that.	N/A	-	-
+127	TRUMP	It's just words, folks.	N/A	-	-
+128	TRUMP	It's just words.	N/A	-	-
+129	TRUMP	Those words, I've been hearing them for many years.	N/A	-	-
+130	TRUMP	I heard them when they were running for the Senate in New York, where Hillary was going to bring back jobs to upstate New York and she failed.	N/A	-	-
+131	TRUMP	I've heard them where Hillary is constantly talking about the inner cities of our country, which are a disaster education-wise, jobwise, safety-wise, in every way possible.	N/A	-	-
+132	TRUMP	I'm going to help the African-Americans.	N/A	-	-
+133	TRUMP	I'm going to help the Latinos, Hispanics.	N/A	-	-
+134	TRUMP	I am going to help the inner cities.	N/A	-	-
+135	TRUMP	She's done a terrible job for the African-Americans.	N/A	-	-
+136	TRUMP	She wants their vote, and she does nothing, and then she comes back four years later.	N/A	-	-
+137	TRUMP	We saw that firsthand when she was United States senator.	N/A	-	-
+138	TRUMP	She campaigned where the primary part of her campaign...	N/A	-	-
+139	RADDATZ	Mr. Trump, Mr. Trump -- I want to get to audience questions and online questions.	N/A	-	-
+140	TRUMP	So, she's allowed to do that, but I'm not allowed to respond?	N/A	-	-
+141	RADDATZ	You're going to have -- you're going to get to respond right now.	N/A	-	-
+142	TRUMP	Sounds fair.	N/A	-	-
+143	RADDATZ	This tape is generating intense interest.	N/A	-	-
+144	RADDATZ	In just 48 hours, it's become the single most talked about story of the entire 2016 election on Facebook, with millions and millions of people discussing it on the social network.	N/A	-	-
+145	RADDATZ	As we said a moment ago, we do want to bring in questions from voters around country via social media, and our first stays on this topic.	N/A	-	-
+146	RADDATZ	Jeff from Ohio asks on Facebook, "Trump says the campaign has changed him.	N/A	-	-
+147	RADDATZ	When did that happen?"	N/A	-	-
+148	RADDATZ	So, Mr. Trump, let me add to that.	N/A	-	-
+149	RADDATZ	When you walked off that bus at age 59, were you a different man or did that behavior continue until just recently?	N/A	-	-
+150	RADDATZ	And you have two minutes for this.	N/A	-	-
+151	TRUMP	It was locker room talk, as I told you.	N/A	-	-
+152	TRUMP	That was locker room talk.	N/A	-	-
+153	TRUMP	I'm not proud of it.	N/A	-	-
+154	TRUMP	I am a person who has great respect for people, for my family, for the people of this country.	N/A	-	-
+155	TRUMP	And certainly, I'm not proud of it.	N/A	-	-
+156	TRUMP	But that was something that happened.	N/A	-	-
+157	TRUMP	If you look at Bill Clinton, far worse.	N/A	-	-
+158	TRUMP	Mine are words, and his was action.	N/A	-	-
+159	TRUMP	His was what he's done to women.	N/A	-	-
+160	TRUMP	There's never been anybody in the history politics in this nation that's been so abusive to women.	N/A	-	-
+161	TRUMP	So you can say any way you want to say it, but Bill Clinton was abusive to women.	3	Bill Clinton was abusive to Kathy Shelton.	FALSE
+162	TRUMP	Hillary Clinton attacked those same women and attacked them viciously.	N/A	-	-
+163	TRUMP	Four of them here tonight.	N/A	-	-
+164	TRUMP	One of the women, who is a wonderful woman, at 12 years old, was raped at 12.	4	Kathy Shelton was raped when she was 12.	TRUE
+165	TRUMP	Her client she represented got him off, and she's seen laughing on two separate occasions, laughing at the girl who was raped.	5	Hillary Clinton was seen laughing at Kathy Shelton, a girl who was raped.	HALF-TRUE
+166	TRUMP	Kathy Shelton, that young woman is here with us tonight.	N/A	-	-
+167	TRUMP	So don't tell me about words.	N/A	-	-
+168	TRUMP	I am absolutely -- I apologize for those words.	N/A	-	-
+169	TRUMP	But it is things that people say.	N/A	-	-
+170	TRUMP	But what President Clinton did, he was impeached, he lost his license to practice law.	N/A	-	-
+171	TRUMP	He had to pay an $850,000 fine to one of the women.	N/A	-	-
+172	TRUMP	Paula Jones, who's also here tonight.	N/A	-	-
+173	TRUMP	And I will tell you that when Hillary brings up a point like that and she talks about words that I said 11 years ago, I think it's disgraceful, and I think she should be ashamed of herself, if you want to know the truth.	N/A	-	-
+174	SYSTEM	(APPLAUSE)	N/A	-	-
+175	RADDATZ	Can we please hold the applause?	N/A	-	-
+176	RADDATZ	Secretary Clinton, you have two minutes.	N/A	-	-
+177	CLINTON	Well, first, let me start by saying that so much of what he's just said is not right, but he gets to run his campaign any way he chooses.	N/A	-	-
+178	CLINTON	He gets to decide what he wants to talk about.	N/A	-	-
+179	CLINTON	Instead of answering people's questions, talking about our agenda, laying out the plans that we have that we think can make a better life and a better country, that's his choice.	N/A	-	-
+180	CLINTON	When I hear something like that, I am reminded of what my friend, Michelle Obama, advised us all: When they go low, you go high.	N/A	-	-
+181	SYSTEM	(APPLAUSE)	N/A	-	-
+182	CLINTON	And, look, if this were just about one video, maybe what he's saying tonight would be understandable, but everyone can draw their own conclusions at this point about whether or not the man in the video or the man on the stage respects women.	N/A	-	-
+183	CLINTON	But he never apologizes for anything to anyone.	N/A	-	-
+184	CLINTON	He never apologized to Mr. and Mrs. Khan, the Gold Star family whose son, Captain Khan, died in the line of duty in Iraq.	N/A	-	-
+185	CLINTON	And Donald insulted and attacked them for weeks over their religion.	N/A	-	-
+186	CLINTON	He never apologized to the distinguished federal judge who was born in Indiana, but Donald said he couldn't be trusted to be a judge because his parents were, quote, "Mexican."	N/A	-	-
+187	CLINTON	He never apologized to the reporter that he mimicked and mocked on national television and our children were watching.	N/A	-	-
+188	CLINTON	And he never apologized for the racist lie that President Obama was not born in the United States of America.	N/A	-	-
+189	CLINTON	He owes the president an apology, he owes our country an apology, and he needs to take responsibility for his actions and his words.	N/A	-	-
+190	TRUMP	Well, you owe the president an apology, because as you know very well, your campaign, Sidney Blumenthal -- he's another real winner that you have -- and he's the one that got this started, along with your campaign manager, and they were on television just two weeks ago, she was, saying exactly that.	6	Patti Solis Doyle, Clinton’s 2008 campaign manager, and Sidney Blumenthal, a senior adviser to Clinton’s 2008 campaign, started an investigation on Barack Obama’s birth place.	FALSE
+191	TRUMP	So you really owe him an apology.	N/A	-	-
+192	TRUMP	You're the one that sent the pictures around your campaign, sent the pictures around with President Obama in a certain garb.	N/A	-	-
+193	TRUMP	That was long before I was ever involved, so you actually owe an apology.	N/A	-	-
+194	TRUMP	Number two, Michelle Obama.	N/A	-	-
+195	TRUMP	I've gotten to see the commercials that they did on you.	N/A	-	-
+196	TRUMP	And I've gotten to see some of the most vicious commercials I've ever seen of Michelle Obama talking about you, Hillary.	N/A	-	-
+197	TRUMP	So, you talk about friend?	N/A	-	-
+198	TRUMP	Go back and take a look at those commercials, a race where you lost fair and square, unlike the Bernie Sanders race, where you won, but not fair and square, in my opinion.	N/A	-	-
+199	TRUMP	And all you have to do is take a look at WikiLeaks and just see what they say about Bernie Sanders and see what Deborah Wasserman Schultz had in mind, because Bernie Sanders, between super-delegates and Deborah Wasserman Schultz, he never had a chance.	N/A	-	-
+200	TRUMP	And I was so surprised to see him sign on with the devil.	N/A	-	-
+201	TRUMP	But when you talk about apology, I think the one that you should really be apologizing for and the thing that you should be apologizing for are the 33,000 e-mails that you deleted, and that you acid washed, and then the two boxes of e-mails and other things last week that were taken from an office and are now missing.	N/A	-	-
+202	TRUMP	And I'll tell you what.	N/A	-	-
+203	TRUMP	I didn't think I'd say this, but I'm going to say it, and I hate to say it.	N/A	-	-
+204	TRUMP	But if I win, I am going to instruct my attorney general to get a special prosecutor to look into your situation, because there has never been so many lies, so much deception.	N/A	-	-
+205	TRUMP	There has never been anything like it, and we're going to have a special prosecutor.	N/A	-	-
+206	TRUMP	When I speak, I go out and speak, the people of this country are furious.	N/A	-	-
+207	TRUMP	In my opinion, the people that have been long-term workers at the FBI are furious.	N/A	-	-
+208	TRUMP	There has never been anything like this, where e-mails -- and you get a subpoena, you get a subpoena, and after getting the subpoena, you delete 33,000 e-mails, and then you acid wash them or bleach them, as you would say, very expensive process.	7	After getting a subpoena to surrender the emails from her private server to the FBI, Hillary Clinton acid washed or bleached 33,000 emails.	FALSE
+209	TRUMP	So we're going to get a special prosecutor, and we're going to look into it, because you know what?	N/A	-	-
+210	TRUMP	People have been -- their lives have been destroyed for doing one-fifth of what you've done.	N/A	-	-
+211	TRUMP	And it's a disgrace.	N/A	-	-
+212	TRUMP	And honestly, you ought to be ashamed of yourself.	N/A	-	-
+213	RADDATZ	Secretary Clinton, I want to follow up on that.	N/A	-	-
+214	SYSTEM	(CROSSTALK)	N/A	-	-
+215	RADDATZ	I'm going to let you talk about e-mails.	N/A	-	-
+216	CLINTON	because everything he just said is absolutely false, but I'm not surprised.	N/A	-	-
+217	TRUMP	Oh, really?	N/A	-	-
+218	CLINTON	In the first debate...	N/A	-	-
+219	SYSTEM	(LAUGHTER)	N/A	-	-
+220	RADDATZ	And really, the audience needs to calm down here.	N/A	-	-
+221	CLINTON	I told people that it would be impossible to be fact-checking Donald all the time.	N/A	-	-
+222	CLINTON	I'd never get to talk about anything I want to do and how we're going to really make lives better for people.	N/A	-	-
+223	CLINTON	So, once again, go to HillaryClinton.com.	N/A	-	-
+224	CLINTON	We have literally Trump -- you can fact check him in real time.	N/A	-	-
+225	CLINTON	Last time at the first debate, we had millions of people fact checking, so I expect we'll have millions more fact checking, because, you know, it is -- it's just awfully good that someone with the temperament of Donald Trump is not in charge of the law in our country.	N/A	-	-
+226	TRUMP	Because you'd be in jail.	N/A	-	-
+227	SYSTEM	(APPLAUSE)	N/A	-	-
+228	RADDATZ	Secretary Clinton...	N/A	-	-
+229	COOPER	We want to remind the audience to please not talk out loud.	N/A	-	-
+230	COOPER	Please do not applaud.	N/A	-	-
+231	COOPER	You're just wasting time.	N/A	-	-
+232	RADDATZ	And, Secretary Clinton, I do want to follow up on e- mails.	N/A	-	-
+233	RADDATZ	You've said your handing of your e-mails was a mistake.	N/A	-	-
+234	RADDATZ	You disagreed with FBI Director James Comey, calling your handling of classified information, quote, "extremely careless."	N/A	-	-
+235	RADDATZ	The FBI said that there were 110 classified e-mails that were exchanged, eight of which were top secret, and that it was possible hostile actors did gain access to those e-mails.	N/A	-	-
+236	RADDATZ	You don't call that extremely careless?	N/A	-	-
+237	CLINTON	Well, Martha, first, let me say -- and I've said before, but I'll repeat it, because I want everyone to hear it -- that was a mistake, and I take responsibility for using a personal e-mail account.	N/A	-	-
+238	CLINTON	Obviously, if I were to do it over again, I would not.	N/A	-	-
+239	CLINTON	I'm not making any excuses.	N/A	-	-
+240	CLINTON	It was a mistake.	N/A	-	-
+241	CLINTON	And I am very sorry about that.	N/A	-	-
+242	CLINTON	But I think it's also important to point out where there are some misleading accusations from critics and others.	N/A	-	-
+243	CLINTON	After a year-long investigation, there is no evidence that anyone hacked the server I was using and there is no evidence that anyone can point to at all -- anyone who says otherwise has no basis -- that any classified material ended up in the wrong hands.	8	FBI has no evidence that anyone hacked the private email server that Hillary Clinton was using during her tenure as Secretary of State.	TRUE
+244	CLINTON	I take classified materials very seriously and always have.	N/A	-	-
+245	CLINTON	When I was on the Senate Armed Services Committee, I was privy to a lot of classified material.	N/A	-	-
+246	CLINTON	Obviously, as secretary of state, I had some of the most important secrets that we possess, such as going after bin Laden.	N/A	-	-
+247	CLINTON	So I am very committed to taking classified information seriously.	N/A	-	-
+248	CLINTON	And as I said, there is no evidence that any classified information ended up in the wrong hands.	N/A	-	-
+249	RADDATZ	OK, we're going to move on.	N/A	-	-
+250	TRUMP	And yet she didn't know the word -- the letter C on a document.	N/A	-	-
+251	TRUMP	Right?	N/A	-	-
+252	TRUMP	She didn't even know what that word -- what that letter meant.	N/A	-	-
+253	TRUMP	You know, it's amazing.	N/A	-	-
+254	TRUMP	I'm watching Hillary go over facts.	N/A	-	-
+255	TRUMP	And she's going after fact after fact, and she's lying again, because she said she -- you know, what she did with the e-mail was fine.	N/A	-	-
+256	TRUMP	You think it was fine to delete 33,000 e-mails?	N/A	-	-
+257	TRUMP	I don't think so.	N/A	-	-
+258	TRUMP	She said the 33,000 e-mails had to do with her daughter's wedding, number one, and a yoga class.	N/A	-	-
+259	TRUMP	Well, maybe we'll give three or three or four or five or something.	N/A	-	-
+260	TRUMP	33,000 e-mails deleted, and now she's saying there wasn't anything wrong.	N/A	-	-
+261	TRUMP	And more importantly, that was after getting a subpoena.	N/A	-	-
+262	TRUMP	That wasn't before.	N/A	-	-
+263	TRUMP	That was after.	N/A	-	-
+264	TRUMP	She got it from the United States Congress.	N/A	-	-
+265	TRUMP	And I'll be honest, I am so disappointed in congressmen, including Republicans, for allowing this to happen.	N/A	-	-
+266	TRUMP	Our Justice Department, where our husband goes on to the back of a airplane for 39 minutes, talks to the attorney general days before a ruling is going to be made on her case.	N/A	-	-
+267	TRUMP	But for you to say that there was nothing wrong with you deleting 39,000 e-mails, again, you should be ashamed of yourself.	N/A	-	-
+268	TRUMP	What you did -- and this is after getting a subpoena from the United States Congress.	N/A	-	-
+269	COOPER	We have to move on.	N/A	-	-
+270	TRUMP	You did that.	N/A	-	-
+271	TRUMP	Wait a minute.	N/A	-	-
+272	TRUMP	One second.	N/A	-	-
+273	COOPER	Secretary Clinton, you can respond, and then we got to move on.	N/A	-	-
+274	RADDATZ	We want to give the audience a chance.	N/A	-	-
+275	TRUMP	If you did that in the private sector, you'd be put in jail, let alone after getting a subpoena from the United States Congress.	N/A	-	-
+276	COOPER	Secretary Clinton, you can respond.	N/A	-	-
+277	COOPER	Then we have to move on to an audience question.	N/A	-	-
+278	CLINTON	Look, it's just not true.	N/A	-	-
+279	CLINTON	And so please, go to...	N/A	-	-
+280	TRUMP	Oh, you didn't delete them?	N/A	-	-
+281	COOPER	Allow her to respond, please.	N/A	-	-
+282	CLINTON	It was personal e-mails, not official.	N/A	-	-
+283	TRUMP	Oh, 33,000?	N/A	-	-
+284	TRUMP	Yeah.	N/A	-	-
+285	CLINTON	Not -- well, we turned over 35,000, so...	N/A	-	-
+286	TRUMP	Oh, yeah.	N/A	-	-
+287	TRUMP	What about the other 15,000?	N/A	-	-
+288	COOPER	Please allow her to respond.	N/A	-	-
+289	COOPER	She didn't talk while you talked.	N/A	-	-
+290	CLINTON	Yes, that's true, I didn't.	N/A	-	-
+291	TRUMP	Because you have nothing to say.	N/A	-	-
+292	CLINTON	I didn't in the first debate, and I'm going to try not to in this debate, because I'd like to get to the questions that the people have brought here tonight to talk to us about.	N/A	-	-
+293	TRUMP	Get off this question.	N/A	-	-
+294	CLINTON	OK, Donald.	N/A	-	-
+295	CLINTON	I know you're into big diversion tonight, anything to avoid talking about your campaign and the way it's exploding and the way Republicans are leaving you.	N/A	-	-
+296	CLINTON	But let's at least focus...	N/A	-	-
+297	TRUMP	Let's see what happens...	N/A	-	-
+298	SYSTEM	(CROSSTALK)	N/A	-	-
+299	COOPER	Allow her to respond.	N/A	-	-
+300	CLINTON	on some of the issues that people care about tonight.	N/A	-	-
+301	CLINTON	Let's get to their questions.	N/A	-	-
+302	COOPER	We have a question here from Ken Karpowicz.	N/A	-	-
+303	COOPER	He has a question about health care.	N/A	-	-
+304	COOPER	Ken?	N/A	-	-
+305	TRUMP	I'd like to know, Anderson, why aren't you bringing up the e-mails?	N/A	-	-
+306	TRUMP	I'd like to know.	N/A	-	-
+307	TRUMP	Why aren't you bringing...	N/A	-	-
+308	COOPER	We brought up the e-mails.	N/A	-	-
+309	TRUMP	No, it hasn't.	N/A	-	-
+310	TRUMP	It hasn't.	N/A	-	-
+311	TRUMP	And it hasn't been finished at all.	N/A	-	-
+312	COOPER	Ken Karpowicz has a question.	N/A	-	-
+313	TRUMP	It's nice to -- one on three.	N/A	-	-
+314	QUESTION	Thank you.	N/A	-	-
+315	QUESTION	Affordable Care Act, known as Obamacare, it is not affordable.	N/A	-	-
+316	QUESTION	Premiums have gone up.	N/A	-	-
+317	QUESTION	Deductibles have gone up.	N/A	-	-
+318	QUESTION	Copays have gone up.	N/A	-	-
+319	QUESTION	Prescriptions have gone up.	N/A	-	-
+320	QUESTION	And the coverage has gone down.	N/A	-	-
+321	QUESTION	What will you do to bring the cost down and make coverage better?	N/A	-	-
+322	COOPER	That first one goes to Secretary Clinton, because you started out the last one to the audience.	N/A	-	-
+323	CLINTON	If he wants to start, he can start.	N/A	-	-
+324	CLINTON	No, go ahead, Donald.	N/A	-	-
+325	TRUMP	No, I'm a gentlemen, Hillary.	N/A	-	-
+326	TRUMP	Go ahead.	N/A	-	-
+327	SYSTEM	(LAUGHTER)	N/A	-	-
+328	COOPER	Secretary Clinton?	N/A	-	-
+329	CLINTON	Well, I think Donald was about to say he's going to solve it by repealing it and getting rid of the Affordable Care Act.	N/A	-	-
+330	CLINTON	And I'm going to fix it, because I agree with you.	N/A	-	-
+331	CLINTON	Premiums have gotten too high.	N/A	-	-
+332	CLINTON	Copays, deductibles, prescription drug costs, and I've laid out a series of actions that we can take to try to get those costs down.	N/A	-	-
+333	CLINTON	But here's what I don't want people to forget when we're talking about reining in the costs, which has to be the highest priority of the next president, when the Affordable Care Act passed, it wasn't just that 20 million got insurance who didn't have it before.	N/A	-	-
+334	CLINTON	But that in and of itself was a good thing.	N/A	-	-
+335	CLINTON	I meet these people all the time, and they tell me what a difference having that insurance meant to them and their families.	N/A	-	-
+336	CLINTON	But everybody else, the 170 million of us who get health insurance through our employees got big benefits.	N/A	-	-
+337	CLINTON	Number one, insurance companies can't deny you coverage because of a pre-existing condition.	N/A	-	-
+338	CLINTON	Number two, no lifetime limits, which is a big deal if you have serious health problems.	N/A	-	-
+339	CLINTON	Number three, women can't be charged more than men for our health insurance, which is the way it used to be before the Affordable Care Act.	N/A	-	-
+340	CLINTON	Number four, if you're under 26, and your parents have a policy, you can be on that policy until the age of 26, something that didn't happen before.	9	Under the Affordable Care Act, young adults under age 26 are allowed to remain on their parents' plans.	TRUE
+341	CLINTON	So I want very much to save what works and is good about the Affordable Care Act.	N/A	-	-
+342	CLINTON	But we've got to get costs down.	N/A	-	-
+343	CLINTON	We've got to provide additional help to small businesses so that they can afford to provide health insurance.	N/A	-	-
+344	CLINTON	But if we repeal it, as Donald has proposed, and start over again, all of those benefits I just mentioned are lost to everybody, not just people who get their health insurance on the exchange.	N/A	-	-
+345	CLINTON	And then we would have to start all over again.	N/A	-	-
+346	CLINTON	Right now, we are at 90 percent health insurance coverage.	N/A	-	-
+347	CLINTON	That's the highest we've ever been in our country.	N/A	-	-
+348	COOPER	Secretary Clinton, your time is up.	N/A	-	-
+349	CLINTON	So I want us to get to 100 percent, but get costs down and keep quality up.	N/A	-	-
+350	COOPER	Mr. Trump, you have two minutes.	N/A	-	-
+351	TRUMP	It is such a great question and it's maybe the question I get almost more than anything else, outside of defense.	N/A	-	-
+352	TRUMP	Obamacare is a disaster.	N/A	-	-
+353	TRUMP	You know it.	N/A	-	-
+354	TRUMP	We all know it.	N/A	-	-
+355	TRUMP	It's going up at numbers that nobody's ever seen worldwide.	N/A	-	-
+356	TRUMP	Nobody's ever seen numbers like this for health care.	N/A	-	-
+357	TRUMP	It's only getting worse.	N/A	-	-
+358	TRUMP	In '17, it implodes by itself.	N/A	-	-
+359	TRUMP	Their method of fixing it is to go back and ask Congress for more money, more and more money.	N/A	-	-
+360	TRUMP	We have right now almost $20 trillion in debt.	N/A	-	-
+361	TRUMP	Obamacare will never work.	N/A	-	-
+362	TRUMP	It's very bad, very bad health insurance.	N/A	-	-
+363	TRUMP	Far too expensive.	N/A	-	-
+364	TRUMP	And not only expensive for the person that has it, unbelievably expensive for our country.	N/A	-	-
+365	TRUMP	It's going to be one of the biggest line items very shortly.	N/A	-	-
+366	TRUMP	We have to repeal it and replace it with something absolutely much less expensive and something that works, where your plan can actually be tailored.	N/A	-	-
+367	TRUMP	We have to get rid of the lines around the state, artificial lines, where we stop insurance companies from coming in and competing, because they want -- and President Obama and whoever was working on it -- they want to leave those lines, because that gives the insurance companies essentially monopolies.	N/A	-	-
+368	TRUMP	We want competition.	N/A	-	-
+369	TRUMP	You will have the finest health care plan there is.	N/A	-	-
+370	TRUMP	She wants to go to a single-payer plan, which would be a disaster, somewhat similar to Canada.	10	Clinton wants to go to a single-payer health care plan.	FALSE
+371	TRUMP	And if you haven't noticed the Canadians, when they need a big operation, when something happens, they come into the United States in many cases because their system is so slow.	N/A	-	-
+372	TRUMP	It's catastrophic in certain ways.	N/A	-	-
+373	TRUMP	But she wants to go to single payer, which means the government basically rules everything.	N/A	-	-
+374	TRUMP	Hillary Clinton has been after this for years.	N/A	-	-
+375	TRUMP	Obamacare was the first step.	N/A	-	-
+376	TRUMP	Obamacare is a total disaster.	N/A	-	-
+377	TRUMP	And not only are your rates going up by numbers that nobody's ever believed, but your deductibles are going up, so that unless you get hit by a truck, you're never going to be able to use it.	N/A	-	-
+378	COOPER	Mr. Trump, your time...	N/A	-	-
+379	TRUMP	It is a disastrous plan, and it has to be repealed and replaced.	N/A	-	-
+380	COOPER	Secretary Clinton, let me follow up with you.	N/A	-	-
+381	COOPER	Your husband called Obamacare, quote, "the craziest thing in the world," saying that small-business owners are getting killed as premiums double, coverage is cut in half.	N/A	-	-
+382	COOPER	Was he mistaken or was the mistake simply telling the truth?	N/A	-	-
+383	CLINTON	No, I mean, he clarified what he meant.	N/A	-	-
+384	CLINTON	And it's very clear.	N/A	-	-
+385	CLINTON	Look, we are in a situation in our country where if we were to start all over again, we might come up with a different system.	N/A	-	-
+386	CLINTON	But we have an employer-based system.	N/A	-	-
+387	CLINTON	That's where the vast majority of people get their health care.	N/A	-	-
+388	CLINTON	And the Affordable Care Act was meant to try to fill the gap between people who were too poor and couldn't put together any resources to afford health care, namely people on Medicaid.	N/A	-	-
+389	CLINTON	Obviously, Medicare, which is a single-payer system, which takes care of our elderly and does a great job doing it, by the way, and then all of the people who were employed, but people who were working but didn't have the money to afford insurance and didn't have anybody, an employer or anybody else, to help them.	N/A	-	-
+390	CLINTON	That was the slot that the Obamacare approach was to take.	N/A	-	-
+391	CLINTON	And like I say, 20 million people now have health insurance.	N/A	-	-
+392	CLINTON	So if we just rip it up and throw it away, what Donald's not telling you is we just turn it back to the insurance companies the way it used to be, and that means the insurance companies...	N/A	-	-
+393	COOPER	Secretary Clinton...	N/A	-	-
+394	CLINTON	get to do pretty much whatever they want, including saying, look, I'm sorry, you've got diabetes, you had cancer, your child has asthma...	N/A	-	-
+395	COOPER	Your time is up.	N/A	-	-
+396	CLINTON	you may not be able to have insurance because you can't afford it.	N/A	-	-
+397	CLINTON	So let's fix what's broken about it, but let's not throw it away and give it all back to the insurance companies and the drug companies.	N/A	-	-
+398	CLINTON	That's not going to work.	N/A	-	-
+399	COOPER	Mr. Trump, let me follow up on this.	N/A	-	-
+400	TRUMP	Well, I just want -- just one thing.	N/A	-	-
+401	TRUMP	First of all, Hillary, everything's broken about it.	N/A	-	-
+402	TRUMP	Everything.	N/A	-	-
+403	TRUMP	Number two, Bernie Sanders said that Hillary Clinton has very bad judgment.	N/A	-	-
+404	TRUMP	This is a perfect example of it, trying to save Obamacare, which is a disaster.	N/A	-	-
+405	COOPER	You've said you want to end Obamacare...	N/A	-	-
+406	TRUMP	By the way...	N/A	-	-
+407	COOPER	You've said you want to end Obamacare.	N/A	-	-
+408	COOPER	You've also said you want to make coverage accessible for people with pre-existing conditions.	N/A	-	-
+409	COOPER	How do you force insurance companies to do that if you're no longer mandating that every American get insurance?	N/A	-	-
+410	TRUMP	We're going to be able to.	N/A	-	-
+411	TRUMP	You're going to have plans...	N/A	-	-
+412	COOPER	What does that mean?	N/A	-	-
+413	TRUMP	Well, I'll tell you what it means.	N/A	-	-
+414	TRUMP	You're going to have plans that are so good, because we're going to have so much competition in the insurance industry.	N/A	-	-
+415	TRUMP	Once we break out -- once we break out the lines and allow the competition to come...	N/A	-	-
+416	COOPER	Are you going -- are you going to have a mandate that Americans have to have health insurance?	N/A	-	-
+417	TRUMP	President Obama -- Anderson, excuse me.	N/A	-	-
+418	TRUMP	President Obama, by keeping those lines, the boundary lines around each state, it was almost gone until just very toward the end of the passage of Obamacare, which, by the way, was a fraud.	N/A	-	-
+419	TRUMP	You know that, because Jonathan Gruber, the architect of Obamacare, was said -- he said it was a great lie, it was a big lie.	N/A	-	-
+420	TRUMP	President Obama said you keep your doctor, you keep your plan.	N/A	-	-
+421	TRUMP	The whole thing was a fraud, and it doesn't work.	N/A	-	-
+422	TRUMP	But when we get rid of those lines, you will have competition, and we will be able to keep pre-existing, we'll also be able to help people that can't get -- don't have money because we are going to have people protected.	N/A	-	-
+423	TRUMP	And Republicans feel this way, believe it or not, and strongly this way.	N/A	-	-
+424	TRUMP	We're going to block grant into the states.	N/A	-	-
+425	TRUMP	We're going to block grant into Medicaid into the states...	N/A	-	-
+426	COOPER	Thank you, Mr. Trump.	N/A	-	-
+427	TRUMP	so that we will be able to take care of people without the necessary funds to take care of themselves.	N/A	-	-
+428	COOPER	Thank you, Mr. Trump.	N/A	-	-
+429	RADDATZ	We now go to Gorbah Hamed with a question for both candidates.	N/A	-	-
+430	QUESTION	Hi.	N/A	-	-
+431	QUESTION	There are 3.3 million Muslims in the United States, and I'm one of them.	N/A	-	-
+432	QUESTION	You've mentioned working with Muslim nations, but with Islamophobia on the rise, how will you help people like me deal with the consequences of being labeled as a threat to the country after the election is over?	N/A	-	-
+433	RADDATZ	Mr. Trump, you're first.	N/A	-	-
+434	TRUMP	Well, you're right about Islamophobia, and that's a shame.	N/A	-	-
+435	TRUMP	But one thing we have to do is we have to make sure that -- because there is a problem.	N/A	-	-
+436	TRUMP	I mean, whether we like it or not, and we could be very politically correct, but whether we like it or not, there is a problem.	N/A	-	-
+437	TRUMP	And we have to be sure that Muslims come in and report when they see something going on.	N/A	-	-
+438	TRUMP	When they see hatred going on, they have to report it.	N/A	-	-
+439	TRUMP	As an example, in San Bernardino, many people saw the bombs all over the apartment of the two people that killed 14 and wounded many, many people.	11	Many people saw bombs at the apartment of the San Bernardino shooters.	FALSE
+440	TRUMP	Horribly wounded.	N/A	-	-
+441	TRUMP	They'll never be the same.	N/A	-	-
+442	TRUMP	Muslims have to report the problems when they see them.	N/A	-	-
+443	TRUMP	And, you know, there's always a reason for everything.	N/A	-	-
+444	TRUMP	If they don't do that, it's a very difficult situation for our country, because you look at Orlando and you look at San Bernardino and you look at the World Trade Center.	N/A	-	-
+445	TRUMP	Go outside.	N/A	-	-
+446	TRUMP	Look at Paris.	N/A	-	-
+447	TRUMP	Look at that horrible -- these are radical Islamic terrorists.	N/A	-	-
+448	TRUMP	And she won't even mention the word and nor will President Obama.	N/A	-	-
+449	TRUMP	He won't use the term "radical Islamic terrorism."	N/A	-	-
+450	TRUMP	Now, to solve a problem, you have to be able to state what the problem is or at least say the name.	N/A	-	-
+451	TRUMP	She won't say the name and President Obama won't say the name.	N/A	-	-
+452	TRUMP	But the name is there.	N/A	-	-
+453	TRUMP	It's radical Islamic terror.	N/A	-	-
+454	TRUMP	And before you solve it, you have to say the name.	N/A	-	-
+455	RADDATZ	Secretary Clinton?	N/A	-	-
+456	CLINTON	Well, thank you for asking your question.	N/A	-	-
+457	CLINTON	And I've heard this question from a lot of Muslim-Americans across our country, because, unfortunately, there's been a lot of very divisive, dark things said about Muslims.	N/A	-	-
+458	CLINTON	And even someone like Captain Khan, the young man who sacrificed himself defending our country in the United States Army, has been subject to attack by Donald.	N/A	-	-
+459	CLINTON	I want to say just a couple of things.	N/A	-	-
+460	CLINTON	First, we've had Muslims in America since George Washington.	N/A	-	-
+461	CLINTON	And we've had many successful Muslims.	N/A	-	-
+462	CLINTON	We just lost a particular well-known one with Muhammad Ali.	N/A	-	-
+463	CLINTON	My vision of America is an America where everyone has a place, if you're willing to work hard, you do your part, you contribute to the community.	N/A	-	-
+464	CLINTON	That's what America is.	N/A	-	-
+465	CLINTON	That's what we want America to be for our children and our grandchildren.	N/A	-	-
+466	CLINTON	It's also very short-sighted and even dangerous to be engaging in the kind of demagogic rhetoric that Donald has about Muslims.	N/A	-	-
+467	CLINTON	We need American Muslims to be part of our eyes and ears on our front lines.	N/A	-	-
+468	CLINTON	I've worked with a lot of different Muslim groups around America.	N/A	-	-
+469	CLINTON	I've met with a lot of them, and I've heard how important it is for them to feel that they are wanted and included and part of our country, part of our homeland security, and that's what I want to see.	N/A	-	-
+470	CLINTON	It's also important I intend to defeat ISIS, to do so in a coalition with majority Muslim nations.	N/A	-	-
+471	CLINTON	Right now, a lot of those nations are hearing what Donald says and wondering, why should we cooperate with the Americans?	N/A	-	-
+472	CLINTON	And this is a gift to ISIS and the terrorists, violent jihadist terrorists.	N/A	-	-
+473	CLINTON	We are not at war with Islam.	N/A	-	-
+474	CLINTON	And it is a mistake and it plays into the hands of the terrorists to act as though we are.	N/A	-	-
+475	CLINTON	So I want a country where citizens like you and your family are just as welcome as anyone else.	N/A	-	-
+476	RADDATZ	Thank you, Secretary Clinton.	N/A	-	-
+477	RADDATZ	Mr. Trump, in December, you said this.	N/A	-	-
+478	RADDATZ	Donald J. Trump is calling for a total and complete shutdown of Muslims entering the United States until our country's representatives can figure out what the hell is going on.	N/A	-	-
+479	RADDATZ	We have no choice.	N/A	-	-
+480	RADDATZ	We have no choice.	N/A	-	-
+481	RADDATZ	Your running mate said this week that the Muslim ban is no longer your position.	N/A	-	-
+482	RADDATZ	Is that correct?	N/A	-	-
+483	RADDATZ	And if it is, was it a mistake to have a religious test?	N/A	-	-
+484	TRUMP	First of all, Captain Khan is an American hero, and if I were president at that time, he would be alive today, because unlike her, who voted for the war without knowing what she was doing, I would not have had our people in Iraq.	N/A	-	-
+485	TRUMP	Iraq was disaster.	N/A	-	-
+486	TRUMP	So he would have been alive today.	N/A	-	-
+487	TRUMP	The Muslim ban is something that in some form has morphed into a extreme vetting from certain areas of the world.	N/A	-	-
+488	TRUMP	Hillary Clinton wants to allow hundreds of thousands -- excuse me.	N/A	-	-
+489	TRUMP	Excuse me..	N/A	-	-
+490	RADDATZ	And why did it morph into that?	N/A	-	-
+491	RADDATZ	No, did you -- no, answer the question.	N/A	-	-
+492	RADDATZ	Do you still believe...	N/A	-	-
+493	TRUMP	Why don't you interrupt her?	N/A	-	-
+494	TRUMP	You interrupt me all the time.	N/A	-	-
+495	RADDATZ	I do.	N/A	-	-
+496	TRUMP	Why don't you interrupt her?	N/A	-	-
+497	RADDATZ	Would you please explain whether or not the Muslim ban still stands?	N/A	-	-
+498	TRUMP	It's called extreme vetting.	N/A	-	-
+499	TRUMP	We are going to areas like Syria where they're coming in by the tens of thousands because of Barack Obama.	N/A	-	-
+500	TRUMP	And Hillary Clinton wants to allow a 550 percent increase over Obama.	N/A	-	-
+501	TRUMP	People are coming into our country like we have no idea who they are, where they are from, what their feelings about our country is, and she wants 550 percent more.	N/A	-	-
+502	TRUMP	This is going to be the great Trojan horse of all time.	N/A	-	-
+503	TRUMP	We have enough problems in this country.	N/A	-	-
+504	TRUMP	I believe in building safe zones.	N/A	-	-
+505	TRUMP	I believe in having other people pay for them, as an example, the Gulf states, who are not carrying their weight, but they have nothing but money, and take care of people.	N/A	-	-
+506	TRUMP	But I don't want to have, with all the problems this country has and all of the problems that you see going on, hundreds of thousands of people coming in from Syria when we know nothing about them.	N/A	-	-
+507	TRUMP	We know nothing about their values and we know nothing about their love for our country.	N/A	-	-
+508	RADDATZ	And, Secretary Clinton, let me ask you about that, because you have asked for an increase from 10,000 to 65,000 Syrian refugees.	N/A	-	-
+509	RADDATZ	We know you want tougher vetting.	N/A	-	-
+510	RADDATZ	That's not a perfect system.	N/A	-	-
+511	RADDATZ	So why take the risk of having those refugees come into the country?	N/A	-	-
+512	CLINTON	Well, first of all, I will not let anyone into our country that I think poses a risk to us.	N/A	-	-
+513	CLINTON	But there are a lot of refugees, women and children -- think of that picture we all saw of that 4-year-old boy with the blood on his forehead because he'd been bombed by the Russian and Syrian air forces.	N/A	-	-
+514	CLINTON	There are children suffering in this catastrophic war, largely, I believe, because of Russian aggression.	N/A	-	-
+515	CLINTON	And we need to do our part.	N/A	-	-
+516	CLINTON	We by no means are carrying anywhere near the load that Europe and others are.	N/A	-	-
+517	CLINTON	But we will have vetting that is as tough as it needs to be from our professionals, our intelligence experts and others.	N/A	-	-
+518	CLINTON	But it is important for us as a policy, you know, not to say, as Donald has said, we're going to ban people based on a religion.	N/A	-	-
+519	CLINTON	How do you do that?	N/A	-	-
+520	CLINTON	We are a country founded on religious freedom and liberty.	N/A	-	-
+521	CLINTON	How do we do what he has advocated without causing great distress within our own county?	N/A	-	-
+522	CLINTON	Are we going to have religious tests when people fly into our country?	N/A	-	-
+523	CLINTON	And how do we expect to be able to implement those?	N/A	-	-
+524	CLINTON	So I thought that what he said was extremely unwise and even dangerous.	N/A	-	-
+525	CLINTON	And indeed, you can look at the propaganda on a lot of the terrorists sites, and what Donald Trump says about Muslims is used to recruit fighters, because they want to create a war between us.	N/A	-	-
+526	CLINTON	And the final thing I would say, this is the 10th or 12th time that he's denied being for the war in Iraq.	N/A	-	-
+527	CLINTON	We have it on tape.	N/A	-	-
+528	CLINTON	The entire press corps has looked at it.	N/A	-	-
+529	CLINTON	It's been debunked, but it never stops him from saying whatever he wants to say.	N/A	-	-
+530	TRUMP	That's not been debunked.	N/A	-	-
+531	CLINTON	So, please...	N/A	-	-
+532	TRUMP	That has not been debunked.	N/A	-	-
+533	CLINTON	go to HillaryClinton.com and you can see it.	N/A	-	-
+534	TRUMP	I was against -- I was against the war in Iraq.	12	Donald Trump was openly against the war in Iraq.	FALSE
+535	TRUMP	Has not been debunked.	N/A	-	-
+536	TRUMP	And you voted for it.	N/A	-	-
+537	TRUMP	And you shouldn't have.	N/A	-	-
+538	TRUMP	Well, I just want to say...	N/A	-	-
+539	RADDATZ	There's been lots of fact-checking on that.	N/A	-	-
+540	RADDATZ	I'd like to move on to an online question...	N/A	-	-
+541	TRUMP	Excuse me.	N/A	-	-
+542	TRUMP	She just went about 25 seconds over her time.	N/A	-	-
+543	RADDATZ	She did not.	N/A	-	-
+544	TRUMP	Could I just respond to this, please?	N/A	-	-
+545	RADDATZ	Very quickly, please.	N/A	-	-
+546	TRUMP	Hillary Clinton, in terms of having people come into our country, we have many criminal illegal aliens.	N/A	-	-
+547	TRUMP	When we want to send them back to their country, their country says we don't want them.	N/A	-	-
+548	TRUMP	In some cases, they're murderers, drug lords, drug problems.	N/A	-	-
+549	TRUMP	And they don't want them.	N/A	-	-
+550	TRUMP	And Hillary Clinton, when she was secretary of state, said that's OK, we can't force it into their country.	N/A	-	-
+551	TRUMP	Let me tell you, I'm going to force them right back into their country.	N/A	-	-
+552	TRUMP	They're murderers and some very bad people.	N/A	-	-
+553	TRUMP	And I will tell you very strongly, when Bernie Sanders said she had bad judgment, she has really bad judgment, because we are letting people into this country that are going to cause problems and crime like you've never seen.	N/A	-	-
+554	TRUMP	We're also letting drugs pour through our southern border at a record clip.	N/A	-	-
+555	TRUMP	At a record clip.	N/A	-	-
+556	TRUMP	And it shouldn't be allowed to happen.	N/A	-	-
+557	TRUMP	ICE just endorsed me.	N/A	-	-
+558	TRUMP	They've never endorsed a presidential candidate.	N/A	-	-
+559	TRUMP	The Border Patrol agents, 16,500, just recently endorsed me, and they endorsed me because I understand the border.	N/A	-	-
+560	TRUMP	She doesn't.	N/A	-	-
+561	TRUMP	She wants amnesty for everybody.	N/A	-	-
+562	TRUMP	Come right in.	N/A	-	-
+563	TRUMP	Come right over.	N/A	-	-
+564	TRUMP	It's a horrible thing she's doing.	N/A	-	-
+565	TRUMP	She's got bad judgment, and honestly, so bad that she should never be president of the United States.	N/A	-	-
+566	TRUMP	That I can tell you.	N/A	-	-
+567	RADDATZ	Thank you, Mr. Trump.	N/A	-	-
+568	RADDATZ	I want to move on.	N/A	-	-
+569	RADDATZ	This next question from the public through the Bipartisan Open Debate Coalition's online forum, where Americans submitted questions that generated millions of votes.	N/A	-	-
+570	RADDATZ	This question involves WikiLeaks release of purported excerpts of Secretary Clinton's paid speeches, which she has refused to release, and one line in particular, in which you, Secretary Clinton, purportedly say you need both a public and private position on certain issues.	N/A	-	-
+571	RADDATZ	So, Tu (ph), from Virginia asks, is it OK for politicians to be two-faced?	N/A	-	-
+572	RADDATZ	Is it acceptable for a politician to have a private stance on issues?	N/A	-	-
+573	RADDATZ	Secretary Clinton, your two minutes.	N/A	-	-
+574	CLINTON	Well, right.	N/A	-	-
+575	CLINTON	As I recall, that was something I said about Abraham Lincoln after having seen the wonderful Steven Spielberg movie called "Lincoln."	N/A	-	-
+576	CLINTON	It was a master class watching President Lincoln get the Congress to approve the 13th Amendment.	N/A	-	-
+577	CLINTON	It was principled, and it was strategic.	N/A	-	-
+578	CLINTON	And I was making the point that it is hard sometimes to get the Congress to do what you want to do and you have to keep working at it.	N/A	-	-
+579	CLINTON	And, yes, President Lincoln was trying to convince some people, he used some arguments, convincing other people, he used other arguments.	N/A	-	-
+580	CLINTON	That was a great -- I thought a great display of presidential leadership.	N/A	-	-
+581	CLINTON	But, you know, let's talk about what's really going on here, Martha, because our intelligence community just came out and said in the last few days that the Kremlin, meaning Putin and the Russian government, are directing the attacks, the hacking on American accounts to influence our election.	N/A	-	-
+582	CLINTON	And WikiLeaks is part of that, as are other sites where the Russians hack information, we don't even know if it's accurate information, and then they put it out.	N/A	-	-
+583	CLINTON	We have never in the history of our country been in a situation where an adversary, a foreign power, is working so hard to influence the outcome of the election.	N/A	-	-
+584	CLINTON	And believe me, they're not doing it to get me elected.	N/A	-	-
+585	CLINTON	They're doing it to try to influence the election for Donald Trump.	N/A	-	-
+586	CLINTON	Now, maybe because he has praised Putin, maybe because he says he agrees with a lot of what Putin wants to do, maybe because he wants to do business in Moscow, I don't know the reasons.	N/A	-	-
+587	CLINTON	But we deserve answers.	N/A	-	-
+588	CLINTON	And we should demand that Donald release all of his tax returns so that people can see what are the entanglements and the financial relationships that he has...	N/A	-	-
+589	RADDATZ	We're going to get to that later.	N/A	-	-
+590	RADDATZ	Secretary Clinton, you're out of time.	N/A	-	-
+591	CLINTON	with the Russians and other foreign powers.	N/A	-	-
+592	RADDATZ	Mr. Trump?	N/A	-	-
+593	TRUMP	Well, I think I should respond, because -- so ridiculous.	N/A	-	-
+594	TRUMP	Look, now she's blaming -- she got caught in a total lie.	N/A	-	-
+595	TRUMP	Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things -- WikiLeaks that just came out.	N/A	-	-
+596	TRUMP	And she lied.	N/A	-	-
+597	TRUMP	Now she's blaming the lie on the late, great Abraham Lincoln.	N/A	-	-
+598	TRUMP	That's one that I haven't...	N/A	-	-
+599	SYSTEM	(LAUGHTER)	N/A	-	-
+600	TRUMP	OK, Honest Abe, Honest Abe never lied.	N/A	-	-
+601	TRUMP	That's the good thing.	N/A	-	-
+602	TRUMP	That's the big difference between Abraham Lincoln and you.	N/A	-	-
+603	TRUMP	That's a big, big difference.	N/A	-	-
+604	TRUMP	We're talking about some difference.	N/A	-	-
+605	TRUMP	But as far as other elements of what she was saying, I don't know Putin.	N/A	-	-
+606	TRUMP	I think it would be great if we got along with Russia because we could fight ISIS together, as an example.	N/A	-	-
+607	TRUMP	But I don't know Putin.	N/A	-	-
+608	TRUMP	But I notice, anytime anything wrong happens, they like to say the Russians are -- she doesn't know if it's the Russians doing the hacking.	13	The hacks into the email systems of the Democratic Party during the 2016 US Presidential campaing were directed by the Russian government.	FALSE
+609	TRUMP	Maybe there is no hacking.	N/A	-	-
+610	TRUMP	But they always blame Russia.	N/A	-	-
+611	TRUMP	And the reason they blame Russia because they think they're trying to tarnish me with Russia.	N/A	-	-
+612	TRUMP	I know nothing about Russia.	N/A	-	-
+613	TRUMP	I know -- I know about Russia, but I know nothing about the inner workings of Russia.	N/A	-	-
+614	TRUMP	I don't deal there.	N/A	-	-
+615	TRUMP	I have no businesses there.	N/A	-	-
+616	TRUMP	I have no loans from Russia.	N/A	-	-
+617	TRUMP	I have a very, very great balance sheet, so great that when I did the Old Post Office on Pennsylvania Avenue, the United States government, because of my balance sheet, which they actually know very well, chose me to do the Old Post Office, between the White House and Congress, chose me to do the Old Post Office.	N/A	-	-
+618	TRUMP	One of the primary area things, in fact, perhaps the primary thing was balance sheet.	N/A	-	-
+619	TRUMP	But I have no loans with Russia.	N/A	-	-
+620	TRUMP	You could go to the United States government, and they would probably tell you that, because they know my sheet very well in order to get that development I had to have.	N/A	-	-
+621	TRUMP	Now, the taxes are a very simple thing.	N/A	-	-
+622	TRUMP	As soon as I have -- first of all, I pay hundreds of millions of dollars in taxes.	N/A	-	-
+623	TRUMP	Many of her friends took bigger deductions.	N/A	-	-
+624	TRUMP	Warren Buffett took a massive deduction.	N/A	-	-
+625	TRUMP	Soros, who's a friend of hers, took a massive deduction.	N/A	-	-
+626	TRUMP	Many of the people that are giving her all this money that she can do many more commercials than me gave her -- took massive deductions.	N/A	-	-
+627	TRUMP	I pay hundreds of millions of dollars in taxes.	N/A	-	-
+628	TRUMP	But -- but as soon as my routine audit is finished, I'll release my returns.	N/A	-	-
+629	TRUMP	I'll be very proud to.	N/A	-	-
+630	TRUMP	They're actually quite great.	N/A	-	-
+631	RADDATZ	Thank you, Mr. Trump.	N/A	-	-
+632	COOPER	We want to turn, actually, to the topic of taxes.	N/A	-	-
+633	COOPER	We have a question from Spencer Maass.	N/A	-	-
+634	COOPER	Spencer?	N/A	-	-
+635	QUESTION	Good evening.	N/A	-	-
+636	QUESTION	My question is, what specific tax provisions will you change to ensure the wealthiest Americans pay their fair share in taxes?	N/A	-	-
+637	COOPER	Mr. Trump, you have two minutes.	N/A	-	-
+638	TRUMP	Well, one thing I'd do is get rid of carried interest.	N/A	-	-
+639	TRUMP	One of the greatest provisions for people like me, to be honest with you, I give up a lot when I run, because I knock out the tax code.	N/A	-	-
+640	TRUMP	And she could have done this years ago, by the way.	N/A	-	-
+641	TRUMP	She's a United States -- she was a United States senator.	N/A	-	-
+642	TRUMP	She complains that Donald Trump took advantage of the tax code.	N/A	-	-
+643	TRUMP	Well, why didn't she change it?	N/A	-	-
+644	TRUMP	Why didn't you change it when you were a senator?	N/A	-	-
+645	TRUMP	The reason you didn't is that all your friends take the same advantage that I do.	N/A	-	-
+646	TRUMP	And I do.	N/A	-	-
+647	TRUMP	You have provisions in the tax code that, frankly, we could change.	N/A	-	-
+648	TRUMP	But you wouldn't change it, because all of these people gave you the money so you can take negative ads on Donald Trump.	N/A	-	-
+649	TRUMP	But -- and I say that about a lot of things.	N/A	-	-
+650	TRUMP	You know, I've heard Hillary complaining about so many different things over the years.	N/A	-	-
+651	TRUMP	I wish you would have done this.	N/A	-	-
+652	TRUMP	But she's been there for 30 years she's been doing this stuff.	N/A	-	-
+653	TRUMP	She never changed.	N/A	-	-
+654	TRUMP	And she never will change.	N/A	-	-
+655	TRUMP	She never will change.	N/A	-	-
+656	TRUMP	We're getting rid of carried interest provisions.	N/A	-	-
+657	TRUMP	I'm lowering taxes actually, because I think it's so important for corporations, because we have corporations leaving -- massive corporations and little ones, little ones can't form.	N/A	-	-
+658	TRUMP	We're getting rid of regulations which goes hand in hand with the lowering of the taxes.	N/A	-	-
+659	TRUMP	But we're bringing the tax rate down from 35 percent to 15 percent.	N/A	-	-
+660	TRUMP	We're cutting taxes for the middle class.	N/A	-	-
+661	TRUMP	And I will tell you, we are cutting them big league for the middle class.	N/A	-	-
+662	TRUMP	And I will tell you, Hillary Clinton is raising your taxes, folks.	N/A	-	-
+663	TRUMP	You can look at me.	N/A	-	-
+664	TRUMP	She's raising your taxes really high.	N/A	-	-
+665	TRUMP	And what that's going to do is a disaster for the country.	N/A	-	-
+666	TRUMP	But she is raising your taxes and I'm lowering your taxes.	N/A	-	-
+667	TRUMP	That in itself is a big difference.	N/A	-	-
+668	TRUMP	We are going to be thriving again.	N/A	-	-
+669	TRUMP	We have no growth in this country.	N/A	-	-
+670	TRUMP	There's no growth.	N/A	-	-
+671	TRUMP	If China has a GDP of 7 percent, it's like a national catastrophe.	N/A	-	-
+672	TRUMP	We're down at 1 percent.	N/A	-	-
+673	TRUMP	And that's, like, no growth.	N/A	-	-
+674	TRUMP	And we're going lower, in my opinion.	N/A	-	-
+675	TRUMP	And a lot of it has to do with the fact that our taxes are so high, just about the highest in the world.	N/A	-	-
+676	TRUMP	And I'm bringing them down to one of the lower in the world.	N/A	-	-
+677	TRUMP	And I think it's so important -- one of the most important things we can do.	N/A	-	-
+678	TRUMP	But she is raising everybody's taxes massively.	14	Hillary Clinton plans to raise everybody's taxes massively.	FALSE
+679	COOPER	Secretary Clinton, you have two minutes.	N/A	-	-
+680	COOPER	The question was, what specific tax provisions will you change to ensure the wealthiest Americans pay their fair share of taxes?	N/A	-	-
+681	CLINTON	Well, everything you've heard just now from Donald is not true.	N/A	-	-
+682	CLINTON	I'm sorry I have to keep saying this, but he lives in an alternative reality.	N/A	-	-
+683	CLINTON	And it is sort of amusing to hear somebody who hasn't paid federal income taxes in maybe 20 years talking about what he's going to do.	N/A	-	-
+684	CLINTON	But I'll tell you what he's going to do.	N/A	-	-
+685	CLINTON	His plan will give the wealthy and corporations the biggest tax cuts they've ever had, more than the Bush tax cuts by at least a factor of two.	N/A	-	-
+686	CLINTON	Donald always takes care of Donald and people like Donald, and this would be a massive gift.	N/A	-	-
+687	CLINTON	And, indeed, the way that he talks about his tax cuts would end up raising taxes on middle-class families, millions of middle-class families.	15	Donald Trump's tax plan will raise the taxes of millions of middle-class families.	HALF-TRUE
+688	CLINTON	Now, here's what I want to do.	N/A	-	-
+689	CLINTON	I have said nobody who makes less than $250,000 a year -- and that's the vast majority of Americans as you know -- will have their taxes raised, because I think we've got to go where the money is.	N/A	-	-
+690	CLINTON	And the money is with people who have taken advantage of every single break in the tax code.	N/A	-	-
+691	CLINTON	And, yes, when I was a senator, I did vote to close corporate loopholes.	N/A	-	-
+692	CLINTON	I voted to close, I think, one of the loopholes he took advantage of when he claimed a billion-dollar loss that enabled him to avoid paying taxes.	N/A	-	-
+693	CLINTON	I want to have a tax on people who are making a million dollars.	N/A	-	-
+694	CLINTON	It's called the Buffett rule.	N/A	-	-
+695	CLINTON	Yes, Warren Buffett is the one who's gone out and said somebody like him should not be paying a lower tax rate than his secretary.	N/A	-	-
+696	CLINTON	I want to have a surcharge on incomes above $5 million.	N/A	-	-
+697	CLINTON	We have to make up for lost times, because I want to invest in you.	N/A	-	-
+698	CLINTON	I want to invest in hard-working families.	N/A	-	-
+699	CLINTON	And I think it's been unfortunate, but it's happened, that since the Great Recession, the gains have all gone to the top.	16	All of the income gains since the Great Recession have gone to the top.	FALSE
+700	CLINTON	And we need to reverse that.	N/A	-	-
+701	CLINTON	People like Donald, who paid zero in taxes, zero for our vets, zero for our military, zero for health and education, that is wrong.	N/A	-	-
+702	COOPER	Thank you, Secretary.	N/A	-	-
+703	CLINTON	And we're going to make sure that nobody, no corporation, and no individual can get away without paying his fair share to support our country.	N/A	-	-
+704	COOPER	Thank you.	N/A	-	-
+705	COOPER	I want to give you -- Mr. Trump, I want to give you the chance to respond.	N/A	-	-
+706	COOPER	I just wanted to tell our viewers what she's referring to.	N/A	-	-
+707	COOPER	In the last month, taxes were the number-one issue on Facebook for the first time in the campaign.	N/A	-	-
+708	COOPER	The New York Times published three pages of your 1995 tax returns.	N/A	-	-
+709	COOPER	They show you claimed a $916 million loss, which means you could have avoided paying personal federal income taxes for years.	N/A	-	-
+710	COOPER	You've said you pay state taxes, employee taxes, real estate taxes, property taxes.	N/A	-	-
+711	COOPER	You have not answered, though, a simple question.	N/A	-	-
+712	COOPER	Did you use that $916 million loss to avoid paying personal federal income taxes for years?	N/A	-	-
+713	TRUMP	Of course I do.	N/A	-	-
+714	TRUMP	Of course I do.	N/A	-	-
+715	TRUMP	And so do all of her donors, or most of her donors.	N/A	-	-
+716	TRUMP	I know many of her donors.	N/A	-	-
+717	TRUMP	Her donors took massive tax write-offs.	N/A	-	-
+718	COOPER	So have you (inaudible) personal federal income tax?	N/A	-	-
+719	TRUMP	A lot of my -- excuse me, Anderson -- a lot of my write- off was depreciation and other things that Hillary as a senator allowed.	N/A	-	-
+720	TRUMP	And she'll always allow it, because the people that give her all this money, they want it.	N/A	-	-
+721	TRUMP	That's why.	N/A	-	-
+722	TRUMP	See, I understand the tax code better than anybody that's ever run for president.	N/A	-	-
+723	TRUMP	Hillary Clinton -- and it's extremely complex -- Hillary Clinton has friends that want all of these provisions, including they want the carried interest provision, which is very important to Wall Street people.	N/A	-	-
+724	TRUMP	But they really want the carried interest provision, which I believe Hillary's leaving.	N/A	-	-
+725	TRUMP	Very interesting why she's leaving carried interest.	N/A	-	-
+726	TRUMP	But I will tell you that, number one, I pay tremendous numbers of taxes.	N/A	-	-
+727	TRUMP	I absolutely used it.	N/A	-	-
+728	TRUMP	And so did Warren Buffett and so did George Soros and so did many of the other people that Hillary is getting money from.	N/A	-	-
+729	TRUMP	Now, I won't mention their names, because they're rich, but they're not famous.	N/A	-	-
+730	TRUMP	So we won't make them famous.	N/A	-	-
+731	COOPER	So can you -- can you say how many years you have avoided paying personal federal income taxes?	N/A	-	-
+732	TRUMP	No, but I pay tax, and I pay federal tax, too.	N/A	-	-
+733	TRUMP	But I have a write-off, a lot of it's depreciation, which is a wonderful charge.	N/A	-	-
+734	TRUMP	I love depreciation.	N/A	-	-
+735	TRUMP	You know, she's given it to us.	N/A	-	-
+736	TRUMP	Hey, if she had a problem -- for 30 years she's been doing this, Anderson.	N/A	-	-
+737	TRUMP	I say it all the time.	N/A	-	-
+738	TRUMP	She talks about health care.	N/A	-	-
+739	TRUMP	Why didn't she do something about it?	N/A	-	-
+740	TRUMP	She talks about taxes.	N/A	-	-
+741	TRUMP	Why didn't she do something about it?	N/A	-	-
+742	TRUMP	She doesn't do anything about anything other than talk.	N/A	-	-
+743	TRUMP	With her, it's all talk and no action.	N/A	-	-
+744	COOPER	In the past...	N/A	-	-
+745	TRUMP	And, again, Bernie Sanders, it's really bad judgment.	N/A	-	-
+746	TRUMP	She has made bad judgment not only on taxes.	N/A	-	-
+747	TRUMP	She's made bad judgments on Libya, on Syria, on Iraq.	N/A	-	-
+748	TRUMP	I mean, her and Obama, whether you like it or not, the way they got out of Iraq, the vacuum they've left, that's why ISIS formed in the first place.	17	ISIS formed in the vacuum created by Barack Obama and Secretary Clinton.	HALF-TRUE
+749	TRUMP	They started from that little area, and now they're in 32 different nations, Hillary.	N/A	-	-
+750	TRUMP	Congratulations.	N/A	-	-
+751	TRUMP	Great job.	N/A	-	-
+752	COOPER	Secretary -- I want you to be able to respond, Secretary Clinton.	N/A	-	-
+753	CLINTON	Well, here we go again.	N/A	-	-
+754	CLINTON	I've been in favor of getting rid of carried interest for years, starting when I was a senator from New York.	N/A	-	-
+755	CLINTON	But that's not the point here.	N/A	-	-
+756	TRUMP	Why didn't you do it?	N/A	-	-
+757	TRUMP	Why didn't you do it?	N/A	-	-
+758	COOPER	Allow her to respond.	N/A	-	-
+759	CLINTON	Because I was a senator with a Republican president.	N/A	-	-
+760	TRUMP	Oh, really?	N/A	-	-
+761	CLINTON	I will be the president and we will get it done.	N/A	-	-
+762	CLINTON	That's exactly right.	N/A	-	-
+763	TRUMP	You could have done it, if you were an effective -- if you were an effective senator, you could have done it.	N/A	-	-
+764	TRUMP	If you were an effective senator, you could have done it.	N/A	-	-
+765	TRUMP	But you were not an effective senator.	N/A	-	-
+766	COOPER	Please allow her to respond.	N/A	-	-
+767	COOPER	She didn't interrupt you.	N/A	-	-
+768	CLINTON	You know, under our Constitution, presidents have something called veto power.	N/A	-	-
+769	CLINTON	Look, he has now said repeatedly, "30 years this and 30 years that."	N/A	-	-
+770	CLINTON	So let me talk about my 30 years in public service.	N/A	-	-
+771	CLINTON	I'm very glad to do so.	N/A	-	-
+772	CLINTON	Eight million kids every year have health insurance, because when I was first lady I worked with Democrats and Republicans to create the Children's Health Insurance Program.	N/A	-	-
+773	CLINTON	Hundreds of thousands of kids now have a chance to be adopted because I worked to change our adoption and foster care system.	N/A	-	-
+774	CLINTON	After 9/11, I went to work with Republican mayor, governor and president to rebuild New York and to get health care for our first responders who were suffering because they had run toward danger and gotten sickened by it.	N/A	-	-
+775	CLINTON	Hundreds of thousands of National Guard and Reserve members have health care because of work that I did, and children have safer medicines because I was able to pass a law that required the dosing to be more carefully done.	N/A	-	-
+776	CLINTON	When I was secretary of state, I went around the world advocating for our country, but also advocating for women's rights, to make sure that women had a decent chance to have a better life and negotiated a treaty with Russia to lower nuclear weapons.	N/A	-	-
+777	CLINTON	Four hundred pieces of legislation have my name on it as a sponsor or cosponsor when I was a senator for eight years.	N/A	-	-
+778	CLINTON	I worked very hard and was very proud to be re-elected in New York by an even bigger margin than I had been elected the first time.	N/A	-	-
+779	CLINTON	And as president, I will take that work, that bipartisan work, that finding common ground, because you have to be able to get along with people to get things done in Washington.	N/A	-	-
+780	COOPER	Thank you, secretary.	N/A	-	-
+781	CLINTON	I've proven that I can, and for 30 years, I've produced results for people.	N/A	-	-
+782	COOPER	Thank you, secretary.	N/A	-	-
+783	RADDATZ	We're going to move on to Syria.	N/A	-	-
+784	RADDATZ	Both of you have mentioned that.	N/A	-	-
+785	TRUMP	She said a lot of things that were false.	N/A	-	-
+786	TRUMP	I mean, I think we should be allowed to maybe...	N/A	-	-
+787	RADDATZ	No, we can -- no, Mr. Trump, we're going to go on.	N/A	-	-
+788	RADDATZ	This is about the audience.	N/A	-	-
+789	TRUMP	Excuse me.	N/A	-	-
+790	TRUMP	Because she has been a disaster as a senator.	N/A	-	-
+791	TRUMP	A disaster.	N/A	-	-
+792	RADDATZ	Mr. Trump, we're going to move on.	N/A	-	-
+793	RADDATZ	The heart-breaking video of a 5-year-old Syrian boy named Omran sitting in an ambulance after being pulled from the rubble after an air strike in Aleppo focused the world's attention on the horrors of the war in Syria, with 136 million views on Facebook alone.	N/A	-	-
+794	RADDATZ	But there are much worse images coming out of Aleppo every day now, where in the past few weeks alone, 400 people have been killed, at least 100 of them children.	N/A	-	-
+795	RADDATZ	Just days ago, the State Department called for a war crimes investigation of the Syrian regime of Bashar al-Assad and its ally, Russia, for their bombardment of Aleppo.	N/A	-	-
+796	RADDATZ	So this next question comes through social media through Facebook.	N/A	-	-
+797	RADDATZ	Diane from Pennsylvania asks, if you were president, what would you do about Syria and the humanitarian crisis in Aleppo?	N/A	-	-
+798	RADDATZ	Isn't it a lot like the Holocaust when the U.S. waited too long before we helped?	N/A	-	-
+799	RADDATZ	Secretary Clinton, we will begin with your two minutes.	N/A	-	-
+800	CLINTON	Well, the situation in Syria is catastrophic.	N/A	-	-
+801	CLINTON	And every day that goes by, we see the results of the regime by Assad in partnership with the Iranians on the ground, the Russians in the air, bombarding places, in particular Aleppo, where there are hundreds of thousands of people, probably about 250,000 still left.	N/A	-	-
+802	CLINTON	And there is a determined effort by the Russian air force to destroy Aleppo in order to eliminate the last of the Syrian rebels who are really holding out against the Assad regime.	N/A	-	-
+803	CLINTON	Russia hasn't paid any attention to ISIS.	N/A	-	-
+804	CLINTON	They're interested in keeping Assad in power.	N/A	-	-
+805	CLINTON	So I, when I was secretary of state, advocated and I advocate today a no-fly zone and safe zones.	N/A	-	-
+806	CLINTON	We need some leverage with the Russians, because they are not going to come to the negotiating table for a diplomatic resolution, unless there is some leverage over them.	N/A	-	-
+807	CLINTON	And we have to work more closely with our partners and allies on the ground.	N/A	-	-
+808	CLINTON	But I want to emphasize that what is at stake here is the ambitions and the aggressiveness of Russia.	N/A	-	-
+809	CLINTON	Russia has decided that it's all in, in Syria.	N/A	-	-
+810	CLINTON	And they've also decided who they want to see become president of the United States, too, and it's not me.	N/A	-	-
+811	CLINTON	I've stood up to Russia.	N/A	-	-
+812	CLINTON	I've taken on Putin and others, and I would do that as president.	N/A	-	-
+813	CLINTON	I think wherever we can cooperate with Russia, that's fine.	N/A	-	-
+814	CLINTON	And I did as secretary of state.	N/A	-	-
+815	CLINTON	That's how we got a treaty reducing nuclear weapons.	18	The New START agreement between USA and Russia reduced the number of nuclear weapons.	HALF-TRUE
+816	CLINTON	It's how we got the sanctions on Iran that put a lid on the Iranian nuclear program without firing a single shot.	N/A	-	-
+817	CLINTON	So I would go to the negotiating table with more leverage than we have now.	N/A	-	-
+818	CLINTON	But I do support the effort to investigate for crimes, war crimes committed by the Syrians and the Russians and try to hold them accountable.	N/A	-	-
+819	RADDATZ	Thank you, Secretary Clinton.	N/A	-	-
+820	RADDATZ	Mr. Trump?	N/A	-	-
+821	TRUMP	First of all, she was there as secretary of state with the so-called line in the sand, which...	N/A	-	-
+822	CLINTON	No, I wasn't.	N/A	-	-
+823	CLINTON	I was gone.	N/A	-	-
+824	CLINTON	I hate to interrupt you, but at some point...	N/A	-	-
+825	TRUMP	OK.	N/A	-	-
+826	TRUMP	But you were in contact -- excuse me.	N/A	-	-
+827	TRUMP	You were...	N/A	-	-
+828	CLINTON	At some point, we need to do some fact-checking here.	N/A	-	-
+829	TRUMP	You were in total contact with the White House, and perhaps, sadly, Obama probably still listened to you.	N/A	-	-
+830	TRUMP	I don't think he would be listening to you very much anymore.	N/A	-	-
+831	TRUMP	Obama draws the line in the sand.	N/A	-	-
+832	TRUMP	It was laughed at all over the world what happened.	N/A	-	-
+833	TRUMP	Now, with that being said, she talks tough against Russia.	N/A	-	-
+834	TRUMP	But our nuclear program has fallen way behind, and they've gone wild with their nuclear program.	N/A	-	-
+835	TRUMP	Not good.	N/A	-	-
+836	TRUMP	Our government shouldn't have allowed that to happen.	N/A	-	-
+837	TRUMP	Russia is new in terms of nuclear.	N/A	-	-
+838	TRUMP	We are old.	N/A	-	-
+839	TRUMP	We're tired.	N/A	-	-
+840	TRUMP	We're exhausted in terms of nuclear.	N/A	-	-
+841	TRUMP	A very bad thing.	N/A	-	-
+842	TRUMP	Now, she talks tough, she talks really tough against Putin and against Assad.	N/A	-	-
+843	TRUMP	She talks in favor of the rebels.	N/A	-	-
+844	TRUMP	She doesn't even know who the rebels are.	N/A	-	-
+845	TRUMP	You know, every time we take rebels, whether it's in Iraq or anywhere else, we're arming people.	N/A	-	-
+846	TRUMP	And you know what happens?	N/A	-	-
+847	TRUMP	They end up being worse than the people.	N/A	-	-
+848	TRUMP	Look at what she did in Libya with Gadhafi.	N/A	-	-
+849	TRUMP	Gadhafi's out.	N/A	-	-
+850	TRUMP	It's a mess.	N/A	-	-
+851	TRUMP	And, by the way, ISIS has a good chunk of their oil.	19	ISIS has a large part of Lybia's oil.	FALSE
+852	TRUMP	I'm sure you probably have heard that.	N/A	-	-
+853	TRUMP	It was a disaster.	N/A	-	-
+854	TRUMP	Because the fact is, almost everything she's done in foreign policy has been a mistake and it's been a disaster.	N/A	-	-
+855	TRUMP	But if you look at Russia, just take a look at Russia, and look at what they did this week, where I agree, she wasn't there, but possibly she's consulted.	N/A	-	-
+856	TRUMP	We sign a peace treaty.	N/A	-	-
+857	TRUMP	Everyone's all excited.	N/A	-	-
+858	TRUMP	Well, what Russia did with Assad and, by the way, with Iran, who you made very powerful with the dumbest deal perhaps I've ever seen in the history of deal-making, the Iran deal, with the $150 billion, with the $1.7 billion in cash, which is enough to fill up this room.	N/A	-	-
+859	TRUMP	But look at that deal.	N/A	-	-
+860	TRUMP	Iran now and Russia are now against us.	N/A	-	-
+861	TRUMP	So she wants to fight.	N/A	-	-
+862	TRUMP	She wants to fight for rebels.	N/A	-	-
+863	TRUMP	There's only one problem.	N/A	-	-
+864	TRUMP	You don't even know who the rebels are.	N/A	-	-
+865	TRUMP	So what's the purpose?	N/A	-	-
+866	RADDATZ	Mr. Trump, Mr. Trump, your two minutes is up.	N/A	-	-
+867	TRUMP	And one thing I have to say.	N/A	-	-
+868	RADDATZ	Your two minutes is up.	N/A	-	-
+869	TRUMP	I don't like Assad at all, but Assad is killing ISIS.	N/A	-	-
+870	TRUMP	Russia is killing ISIS.	N/A	-	-
+871	TRUMP	And Iran is killing ISIS.	N/A	-	-
+872	TRUMP	And those three have now lined up because of our weak foreign policy.	N/A	-	-
+873	RADDATZ	Mr. Trump, let me repeat the question.	N/A	-	-
+874	RADDATZ	If you were president...	N/A	-	-
+875	SYSTEM	(LAUGHTER)	N/A	-	-
+876	RADDATZ	what would you do about Syria and the humanitarian crisis in Aleppo?	N/A	-	-
+877	RADDATZ	And I want to remind you what your running mate said.	N/A	-	-
+878	RADDATZ	He said provocations by Russia need to be met with American strength and that if Russia continues to be involved in air strikes along with the Syrian government forces of Assad, the United States of America should be prepared to use military force to strike the military targets of the Assad regime.	N/A	-	-
+879	TRUMP	OK.	N/A	-	-
+880	TRUMP	He and I haven't spoken, and I disagree.	N/A	-	-
+881	TRUMP	I disagree.	N/A	-	-
+882	RADDATZ	You disagree with your running mate?	N/A	-	-
+883	TRUMP	I think you have to knock out ISIS.	N/A	-	-
+884	TRUMP	Right now, Syria is fighting ISIS.	N/A	-	-
+885	TRUMP	We have people that want to fight both at the same time.	N/A	-	-
+886	TRUMP	But Syria is no longer Syria.	N/A	-	-
+887	TRUMP	Syria is Russia and it's Iran, who she made strong and Kerry and Obama made into a very powerful nation and a very rich nation, very, very quickly, very, very quickly.	N/A	-	-
+888	TRUMP	I believe we have to get ISIS.	N/A	-	-
+889	TRUMP	We have to worry about ISIS before we can get too much more involved.	N/A	-	-
+890	TRUMP	She had a chance to do something with Syria.	N/A	-	-
+891	TRUMP	They had a chance.	N/A	-	-
+892	TRUMP	And that was the line.	N/A	-	-
+893	TRUMP	And she didn't.	N/A	-	-
+894	RADDATZ	What do you think will happen if Aleppo falls?	N/A	-	-
+895	TRUMP	I think Aleppo is a disaster, humanitarian-wise.	N/A	-	-
+896	RADDATZ	What do you think will happen if it falls?	N/A	-	-
+897	TRUMP	I think that it basically has fallen.	N/A	-	-
+898	TRUMP	OK?	N/A	-	-
+899	TRUMP	It basically has fallen.	N/A	-	-
+900	TRUMP	Let me tell you something.	N/A	-	-
+901	TRUMP	You take a look at Mosul.	N/A	-	-
+902	TRUMP	The biggest problem I have with the stupidity of our foreign policy, we have Mosul.	N/A	-	-
+903	TRUMP	They think a lot of the ISIS leaders are in Mosul.	N/A	-	-
+904	TRUMP	So we have announcements coming out of Washington and coming out of Iraq, we will be attacking Mosul in three weeks or four weeks.	N/A	-	-
+905	TRUMP	Well, all of these bad leaders from ISIS are leaving Mosul.	N/A	-	-
+906	TRUMP	Why can't they do it quietly?	N/A	-	-
+907	TRUMP	Why can't they do the attack, make it a sneak attack, and after the attack is made, inform the American public that we've knocked out the leaders, we've had a tremendous success?	N/A	-	-
+908	TRUMP	People leave.	N/A	-	-
+909	TRUMP	Why do they have to say we're going to be attacking Mosul within the next four to six weeks, which is what they're saying?	N/A	-	-
+910	TRUMP	How stupid is our country?	N/A	-	-
+911	RADDATZ	There are sometimes reasons the military does that.	N/A	-	-
+912	RADDATZ	Psychological warfare.	N/A	-	-
+913	TRUMP	I can't think of any.	N/A	-	-
+914	TRUMP	I can't think of any.	N/A	-	-
+915	TRUMP	And I'm pretty good at it.	N/A	-	-
+916	RADDATZ	It might be to help get civilians out.	N/A	-	-
+917	TRUMP	And we have General Flynn.	N/A	-	-
+918	TRUMP	And we have -- look, I have 200 generals and admirals who endorsed me.	N/A	-	-
+919	TRUMP	I have 21 Congressional Medal of Honor recipients who endorsed me.	N/A	-	-
+920	TRUMP	We talk about it all the time.	N/A	-	-
+921	TRUMP	They understand, why can't they do something secretively, where they go in and they knock out the leadership?	N/A	-	-
+922	TRUMP	How -- why would these people stay there?	N/A	-	-
+923	TRUMP	I've been reading now...	N/A	-	-
+924	RADDATZ	Tell me what your strategy is.	N/A	-	-
+925	TRUMP	for weeks -- I've been reading now for weeks about Mosul, that it's the harbor of where -- you know, between Raqqa and Mosul, this is where they think the ISIS leaders are.	N/A	-	-
+926	TRUMP	Why would they be saying -- they're not staying there anymore.	N/A	-	-
+927	TRUMP	They're gone.	N/A	-	-
+928	TRUMP	Because everybody's talking about how Iraq, which is us with our leadership, goes in to fight Mosul.	N/A	-	-
+929	TRUMP	Now, with these 200 admirals and generals, they can't believe it.	N/A	-	-
+930	TRUMP	All I say is this.	N/A	-	-
+931	TRUMP	General George Patton, General Douglas MacArthur are spinning in their grave at the stupidity of what we're doing in the Middle East.	N/A	-	-
+932	RADDATZ	I'm going to go to Secretary Clinton.	N/A	-	-
+933	RADDATZ	Secretary Clinton, you want Assad to go.	N/A	-	-
+934	RADDATZ	You advocated arming rebels, but it looks like that may be too late for Aleppo.	N/A	-	-
+935	RADDATZ	You talk about diplomatic efforts.	N/A	-	-
+936	RADDATZ	Those have failed.	N/A	-	-
+937	RADDATZ	Cease-fires have failed.	N/A	-	-
+938	RADDATZ	Would you introduce the threat of U.S. military force beyond a no-fly zone against the Assad regime to back up diplomacy?	N/A	-	-
+939	CLINTON	I would not use American ground forces in Syria.	N/A	-	-
+940	CLINTON	I think that would be a very serious mistake.	N/A	-	-
+941	CLINTON	I don't think American troops should be holding territory, which is what they would have to do as an occupying force.	N/A	-	-
+942	CLINTON	I don't think that is a smart strategy.	N/A	-	-
+943	CLINTON	I do think the use of special forces, which we're using, the use of enablers and trainers in Iraq, which has had some positive effects, are very much in our interests, and so I do support what is happening, but let me just...	N/A	-	-
+944	RADDATZ	But what would you do differently than President Obama is doing?	N/A	-	-
+945	CLINTON	Well, Martha, I hope that by the time I -- if I'm fortunate...	N/A	-	-
+946	TRUMP	Everything.	N/A	-	-
+947	CLINTON	I hope by the time I am president that we will have pushed ISIS out of Iraq.	N/A	-	-
+948	CLINTON	I do think that there is a good chance that we can take Mosul.	N/A	-	-
+949	CLINTON	And, you know, Donald says he knows more about ISIS than the generals.	N/A	-	-
+950	CLINTON	No, he doesn't.	N/A	-	-
+951	CLINTON	There are a lot of very important planning going on, and some of it is to signal to the Sunnis in the area, as well as Kurdish Peshmerga fighters, that we all need to be in this.	N/A	-	-
+952	CLINTON	And that takes a lot of planning and preparation.	N/A	-	-
+953	CLINTON	I would go after Baghdadi.	N/A	-	-
+954	CLINTON	I would specifically target Baghdadi, because I think our targeting of Al Qaida leaders -- and I was involved in a lot of those operations, highly classified ones -- made a difference.	N/A	-	-
+955	CLINTON	So I think that could help.	N/A	-	-
+956	CLINTON	I would also consider arming the Kurds.	N/A	-	-
+957	CLINTON	The Kurds have been our best partners in Syria, as well as Iraq.	N/A	-	-
+958	CLINTON	And I know there's a lot of concern about that in some circles, but I think they should have the equipment they need so that Kurdish and Arab fighters on the ground are the principal way that we take Raqqa after pushing ISIS out of Iraq.	N/A	-	-
+959	RADDATZ	Thank you very much.	N/A	-	-
+960	RADDATZ	We're going to move on...	N/A	-	-
+961	TRUMP	You know what's funny?	N/A	-	-
+962	TRUMP	She went over a minute over, and you don't stop her.	N/A	-	-
+963	TRUMP	When I go one second over, it's like a big deal.	N/A	-	-
+964	RADDATZ	You had many answers.	N/A	-	-
+965	TRUMP	It's really -- it's really very interesting.	N/A	-	-
+966	COOPER	We've got a question over here from James Carter.	N/A	-	-
+967	COOPER	Mr. Carter?	N/A	-	-
+968	QUESTION	My question is, do you believe you can be a devoted president to all the people in the United States?	N/A	-	-
+969	COOPER	That question begins for Mr. Trump.	N/A	-	-
+970	TRUMP	Absolutely.	N/A	-	-
+971	TRUMP	I mean, she calls our people deplorable, a large group, and irredeemable.	N/A	-	-
+972	TRUMP	I will be a president for all of our people.	N/A	-	-
+973	TRUMP	And I'll be a president that will turn our inner cities around and will give strength to people and will give economics to people and will bring jobs back.	N/A	-	-
+974	TRUMP	Because NAFTA, signed by her husband, is perhaps the greatest disaster trade deal in the history of the world.	20	NAFTA is the greatest disaster trade deal in the history of the world.	FALSE
+975	TRUMP	Not in this country.	N/A	-	-
+976	TRUMP	It stripped us of manufacturing jobs.	21	NAFTA stripped the US of manufacturing jobs.	FALSE
+977	TRUMP	We lost our jobs.	N/A	-	-
+978	TRUMP	We lost our money.	N/A	-	-
+979	TRUMP	We lost our plants.	N/A	-	-
+980	TRUMP	It is a disaster.	N/A	-	-
+981	TRUMP	And now she wants to sign TPP, even though she says now she's for it.	N/A	-	-
+982	TRUMP	She called it the gold standard.	N/A	-	-
+983	TRUMP	And by the way, at the last debate, she lied, because it turned out that she did say the gold standard and she said she didn't say it.	N/A	-	-
+984	TRUMP	They actually said that she lied.	N/A	-	-
+985	TRUMP	OK?	N/A	-	-
+986	TRUMP	And she lied.	N/A	-	-
+987	TRUMP	But she's lied about a lot of things.	N/A	-	-
+988	TRUMP	I would be a president for all of the people, African- Americans, the inner cities.	N/A	-	-
+989	TRUMP	Devastating what's happening to our inner cities.	N/A	-	-
+990	TRUMP	She's been talking about it for years.	N/A	-	-
+991	TRUMP	As usual, she talks about it, nothing happens.	N/A	-	-
+992	TRUMP	She doesn't get it done.	N/A	-	-
+993	TRUMP	Same with the Latino Americans, the Hispanic Americans.	N/A	-	-
+994	TRUMP	The same exact thing.	N/A	-	-
+995	TRUMP	They talk, they don't get it done.	N/A	-	-
+996	TRUMP	You go into the inner cities and -- you see it's 45 percent poverty.	N/A	-	-
+997	TRUMP	African- Americans now 45 percent poverty in the inner cities.	N/A	-	-
+998	TRUMP	The education is a disaster.	N/A	-	-
+999	TRUMP	Jobs are essentially nonexistent.	N/A	-	-
+1000	TRUMP	I mean, it's -- you know, and I've been saying at big speeches where I have 20,000 and 30,000 people, what do you have to lose?	N/A	-	-
+1001	TRUMP	It can't get any worse.	N/A	-	-
+1002	TRUMP	And she's been talking about the inner cities for 25 years.	N/A	-	-
+1003	TRUMP	Nothing's going to ever happen.	N/A	-	-
+1004	TRUMP	Let me tell you, if she's president of the United States, nothing's going to happen.	N/A	-	-
+1005	TRUMP	It's just going to be talk.	N/A	-	-
+1006	TRUMP	And all of her friends, the taxes we were talking about, and I would just get it by osmosis.	N/A	-	-
+1007	TRUMP	She's not doing any me favors.	N/A	-	-
+1008	TRUMP	But by doing all the others' favors, she's doing me favors.	N/A	-	-
+1009	COOPER	Mr. Trump, thank you.	N/A	-	-
+1010	TRUMP	But I will tell you, she's all talk.	N/A	-	-
+1011	TRUMP	It doesn't get done.	N/A	-	-
+1012	TRUMP	All you have to do is take a look at her Senate run.	N/A	-	-
+1013	TRUMP	Take a look at upstate New York.	N/A	-	-
+1014	COOPER	Your two minutes is up.	N/A	-	-
+1015	COOPER	Secretary Clinton, two minutes?	N/A	-	-
+1016	TRUMP	It turned out to be a disaster.	N/A	-	-
+1017	COOPER	You have two minutes, Secretary Clinton.	N/A	-	-
+1018	CLINTON	Well, 67 percent of the people voted to re-elect me when I ran for my second term, and I was very proud and very humbled by that.	N/A	-	-
+1019	CLINTON	Mr. Carter, I have tried my entire life to do what I can to support children and families.	N/A	-	-
+1020	CLINTON	You know, right out of law school, I went to work for the Children's Defense Fund.	N/A	-	-
+1021	CLINTON	And Donald talks a lot about, you know, the 30 years I've been in public service.	N/A	-	-
+1022	CLINTON	I'm proud of that.	N/A	-	-
+1023	CLINTON	You know, I started off as a young lawyer working against discrimination against African-American children in schools and in the criminal justice system.	N/A	-	-
+1024	CLINTON	I worked to make sure that kids with disabilities could get a public education, something that I care very much about.	N/A	-	-
+1025	CLINTON	I have worked with Latinos -- one of my first jobs in politics was down in south Texas registering Latino citizens to be able to vote.	N/A	-	-
+1026	CLINTON	So I have a deep devotion, to use your absolutely correct word, to making sure that an every American feels like he or she has a place in our country.	N/A	-	-
+1027	CLINTON	And I think when you look at the letters that I get, a lot of people are worried that maybe they wouldn't have a place in Donald Trump's America.	N/A	-	-
+1028	CLINTON	They write me, and one woman wrote me about her son, Felix.	N/A	-	-
+1029	CLINTON	She adopted him from Ethiopia when he was a toddler.	N/A	-	-
+1030	CLINTON	He's 10 years old now.	N/A	-	-
+1031	CLINTON	This is the only one country he's ever known.	N/A	-	-
+1032	CLINTON	And he listens to Donald on TV and he said to his mother one day, will he send me back to Ethiopia if he gets elected?	N/A	-	-
+1033	CLINTON	You know, children listen to what is being said.	N/A	-	-
+1034	CLINTON	To go back to the very, very first question.	N/A	-	-
+1035	CLINTON	And there's a lot of fear -- in fact, teachers and parents are calling it the Trump effect.	N/A	-	-
+1036	CLINTON	Bullying is up.	N/A	-	-
+1037	CLINTON	A lot of people are feeling, you know, uneasy.	N/A	-	-
+1038	CLINTON	A lot of kids are expressing their concerns.	N/A	-	-
+1039	CLINTON	So, first and foremost, I will do everything I can to reach out to everybody.	N/A	-	-
+1040	COOPER	Your time, Secretary Clinton.	N/A	-	-
+1041	CLINTON	Democrats, Republicans, independents, people across our country.	N/A	-	-
+1042	CLINTON	If you don't vote for me, I still want to be your president.	N/A	-	-
+1043	COOPER	Your two minutes is up.	N/A	-	-
+1044	CLINTON	I want to be the best president I can be for every American.	N/A	-	-
+1045	COOPER	Secretary Clinton, your two minutes is up.	N/A	-	-
+1046	COOPER	I want to follow up on something that Donald Trump actually said to you, a comment you made last month.	N/A	-	-
+1047	COOPER	You said that half of Donald Trump's supporters are, quote, "deplorables, racist, sexist, homophobic, xenophobic, Islamophobic."	N/A	-	-
+1048	COOPER	You later said you regretted saying half.	N/A	-	-
+1049	COOPER	You didn't express regret for using the term "deplorables."	N/A	-	-
+1050	COOPER	To Mr. Carter's question, how can you unite a country if you've written off tens of millions of Americans?	N/A	-	-
+1051	CLINTON	Well, within hours I said that I was sorry about the way I talked about that, because my argument is not with his supporters.	N/A	-	-
+1052	CLINTON	It's with him and with the hateful and divisive campaign that he has run, and the inciting of violence at his rallies, and the very brutal kinds of comments about not just women, but all Americans, all kinds of Americans.	N/A	-	-
+1053	CLINTON	And what he has said about African-Americans and Latinos, about Muslims, about POWs, about immigrants, about people with disabilities, he's never apologized for.	N/A	-	-
+1054	CLINTON	And so I do think that a lot of the tone and tenor that he has said -- I'm proud of the campaign that Bernie Sanders and I ran.	N/A	-	-
+1055	CLINTON	We ran a campaign based on issues, not insults.	N/A	-	-
+1056	CLINTON	And he is supporting me 100 percent.	N/A	-	-
+1057	COOPER	Thank you.	N/A	-	-
+1058	CLINTON	Because we talked about what we wanted to do.	N/A	-	-
+1059	CLINTON	We might have had some differences, and we had a lot of debates...	N/A	-	-
+1060	COOPER	Thank you, Secretary.	N/A	-	-
+1061	TRUMP	but we believed that we could make the country better.	N/A	-	-
+1062	TRUMP	And I was proud of that.	N/A	-	-
+1063	COOPER	I want to give you a minute to respond.	N/A	-	-
+1064	TRUMP	We have a divided nation.	N/A	-	-
+1065	TRUMP	We have a very divided nation.	N/A	-	-
+1066	TRUMP	You look at Charlotte.	N/A	-	-
+1067	TRUMP	You look at Baltimore.	N/A	-	-
+1068	TRUMP	You look at the violence that's taking place in the inner cities, Chicago, you take a look at Washington, D.C.	N/A	-	-
+1069	TRUMP	We have an increase in murder within our cities, the biggest in 45 years.	N/A	-	-
+1070	TRUMP	We have a divided nation, because people like her -- and believe me, she has tremendous hate in her heart.	N/A	-	-
+1071	TRUMP	And when she said deplorables, she meant it.	N/A	-	-
+1072	TRUMP	And when she said irredeemable, they're irredeemable, you didn't mention that, but when she said they're irredeemable, to me that might have been even worse.	N/A	-	-
+1073	COOPER	She said some of them are irredeemable.	N/A	-	-
+1074	TRUMP	She's got tremendous -- she's got tremendous hatred.	N/A	-	-
+1075	TRUMP	And this country cannot take another four years of Barack Obama, and that's what you're getting with her.	N/A	-	-
+1076	COOPER	Mr. Trump, let me follow up with you.	N/A	-	-
+1077	COOPER	In 2008, you wrote in one of your books that the most important characteristic of a good leader is discipline.	N/A	-	-
+1078	COOPER	You said, if a leader doesn't have it, quote, "he or she won't be one for very long."	N/A	-	-
+1079	COOPER	In the days after the first debate, you sent out a series of tweets from 3 a.m. to 5 a.m., including one that told people to check out a sex tape.	22	Donald Trump posted a "check out a sex tape" tweet a few days after the first presidential debate.	TRUE
+1080	COOPER	Is that the discipline of a good leader?	N/A	-	-
+1081	TRUMP	No, there wasn't check out a sex tape.	N/A	-	-
+1082	TRUMP	It was just take a look at the person that she built up to be this wonderful Girl Scout who was no Girl Scout.	N/A	-	-
+1083	COOPER	You mentioned sex tape.	N/A	-	-
+1084	TRUMP	By the way, just so you understand, when she said 3 o'clock in the morning, take a look at Benghazi.	N/A	-	-
+1085	TRUMP	She said who is going to answer the call at 3 o'clock in the morning?	N/A	-	-
+1086	TRUMP	Guess what?	N/A	-	-
+1087	TRUMP	She didn't answer it, because when Ambassador Stevens...	N/A	-	-
+1088	COOPER	The question is, is that the discipline of a good leader?	N/A	-	-
+1089	TRUMP	600 -- wait a minute, Anderson, 600 times.	N/A	-	-
+1090	TRUMP	Well, she said she was awake at 3 o'clock in the morning, and she also sent a tweet out at 3 o'clock in the morning, but I won't even mention that.	N/A	-	-
+1091	TRUMP	But she said she'll be awake.	N/A	-	-
+1092	TRUMP	Who's going -- the famous thing, we're going to answer our call at 3 o'clock in the morning.	N/A	-	-
+1093	TRUMP	Guess what happened?	N/A	-	-
+1094	TRUMP	Ambassador Stevens -- Ambassador Stevens sent 600 requests for help.	23	J. Christopher Stevens, US Ambassador in Benghazi, Libya, sent 600 requests for help.	HALF-TRUE
+1095	TRUMP	And the only one she talked to was Sidney Blumenthal, who's her friend and not a good guy, by the way.	N/A	-	-
+1096	TRUMP	So, you know, she shouldn't be talking about that.	N/A	-	-
+1097	TRUMP	Now, tweeting happens to be a modern day form of communication.	N/A	-	-
+1098	TRUMP	I mean, you can like it or not like it.	N/A	-	-
+1099	TRUMP	I have, between Facebook and Twitter, I have almost 25 million people.	N/A	-	-
+1100	TRUMP	It's a very effective way of communication.	N/A	-	-
+1101	TRUMP	So you can put it down, but it is a very effective form of communication.	N/A	-	-
+1102	TRUMP	I'm not un-proud of it, to be honest with you.	N/A	-	-
+1103	COOPER	Secretary Clinton, does Mr. Trump have the discipline to be a good leader?	N/A	-	-
+1104	CLINTON	No.	N/A	-	-
+1105	TRUMP	I'm shocked to hear that.	N/A	-	-
+1106	SYSTEM	(LAUGHTER)	N/A	-	-
+1107	CLINTON	Well, it's not only my opinion.	N/A	-	-
+1108	CLINTON	It's the opinion of many others, national security experts, Republicans, former Republican members of Congress.	N/A	-	-
+1109	CLINTON	But it's in part because those of us who have had the great privilege of seeing this job up close and know how difficult it is, and it's not just because I watched my husband take a $300 billion deficit and turn it into a $200 billion surplus, and 23 million new jobs were created, and incomes went up for everybody.	N/A	-	-
+1110	CLINTON	Everybody.	N/A	-	-
+1111	CLINTON	African-American incomes went up 33 percent.	N/A	-	-
+1112	CLINTON	And it's not just because I worked with George W. Bush after 9/11, and I was very proud that when I told him what the city needed, what we needed to recover, he said you've got it, and he never wavered.	N/A	-	-
+1113	CLINTON	He stuck with me.	N/A	-	-
+1114	CLINTON	And I have worked and I admire President Obama.	N/A	-	-
+1115	CLINTON	He inherited the worst financial crisis since the Great Depression.	N/A	-	-
+1116	CLINTON	That was a terrible time for our country.	N/A	-	-
+1117	COOPER	We have to move along.	N/A	-	-
+1118	CLINTON	Nine million people lost their jobs.	N/A	-	-
+1119	RADDATZ	Secretary Clinton, we have to...	N/A	-	-
+1120	CLINTON	Five million homes were lost.	N/A	-	-
+1121	RADDATZ	Secretary Clinton, we're moving.	N/A	-	-
+1122	CLINTON	And $13 trillion in family wealth was wiped out.	N/A	-	-
+1123	CLINTON	We are back on the right track.	N/A	-	-
+1124	CLINTON	He would send us back into recession with his tax plans that benefit the wealthiest of Americans.	N/A	-	-
+1125	RADDATZ	Secretary Clinton, we are moving to an audience question.	N/A	-	-
+1126	RADDATZ	We're almost out of time.	N/A	-	-
+1127	RADDATZ	We have another...	N/A	-	-
+1128	TRUMP	We have the slowest growth since 1929.	N/A	-	-
+1129	RADDATZ	We're moving to an audience question.	N/A	-	-
+1130	TRUMP	It is -- our country has the slowest growth and jobs are a disaster.	N/A	-	-
+1131	RADDATZ	Mr. Trump, Secretary Clinton, we want to get to the audience.	N/A	-	-
+1132	RADDATZ	Thank you very much both of you.	N/A	-	-
+1133	SYSTEM	(LAUGHTER)	N/A	-	-
+1134	RADDATZ	We have another audience question.	N/A	-	-
+1135	RADDATZ	Beth Miller has a question for both candidates.	N/A	-	-
+1136	QUESTION	Good evening.	N/A	-	-
+1137	QUESTION	Perhaps the most important aspect of this election is the Supreme Court justice.	N/A	-	-
+1138	QUESTION	What would you prioritize as the most important aspect of selecting a Supreme Court justice?	N/A	-	-
+1139	RADDATZ	We begin with your two minutes, Secretary Clinton.	N/A	-	-
+1140	CLINTON	Thank you.	N/A	-	-
+1141	CLINTON	Well, you're right.	N/A	-	-
+1142	CLINTON	This is one of the most important issues in this election.	N/A	-	-
+1143	CLINTON	I want to appoint Supreme Court justices who understand the way the world really works, who have real-life experience, who have not just been in a big law firm and maybe clerked for a judge and then gotten on the bench, but, you know, maybe they tried some more cases, they actually understand what people are up against.	N/A	-	-
+1144	CLINTON	Because I think the current court has gone in the wrong direction.	N/A	-	-
+1145	CLINTON	And so I would want to see the Supreme Court reverse Citizens United and get dark, unaccountable money out of our politics.	N/A	-	-
+1146	CLINTON	Donald doesn't agree with that.	N/A	-	-
+1147	CLINTON	I would like the Supreme Court to understand that voting rights are still a big problem in many parts of our country, that we don't always do everything we can to make it possible for people of color and older people and young people to be able to exercise their franchise.	N/A	-	-
+1148	CLINTON	I want a Supreme Court that will stick with Roe v. Wade and a woman's right to choose, and I want a Supreme Court that will stick with marriage equality.	N/A	-	-
+1149	CLINTON	Now, Donald has put forth the names of some people that he would consider.	N/A	-	-
+1150	CLINTON	And among the ones that he has suggested are people who would reverse Roe v. Wade and reverse marriage equality.	N/A	-	-
+1151	CLINTON	I think that would be a terrible mistake and would take us backwards.	N/A	-	-
+1152	CLINTON	I want a Supreme Court that doesn't always side with corporate interests.	N/A	-	-
+1153	CLINTON	I want a Supreme Court that understands because you're wealthy and you can give more money to something doesn't mean you have any more rights or should have any more rights than anybody else.	N/A	-	-
+1154	CLINTON	So I have very clear views about what I want to see to kind of change the balance on the Supreme Court.	N/A	-	-
+1155	CLINTON	And I regret deeply that the Senate has not done its job and they have not permitted a vote on the person that President Obama, a highly qualified person, they've not given him a vote to be able to be have the full complement of nine Supreme Court justices.	N/A	-	-
+1156	CLINTON	I think that was a dereliction of duty.	N/A	-	-
+1157	CLINTON	I hope that they will see their way to doing it, but if I am so fortunate enough as to be president, I will immediately move to make sure that we fill that, we have nine justices that get to work on behalf of our people.	N/A	-	-
+1158	RADDATZ	Thank you, Secretary Clinton.	N/A	-	-
+1159	RADDATZ	Thank you.	N/A	-	-
+1160	RADDATZ	You're out of time.	N/A	-	-
+1161	RADDATZ	Mr. Trump?	N/A	-	-
+1162	TRUMP	Justice Scalia, great judge, died recently.	N/A	-	-
+1163	TRUMP	And we have a vacancy.	N/A	-	-
+1164	TRUMP	I am looking to appoint judges very much in the mold of Justice Scalia.	N/A	-	-
+1165	TRUMP	I'm looking for judges -- and I've actually picked 20 of them so that people would see, highly respected, highly thought of, and actually very beautifully reviewed by just about everybody.	N/A	-	-
+1166	TRUMP	But people that will respect the Constitution of the United States.	N/A	-	-
+1167	TRUMP	And I think that this is so important.	N/A	-	-
+1168	TRUMP	Also, the Second Amendment, which is totally under siege by people like Hillary Clinton.	N/A	-	-
+1169	TRUMP	They'll respect the Second Amendment and what it stands for, what it represents.	N/A	-	-
+1170	TRUMP	So important to me.	N/A	-	-
+1171	TRUMP	Now, Hillary mentioned something about contributions just so you understand.	N/A	-	-
+1172	TRUMP	So I will have in my race more than $100 million put in -- of my money, meaning I'm not taking all of this big money from all of these different corporations like she's doing.	N/A	-	-
+1173	TRUMP	What I ask is this.	N/A	-	-
+1174	TRUMP	So I'm putting in more than -- by the time it's finished, I'll have more than $100 million invested.	N/A	-	-
+1175	TRUMP	Pretty much self-funding money.	N/A	-	-
+1176	TRUMP	We're raising money for the Republican Party, and we're doing tremendously on the small donations, $61 average or so.	N/A	-	-
+1177	TRUMP	I ask Hillary, why doesn't -- she made $250 million by being in office.	N/A	-	-
+1178	TRUMP	She used the power of her office to make a lot of money.	N/A	-	-
+1179	TRUMP	Why isn't she funding, not for $100 million, but why don't you put $10 million or $20 million or $25 million or $30 million into your own campaign?	N/A	-	-
+1180	TRUMP	It's $30 million less for special interests that will tell you exactly what to do and it would really, I think, be a nice sign to the American public.	N/A	-	-
+1181	TRUMP	Why aren't you putting some money in?	N/A	-	-
+1182	TRUMP	You have a lot of it.	N/A	-	-
+1183	TRUMP	You've made a lot of it because of the fact that you've been in office.	N/A	-	-
+1184	TRUMP	Made a lot of it while you were secretary of state, actually.	N/A	-	-
+1185	TRUMP	So why aren't you putting money into your own campaign?	N/A	-	-
+1186	TRUMP	I'm just curious.	N/A	-	-
+1187	CLINTON	Well...	N/A	-	-
+1188	SYSTEM	(CROSSTALK)	N/A	-	-
+1189	RADDATZ	Thank you very much.	N/A	-	-
+1190	RADDATZ	We're going to get on to one more question.	N/A	-	-
+1191	CLINTON	The question was about the Supreme Court.	N/A	-	-
+1192	CLINTON	And I just want to quickly say, I respect the Second Amendment.	N/A	-	-
+1193	CLINTON	But I believe there should be comprehensive background checks, and we should close the gun show loophole, and close the online loophole.	N/A	-	-
+1194	COOPER	Thank you.	N/A	-	-
+1195	RADDATZ	We have -- we have one more question, Mrs. Clinton.	N/A	-	-
+1196	CLINTON	We have to save as many lives as we possibly can.	N/A	-	-
+1197	COOPER	We have one more question from Ken Bone about energy policy.	N/A	-	-
+1198	COOPER	Ken?	N/A	-	-
+1199	QUESTION	What steps will your energy policy take to meet our energy needs, while at the same time remaining environmentally friendly and minimizing job loss for fossil power plant workers?	N/A	-	-
+1200	COOPER	Mr. Trump, two minutes?	N/A	-	-
+1201	TRUMP	Absolutely.	N/A	-	-
+1202	TRUMP	I think it's such a great question, because energy is under siege by the Obama administration.	N/A	-	-
+1203	TRUMP	Under absolutely siege.	N/A	-	-
+1204	TRUMP	The EPA, Environmental Protection Agency, is killing these energy companies.	N/A	-	-
+1205	TRUMP	And foreign companies are now coming in buying our -- buying so many of our different plants and then re-jiggering the plant so that they can take care of their oil.	N/A	-	-
+1206	TRUMP	We are killing -- absolutely killing our energy business in this country.	N/A	-	-
+1207	TRUMP	Now, I'm all for alternative forms of energy, including wind, including solar, et cetera.	N/A	-	-
+1208	TRUMP	But we need much more than wind and solar.	N/A	-	-
+1209	TRUMP	And you look at our miners.	N/A	-	-
+1210	TRUMP	Hillary Clinton wants to put all the miners out of business.	24	Hillary Clinton wants to put all the miners out of business.	HALF-TRUE
+1211	TRUMP	There is a thing called clean coal.	N/A	-	-
+1212	TRUMP	Coal will last for 1,000 years in this country.	N/A	-	-
+1213	TRUMP	Now we have natural gas and so many other things because of technology.	N/A	-	-
+1214	TRUMP	We have unbelievable -- we have found over the last seven years, we have found tremendous wealth right under our feet.	N/A	-	-
+1215	TRUMP	So good.	N/A	-	-
+1216	TRUMP	Especially when you have $20 trillion in debt.	N/A	-	-
+1217	TRUMP	I will bring our energy companies back.	N/A	-	-
+1218	TRUMP	They'll be able to compete.	N/A	-	-
+1219	TRUMP	They'll make money.	N/A	-	-
+1220	TRUMP	They'll pay off our national debt.	N/A	-	-
+1221	TRUMP	They'll pay off our tremendous budget deficits, which are tremendous.	N/A	-	-
+1222	TRUMP	But we are putting our energy companies out of business.	N/A	-	-
+1223	TRUMP	We have to bring back our workers.	N/A	-	-
+1224	TRUMP	You take a look at what's happening to steel and the cost of steel and China dumping vast amounts of steel all over the United States, which essentially is killing our steelworkers and our steel companies.	N/A	-	-
+1225	TRUMP	We have to guard our energy companies.	N/A	-	-
+1226	TRUMP	We have to make it possible.	N/A	-	-
+1227	TRUMP	The EPA is so restrictive that they are putting our energy companies out of business.	N/A	-	-
+1228	TRUMP	And all you have to do is go to a great place like West Virginia or places like Ohio, which is phenomenal, or places like Pennsylvania and you see what they're doing to the people, miners and others in the energy business.	N/A	-	-
+1229	TRUMP	It's a disgrace.	N/A	-	-
+1230	COOPER	Your time is up.	N/A	-	-
+1231	COOPER	Thank you.	N/A	-	-
+1232	TRUMP	It's an absolute disgrace.	N/A	-	-
+1233	COOPER	Secretary Clinton, two minutes.	N/A	-	-
+1234	CLINTON	And actually -- well, that was very interesting.	N/A	-	-
+1235	CLINTON	First of all, China is illegally dumping steel in the United States and Donald Trump is buying it to build his buildings, putting steelworkers and American steel plants out of business.	N/A	-	-
+1236	CLINTON	That's something that I fought against as a senator and that I would have a trade prosecutor to make sure that we don't get taken advantage of by China on steel or anything else.	N/A	-	-
+1237	CLINTON	You know, because it sounds like you're in the business or you're aware of people in the business -- you know that we are now for the first time ever energy-independent.	25	In 2016, the USA were energy-independent for the first time ever. See also: https://blogs.scientificamerican.com/plugged-in/is-the-u-s-energy-independent/	FALSE
+1238	CLINTON	We are not dependent upon the Middle East.	N/A	-	-
+1239	CLINTON	But the Middle East still controls a lot of the prices.	N/A	-	-
+1240	CLINTON	So the price of oil has been way down.	N/A	-	-
+1241	CLINTON	And that has had a damaging effect on a lot of the oil companies, right?	N/A	-	-
+1242	CLINTON	We are, however, producing a lot of natural gas, which serves as a bridge to more renewable fuels.	N/A	-	-
+1243	CLINTON	And I think that's an important transition.	N/A	-	-
+1244	CLINTON	We've got to remain energy-independent.	N/A	-	-
+1245	CLINTON	It gives us much more power and freedom than to be worried about what goes on in the Middle East.	N/A	-	-
+1246	CLINTON	We have enough worries over there without having to worry about that.	N/A	-	-
+1247	CLINTON	So I have a comprehensive energy policy, but it really does include fighting climate change, because I think that is a serious problem.	N/A	-	-
+1248	CLINTON	And I support moving toward more clean, renewable energy as quickly as we can, because I think we can be the 21st century clean energy superpower and create millions of new jobs and businesses.	N/A	-	-
+1249	CLINTON	But I also want to be sure that we don't leave people behind.	N/A	-	-
+1250	CLINTON	That's why I'm the only candidate from the very beginning of this campaign who had a plan to help us revitalize coal country, because those coal miners and their fathers and their grandfathers, they dug that coal out.	N/A	-	-
+1251	CLINTON	A lot of them lost their lives.	N/A	-	-
+1252	CLINTON	They were injured, but they turned the lights on and they powered their factories.	N/A	-	-
+1253	CLINTON	I don't want to walk away from them.	N/A	-	-
+1254	CLINTON	So we've got to do something for them.	N/A	-	-
+1255	COOPER	Secretary Clinton...	N/A	-	-
+1256	CLINTON	But the price of coal is down worldwide.	N/A	-	-
+1257	CLINTON	So we have to look at this comprehensively.	N/A	-	-
+1258	COOPER	Your time is up.	N/A	-	-
+1259	CLINTON	And that's exactly what I have proposed.	N/A	-	-
+1260	CLINTON	I hope you will go to HillaryClinton.com and look at my entire policy.	N/A	-	-
+1261	COOPER	Time is up.	N/A	-	-
+1262	COOPER	We have time for one more...	N/A	-	-
+1263	RADDATZ	We have...	N/A	-	-
+1264	COOPER	One more audience question.	N/A	-	-
+1265	RADDATZ	We've sneaked in one more question, and it comes from Karl Becker.	N/A	-	-
+1266	QUESTION	Good evening.	N/A	-	-
+1267	QUESTION	My question to both of you is, regardless of the current rhetoric, would either of you name one positive thing that you respect in one another?	N/A	-	-
+1268	SYSTEM	(APPLAUSE)	N/A	-	-
+1269	RADDATZ	Mr. Trump, would you like to go first?	N/A	-	-
+1270	CLINTON	Well, I certainly will, because I think that's a very fair and important question.	N/A	-	-
+1271	CLINTON	Look, I respect his children.	N/A	-	-
+1272	CLINTON	His children are incredibly able and devoted, and I think that says a lot about Donald.	N/A	-	-
+1273	CLINTON	I don't agree with nearly anything else he says or does, but I do respect that.	N/A	-	-
+1274	CLINTON	And I think that is something that as a mother and a grandmother is very important to me.	N/A	-	-
+1275	CLINTON	So I believe that this election has become in part so -- so conflict-oriented, so intense because there's a lot at stake.	N/A	-	-
+1276	CLINTON	This is not an ordinary time, and this is not an ordinary election.	N/A	-	-
+1277	CLINTON	We are going to be choosing a president who will set policy for not just four or eight years, but because of some of the important decisions we have to make here at home and around the world, from the Supreme Court to energy and so much else, and so there is a lot at stake.	N/A	-	-
+1278	CLINTON	It's one of the most consequential elections that we've had.	N/A	-	-
+1279	CLINTON	And that's why I've tried to put forth specific policies and plans, trying to get it off of the personal and put it on to what it is I want to do as president.	N/A	-	-
+1280	CLINTON	And that's why I hope people will check on that for themselves so that they can see that, yes, I've spent 30 years, actually maybe a little more, working to help kids and families.	N/A	-	-
+1281	CLINTON	And I want to take all that experience to the White House and do that every single day.	N/A	-	-
+1282	RADDATZ	Mr. Trump?	N/A	-	-
+1283	TRUMP	Well, I consider her statement about my children to be a very nice compliment.	N/A	-	-
+1284	TRUMP	I don't know if it was meant to be a compliment, but it is a great -- I'm very proud of my children.	N/A	-	-
+1285	TRUMP	And they've done a wonderful job, and they've been wonderful, wonderful kids.	N/A	-	-
+1286	TRUMP	So I consider that a compliment.	N/A	-	-
+1287	TRUMP	I will say this about Hillary.	N/A	-	-
+1288	TRUMP	She doesn't quit.	N/A	-	-
+1289	TRUMP	She doesn't give up.	N/A	-	-
+1290	TRUMP	I respect that.	N/A	-	-
+1291	TRUMP	I tell it like it is.	N/A	-	-
+1292	TRUMP	She's a fighter.	N/A	-	-
+1293	TRUMP	I disagree with much of what she's fighting for.	N/A	-	-
+1294	TRUMP	I do disagree with her judgment in many cases.	N/A	-	-
+1295	TRUMP	But she does fight hard, and she doesn't quit, and she doesn't give up.	N/A	-	-
+1296	TRUMP	And I consider that to be a very good trait.	N/A	-	-
+1297	RADDATZ	Thanks to both of you.	N/A	-	-
+1298	COOPER	We want to thank both the candidates.	N/A	-	-
+1299	COOPER	We want to thank the university here.	N/A	-	-
+1300	COOPER	This concludes the town hall meeting.	N/A	-	-
+1301	COOPER	Our thanks to the candidates, the commission, Washington University, and to everybody who watched.	N/A	-	-
+1302	RADDATZ	Please tune in on October 19th for the final presidential debate that will take place at the University of Nevada, Las Vegas.	N/A	-	-
+1303	RADDATZ	Good night, everyone.	N/A	-	-
