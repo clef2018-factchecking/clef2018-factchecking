@@ -55,18 +55,18 @@ def run_ngram_baseline(train_debates, test_debate, results_fpath):
 
 if __name__ == '__main__':
     ROOT_DIR = dirname(dirname(__file__))
-    gold_data_folder = join(ROOT_DIR, 'data/gold/')
+    gold_data_folder = join(ROOT_DIR, 'gold_data/task2/English')
 
     train_debates = [join(gold_data_folder, 'Task2-English-1st-Presidential.txt'),
                      join(gold_data_folder, 'Task2-English-Vice-Presidential.txt')]
     test_debate = join(gold_data_folder, 'Task2-English-2nd-Presidential.txt')
 
-    random_baseline_fpath = join(ROOT_DIR, 'data/baselines/subtaskB_random_baseline.txt')
+    random_baseline_fpath = join(ROOT_DIR, 'baselines/data/task2_random_baseline.txt')
     run_random_baseline(test_debate, random_baseline_fpath)
     if check_format(random_baseline_fpath):
         evaluate(test_debate, random_baseline_fpath)
 
-    ngram_baseline_fpath = join(ROOT_DIR, 'data/baselines/subtaskB_ngram_baseline.txt')
+    ngram_baseline_fpath = join(ROOT_DIR, 'baselines/data/task2_ngram_baseline.txt')
     run_ngram_baseline(train_debates, test_debate, ngram_baseline_fpath)
 
     if check_format(ngram_baseline_fpath):
