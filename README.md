@@ -4,8 +4,7 @@ This repository contains the _dataset_ for the [CLEF2018-factcheking task](http:
 It also contains the _format checker, scorer and baselines_ for the task.
 
 ````
-FCPD corpus for the CLEF-2018 LAB on "Automatic Identification 
-and Verification of Claims in Political Debates"
+FCPD corpus for the CLEF-2018 LAB on "Automatic Identification and Verification of Claims in Political Debates"
 Version 1.0: February 25, 2018 (TRIAL)
 ````
 
