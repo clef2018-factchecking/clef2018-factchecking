@@ -55,7 +55,7 @@ def run_ngram_baseline(train_debates, test_debate, results_fpath):
 
 if __name__ == '__main__':
     ROOT_DIR = dirname(dirname(__file__))
-    gold_data_folder = join(ROOT_DIR, 'gold_data/task2/English')
+    gold_data_folder = join(ROOT_DIR, 'data/task2/English')
 
     train_debates = [join(gold_data_folder, 'Task2-English-1st-Presidential.txt'),
                      join(gold_data_folder, 'Task2-English-Vice-Presidential.txt')]

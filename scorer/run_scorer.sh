@@ -2,8 +2,8 @@
 PROJ_DIR="$(dirname $( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd ))"
 export PYTHONPATH=${PROJ_DIR}
 scorer_tests_path=${PROJ_DIR}'/scorer/data/'
-gold_file_task1=${PROJ_DIR}/gold_data/task1/English/'Task1-English-1st-Presidential.txt'
-gold_file_task2=${PROJ_DIR}/gold_data/task2/English/'Task2-English-1st-Presidential.txt'
+gold_file_task1=${PROJ_DIR}/data/task1/English/'Task1-English-1st-Presidential.txt'
+gold_file_task2=${PROJ_DIR}/data/task2/English/'Task2-English-1st-Presidential.txt'
 
 echo 'Scoring a random baseline for task 1'
 python3 task1.py --gold_file_path=${gold_file_task1} --pred_file_path=${scorer_tests_path}task1_random_baseline.txt

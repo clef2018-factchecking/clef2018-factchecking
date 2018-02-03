@@ -4,9 +4,9 @@ from os.path import dirname, join
 from scorer import task1, task2
 
 _ROOT_DIR = dirname(dirname(__file__))
-_GOLD_FILE_1 = join(_ROOT_DIR, 'gold_data/task1/English/Task1-English-1st-Presidential.txt')
+_GOLD_FILE_1 = join(_ROOT_DIR, 'data/task1/English/Task1-English-1st-Presidential.txt')
 _PRED_FILE_1 = join(_ROOT_DIR, 'scorer/data/task1_random_baseline.txt')
-_GOLD_FILE_2 = join(_ROOT_DIR, 'gold_data/task2/English/Task2-English-1st-Presidential.txt')
+_GOLD_FILE_2 = join(_ROOT_DIR, 'data/task2/English/Task2-English-1st-Presidential.txt')
 _PRED_FILE_2 = join(_ROOT_DIR, 'scorer/data/task2_random_baseline.txt')
 
 
