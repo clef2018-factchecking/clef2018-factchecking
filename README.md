@@ -209,7 +209,7 @@ For Task 2 (classification): Accuracy, Macro F1, Macro Recall (+ confusion matri
 
 ## Baselines
 
-The [baselines](/baselines) module contains a random and a simple ngram baseline for each of the tasks.
+The [baselines](/baselines) module contains a random and a simple ngram baseline for each of the tasks and each of the languages.
 
 If you execute any of the scripts, both of the baselines will be trained on the 1st Presidential and the Vice-Presidential debates and evaluated on the 2nd Presidential debate.
 The performance of both baselines will be displayed.
