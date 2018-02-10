@@ -50,13 +50,14 @@ def _compute_average_precision(gold_labels, ranked_lines, threshold):
     precisions = []
     num_correct = 0
     threshold = min(threshold, len(ranked_lines))
+    num_positive = sum([1 if v == 1 else 0 for k, v in gold_labels.items()])
 
     for i, line_number in enumerate(ranked_lines[:threshold]):
         if gold_labels[line_number] == 1:
             num_correct += 1
             precisions.append(num_correct / (i + 1))
     if precisions:
-        avg_prec = sum(precisions) / len(precisions)
+        avg_prec = sum(precisions) / min(threshold, num_positive)
     else:
         avg_prec = 0.0
 
@@ -132,7 +133,7 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
 
     logging.info('Description of the evaluation metrics: ')
     logging.info('R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.')
-    logging.info('Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th.')
+    logging.info('Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th (or by the threshold, if it is smaller).')
     logging.info('Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.')
     logging.info('Precision@N is precision estimated for the first N line_numbers in the provided ranked list.')
     logging.info(lines_separator)

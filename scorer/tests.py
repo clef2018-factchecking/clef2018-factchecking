@@ -14,24 +14,27 @@ class ScorerTask1(TestCase):
     def test_average_precision(self):
         y_gold_labels = {1: 0, 2: 1, 3: 0, 4: 0, 5: 1}
         y_pred_ranked = [1, 2, 3, 4, 5]
-
+        num_relevant = 2
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=1)
         self.assertEqual(avg_p, 0)
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=2)
-        self.assertEqual(avg_p, 0.5)
+        self.assertEqual(avg_p, 0.5/num_relevant)
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=3)
-        self.assertEqual(avg_p, 0.5)
+        self.assertEqual(avg_p, 0.5/num_relevant)
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=5)
-        self.assertEqual(avg_p, (0.5+0.4)/2)
+        self.assertEqual(avg_p, (0.5+0.4)/num_relevant)
 
         y_gold_labels = {1: 1, 2: 0, 3: 1, 4: 0, 5: 1}
         y_pred_ranked = [1, 2, 3, 4, 5]
+        num_relevant = 3
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=1)
         self.assertEqual(avg_p, 1)
+        avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=2)
+        self.assertEqual(avg_p, 1/2)
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=3)
-        self.assertEqual(avg_p, (1 + 2/3)/2)
+        self.assertEqual(avg_p, (1 + 2/3)/num_relevant)
         avg_p = task1._compute_average_precision(y_gold_labels, y_pred_ranked, threshold=5)
-        self.assertEqual(avg_p, (1 + 2/3 + 3/5)/3)
+        self.assertEqual(avg_p, (1 + 2/3 + 3/5)/num_relevant)
 
         y_gold_labels = {1: 1, 2: 0, 3: 1, 4: 0, 5: 0}
         y_pred_ranked = [2, 4, 5, 1, 3]
