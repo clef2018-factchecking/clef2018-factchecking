@@ -106,7 +106,7 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
     # Calculate Metrics
     precisions = _compute_precisions(gold_labels, ranked_lines, len(ranked_lines))
     avg_precisions = [_compute_average_precision(gold_labels, ranked_lines, th) for th in thresholds]
-    reciprocal_ranks = [_compute_average_precision(gold_labels, ranked_lines, th) for th in thresholds]
+    reciprocal_ranks = [_compute_reciprocal_rank(gold_labels, ranked_lines, th) for th in thresholds]
     num_relevant = len({k for k, v in gold_labels.items() if v == 1})
 
     # Log Results
