@@ -47,10 +47,10 @@ def run_ngram_baseline(train_debates, test_debate, results_fpath):
         ('ngrams', TfidfVectorizer(ngram_range=(1, 2))),
         ('clf', SVC(random_state=0, C=10, gamma=0.1, kernel='rbf'))
     ])
-    pipeline.fit(train_df['text'], train_df['label'])
+    pipeline.fit(train_df['normalized_claim'], train_df['label'])
 
     with open(results_fpath, "w") as results_file:
-        predicted_labels = pipeline.predict(test_df['text'])
+        predicted_labels = pipeline.predict(test_df['normalized_claim'])
         for claim_num, label in zip(test_df['claim_number'], predicted_labels):
             results_file.write("{}\t{}\n".format(claim_num, label))
 
