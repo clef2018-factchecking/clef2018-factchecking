@@ -33,13 +33,14 @@ def run_ngram_baseline(train_debates, test_debate, results_fpath):
     test_df = test_df[test_df['claim_number'].notna()]
     test_df.drop_duplicates(subset=['claim_number', 'label'], inplace=True)
     test_df['claim_number'] = test_df['claim_number'].astype(int)
+
     train_list = []
     for train_debate in train_debates:
         df = pd.read_csv(train_debate, index_col=None, header=None, names=_COL_NAMES, sep='\t')
+        df = df[df['claim_number'].notna()]
+        df.drop_duplicates(subset=['claim_number', 'label'], inplace=True)
         train_list.append(df)
     train_df = pd.concat(train_list)
-    train_df = train_df[train_df['claim_number'].notna()]
-    train_df.drop_duplicates(subset=['claim_number', 'label'], inplace=True)
     train_df['claim_number'] = train_df['claim_number'].astype(int)
 
     pipeline = Pipeline([
