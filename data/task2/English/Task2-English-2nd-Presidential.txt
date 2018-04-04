@@ -36,7 +36,7 @@
 36	TRUMP	When I look at all of the things that I see and all of the potential that our country has, we have such tremendous potential, whether it's in business and trade, where we're doing so badly.	N/A	-	-
 37	TRUMP	Last year, we had almost $800 billion trade deficit.	2	In 2015, USA had a trade deficit of almost $800 billion a year.	HALF-TRUE
 38	TRUMP	In other words, trading with other countries.	N/A	-	-
-39	TRUMP	We had an $800 billion deficit.	N/A	-	-
+39	TRUMP	We had an $800 billion deficit.	2	In 2015, USA had a trade deficit of almost $800 billion a year.	HALF-TRUE
 40	TRUMP	It's hard to believe.	N/A	-	-
 41	TRUMP	Inconceivable.	N/A	-	-
 42	TRUMP	You say who's making these deals?	N/A	-	-
@@ -659,11 +659,11 @@
 659	TRUMP	But we're bringing the tax rate down from 35 percent to 15 percent.	N/A	-	-
 660	TRUMP	We're cutting taxes for the middle class.	N/A	-	-
 661	TRUMP	And I will tell you, we are cutting them big league for the middle class.	N/A	-	-
-662	TRUMP	And I will tell you, Hillary Clinton is raising your taxes, folks.	N/A	-	-
+662	TRUMP	And I will tell you, Hillary Clinton is raising your taxes, folks.	14	Hillary Clinton plans to raise everybody's taxes massively.	FALSE
 663	TRUMP	You can look at me.	N/A	-	-
-664	TRUMP	She's raising your taxes really high.	N/A	-	-
+664	TRUMP	She's raising your taxes really high.	14	Hillary Clinton plans to raise everybody's taxes massively.	FALSE
 665	TRUMP	And what that's going to do is a disaster for the country.	N/A	-	-
-666	TRUMP	But she is raising your taxes and I'm lowering your taxes.	N/A	-	-
+666	TRUMP	But she is raising your taxes and I'm lowering your taxes.	14	Hillary Clinton plans to raise everybody's taxes massively.	FALSE
 667	TRUMP	That in itself is a big difference.	N/A	-	-
 668	TRUMP	We are going to be thriving again.	N/A	-	-
 669	TRUMP	We have no growth in this country.	N/A	-	-

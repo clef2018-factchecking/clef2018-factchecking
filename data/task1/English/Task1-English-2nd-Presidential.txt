@@ -36,7 +36,7 @@
 36	TRUMP	When I look at all of the things that I see and all of the potential that our country has, we have such tremendous potential, whether it's in business and trade, where we're doing so badly.	0
 37	TRUMP	Last year, we had almost $800 billion trade deficit.	1
 38	TRUMP	In other words, trading with other countries.	0
-39	TRUMP	We had an $800 billion deficit.	0
+39	TRUMP	We had an $800 billion deficit.	1
 40	TRUMP	It's hard to believe.	0
 41	TRUMP	Inconceivable.	0
 42	TRUMP	You say who's making these deals?	0
@@ -659,11 +659,11 @@
 659	TRUMP	But we're bringing the tax rate down from 35 percent to 15 percent.	0
 660	TRUMP	We're cutting taxes for the middle class.	0
 661	TRUMP	And I will tell you, we are cutting them big league for the middle class.	0
-662	TRUMP	And I will tell you, Hillary Clinton is raising your taxes, folks.	0
+662	TRUMP	And I will tell you, Hillary Clinton is raising your taxes, folks.	1
 663	TRUMP	You can look at me.	0
-664	TRUMP	She's raising your taxes really high.	0
+664	TRUMP	She's raising your taxes really high.	1
 665	TRUMP	And what that's going to do is a disaster for the country.	0
-666	TRUMP	But she is raising your taxes and I'm lowering your taxes.	0
+666	TRUMP	But she is raising your taxes and I'm lowering your taxes.	1
 667	TRUMP	That in itself is a big difference.	0
 668	TRUMP	We are going to be thriving again.	0
 669	TRUMP	We have no growth in this country.	0
