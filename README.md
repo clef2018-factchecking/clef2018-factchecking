@@ -188,8 +188,8 @@ Otherwise the scorer will not score this result file.
 The checkers for each subtask are located in the [format_checker](format_checker) module of the project.
 Each format checker verifies that your generated results file complies with the expected format.
 To launch them run: 
-> python3 subtaskA.py --pred_file_path=<path_to_your_results_file> <br/>
-> python3 subtaskB.py --pred_file_path=<path_to_your_results_file> 
+> python3 task1.py --pred_file_path=<path_to_your_results_file> <br/>
+> python3 task2.py --pred_file_path=<path_to_your_results_file>
 
 `run_format_checker.sh` includes examples of the output of the checkers when dealing with an ill-formed results file. 
 Its output can be seen in [run_format_checker_out.txt](format_checker/run_format_checker_out.txt)
@@ -198,8 +198,8 @@ The checks for completness (if the result files contain all lines / claims) is N
 ## Scorers 
 
 Launch the scorers for each task as follows:
-> python3 subtaskA.py --gold_file_path=<path_to_gold_file> --pred_file_path=<predicted_results_path> <br/>
-> python3 subtaskB.py --gold_file_path=<path_to_gold_file> --pred_file=<predicted_results_path> 
+> python3 task1.py --gold_file_path=<path_to_gold_file> --pred_file_path=<predicted_results_path> <br/>
+> python3 task2.py --gold_file_path=<path_to_gold_file> --pred_file_path=<predicted_results_path>
     
 where __<path_to_gold_file>__ is the path to the file containing the gold annotations for a debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in the 'Results File Format' section.
 

@@ -19,13 +19,13 @@ python3 task1.py --gold_file_path=${gold_file_task1} --pred_file_path=${scorer_t
 echo '**********'
 echo '**********'
 echo 'Scoring the gold predictions for task 2'
-python3 task2.py --gold_file_path=${gold_file_task2} --pred_file=${scorer_tests_path}task2_gold.txt
+python3 task2.py --gold_file_path=${gold_file_task2} --pred_file_path=${scorer_tests_path}task2_gold.txt
 echo '**********'
 echo 'Scoring a random baseline for task 2'
-python3 task2.py --gold_file_path=${gold_file_task2} --pred_file=${scorer_tests_path}task2_random_baseline.txt
+python3 task2.py --gold_file_path=${gold_file_task2} --pred_file_path=${scorer_tests_path}task2_random_baseline.txt
 echo '**********'
 echo 'TEST ERROR: Scoring task 2, with predictions that contains a claim_number, which is not present in the gold file.'
-python3 task2.py --gold_file_path=${gold_file_task2} --pred_file=${scorer_tests_path}task2_other_claim_number.txt
+python3 task2.py --gold_file_path=${gold_file_task2} --pred_file_path=${scorer_tests_path}task2_other_claim_number.txt
 echo '**********'
 echo 'TEST ERROR: Scoring task 2, with predictions that do not contain all claims from the gold file.'
-python3 task2.py --gold_file_path=${gold_file_task2} --pred_file=${scorer_tests_path}task2_not_all_claims.txt
+python3 task2.py --gold_file_path=${gold_file_task2} --pred_file_path=${scorer_tests_path}task2_not_all_claims.txt

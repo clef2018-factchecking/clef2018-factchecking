@@ -150,9 +150,9 @@ INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-fac
 INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_not_all_claims.txt
 ERROR : The predictions do not match the claims from the gold file - missing or extra claim_number
 Traceback (most recent call last):
-  File "task2.py", line 211, in <module>
+  File "task2.py", line 210, in <module>
     evaluate(args.gold_file_path, args.pred_file_path)
-  File "task2.py", line 154, in evaluate
+  File "task2.py", line 153, in evaluate
     gold_labels, pred_labels = _read_gold_and_pred(gold_fpath, pred_fpath)
   File "task2.py", line 44, in _read_gold_and_pred
     raise ValueError('The predictions do not match the claims from the gold file - missing or extra claim_number')
