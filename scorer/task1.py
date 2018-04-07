@@ -5,7 +5,7 @@ from format_checker.task1 import check_format
 Scoring of Task 1 with the metrics Average Precision, R-Precision, P@N, RR@N. 
 """
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 
 def _read_gold_and_pred(gold_fpath, pred_fpath):

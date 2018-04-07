@@ -204,7 +204,7 @@ The scorers call the format checkers for the corresponding task to verify the ou
 
 For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank@k, Precision@k.
 
-For Task 2 (classification): Accuracy, Macro F1, Macro Recall (+ confusion matrix).
+For Task 2 (classification): Mean Absolute Error (MAE), Macro MAE, Accuracy, Macro F1, Macro Recall (+ confusion matrix).
 
 
 ## Baselines

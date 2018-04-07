@@ -12,7 +12,7 @@ where claim_number is only the number of the claims, which are fact-checked (Not
 """
 
 _LINE_PATTERN_B = re.compile('^[1-9][0-9]{0,3}\t(TRUE|FALSE|HALF-TRUE)$', re.IGNORECASE)
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 
 def check_format(file_path):

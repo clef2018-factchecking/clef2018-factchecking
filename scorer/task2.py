@@ -6,9 +6,11 @@ from format_checker.task2 import check_format
 Scoring of Task 2 with confusion matrix, Acc, Macro F1 and Average Recall. 
 """
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 _LABELS = ['true', 'false', 'half-true']
+# The "distance" for a false-true mistake is 2, and for every other pair - 1
+_LABEL_NUMERIC_VALUES = { 'false': 0, 'half-true': 1, 'true': 2 }
 
 
 def _read_gold_and_pred(gold_file_path, pred_file_path):
@@ -110,6 +112,36 @@ def _compute_macro_recall(conf_matrix):
     return sum(r.values()) / len(r)
 
 
+def _compute_mean_absolute_error(conf_matrix):
+    """ Computes Mean Absolute Error (MAE). """
+    num_claims = sum([sum(row.values()) for row in conf_matrix.values()])
+    distance_sum = 0.0
+    for gold_label in conf_matrix:
+        for pred_label in conf_matrix:
+            distance = abs(_LABEL_NUMERIC_VALUES[gold_label] - _LABEL_NUMERIC_VALUES[pred_label])
+            distance_sum += conf_matrix[gold_label][pred_label] * distance
+    if num_claims:
+        return distance_sum / num_claims
+    else:
+        return 0.0
+
+
+def _compute_macro_averaged_mae(conf_matrix):
+    """ Computes Macro-averaged Mean Absolute Error. """
+    mae = {}
+    for label in _LABELS:
+        all_gold = sum([conf_matrix[label][l] for l in _LABELS])
+        distance_sum = 0.0
+        gold_label_value = _LABEL_NUMERIC_VALUES[label]
+        for pred_label in conf_matrix[label]:
+            distance = abs(gold_label_value - _LABEL_NUMERIC_VALUES[pred_label])
+            distance_sum += conf_matrix[label][pred_label] * distance
+        if all_gold == 0:
+            raise ValueError('No instances for class {} found!'.format(label))
+        mae[label] = distance_sum / all_gold
+    return sum(mae.values()) / len(mae)
+
+
 def evaluate(gold_fpath, pred_fpath):
     """
     Evaluates the predicted labels for claim_numbers w.r.t. a gold file.
@@ -121,6 +153,8 @@ def evaluate(gold_fpath, pred_fpath):
    
     # Calculate Metrics
     conf_matrix = _compute_confusion_matrix(gold_labels, pred_labels)
+    mae = _compute_mean_absolute_error(conf_matrix)
+    macro_mae = _compute_macro_averaged_mae(conf_matrix)
     accuracy = _compute_accuracy(conf_matrix)
     macro_f1 = _compute_macro_f1(conf_matrix)
     macro_recall = _compute_macro_recall(conf_matrix)
@@ -128,6 +162,12 @@ def evaluate(gold_fpath, pred_fpath):
     # Log Results
     lines_separator = '=' * 120
     logging.info('{:=^120}'.format('RESULTS'))
+
+    logging.info('{:<25}'.format('MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(mae))
+    logging.info(lines_separator)
+
+    logging.info('{:<25}'.format('MACRO MAE:') + '{0:.4f}'.format(macro_mae))
+    logging.info(lines_separator)
 
     logging.info('{:<25}'.format('ACC:') + '{0:.4f}'.format(accuracy))
     logging.info(lines_separator)
@@ -146,6 +186,10 @@ def evaluate(gold_fpath, pred_fpath):
     logging.info(lines_separator)
 
     logging.info('Description of the evaluation metrics: ')
+    logging.info('Mean Absolute Error (MAE) is the mean "distance" between the predicted and gold labels.')
+    logging.info('  For correct predictions the distance is 0.')
+    logging.info('  For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.')
+    logging.info('Macro MAE computes MAE for each of the (gold) classes and takes the average.')
     logging.info('Accuracy computes the percentage of correctly predicted classes.')
     logging.info('Macro F1 computes the F1 score for each of the classes and takes their average.')
     logging.info('Macro Recall computes Recall for each of the classes and takes its average.')

@@ -130,3 +130,49 @@ class ScorerTask2(TestCase):
 
         self.assertEqual(task2._compute_confusion_matrix(gold_labels, pred_labels), conf_matrix)
 
+    def test_mean_absolute_error(self):
+        conf_matrix = {'true': {'true': 1, 'false': 0, 'half-true': 0},
+                       'false': {'true': 0, 'false': 2, 'half-true': 0},
+                       'half-true': {'true': 0, 'false': 0, 'half-true': 3}}
+        self.assertEqual(task2._compute_mean_absolute_error(conf_matrix), 0)
+
+        conf_matrix = {'true': {'true': 0, 'false': 0, 'half-true': 3},
+                       'false': {'true': 0, 'false': 0, 'half-true': 4},
+                       'half-true': {'true': 1, 'false': 2, 'half-true': 0}}
+        self.assertEqual(task2._compute_mean_absolute_error(conf_matrix), 1)
+
+        conf_matrix = {'true': {'true': 0, 'false': 2, 'half-true': 0},
+                       'false': {'true': 1, 'false': 0, 'half-true': 0},
+                       'half-true': {'true': 0, 'false': 0, 'half-true': 0}}
+        self.assertEqual(task2._compute_mean_absolute_error(conf_matrix), 2)
+
+    def test_macro_averaged_mae(self):
+        conf_matrix = {'true': {'true': 1, 'false': 0, 'half-true': 0},
+                       'false': {'true': 0, 'false': 2, 'half-true': 0},
+                       'half-true': {'true': 0, 'false': 0, 'half-true': 3}}
+        self.assertEqual(task2._compute_macro_averaged_mae(conf_matrix), 0)
+
+        conf_matrix = {'true': {'true': 1, 'false': 0, 'half-true': 0},
+                       'false': {'true': 0, 'false': 1, 'half-true': 0},
+                       'half-true': {'true': 1, 'false': 2, 'half-true': 1}}
+        expected = (0 + 0 + 3/4) / 3
+        self.assertEqual(task2._compute_macro_averaged_mae(conf_matrix), expected)
+
+        conf_matrix = {'true': {'true': 1, 'false': 0, 'half-true': 1},
+                       'false': {'true': 0, 'false': 1, 'half-true': 2},
+                       'half-true': {'true': 1, 'false': 0, 'half-true': 1}}
+        expected = (1/2 + 2/3 + 1/2) / 3
+        self.assertEqual(task2._compute_macro_averaged_mae(conf_matrix), expected)
+
+        conf_matrix = {'true': {'true': 1, 'false': 2, 'half-true': 0},
+                       'false': {'true': 1, 'false': 1, 'half-true': 0},
+                       'half-true': {'true': 0, 'false': 0, 'half-true': 1}}
+        expected = (4/3 + 2/2 + 0) / 3
+        self.assertEqual(task2._compute_macro_averaged_mae(conf_matrix), expected)
+
+        conf_matrix = {'true': {'true': 1, 'false': 0, 'half-true': 0},
+                       'false': {'true': 1, 'false': 1, 'half-true': 0},
+                       'half-true': {'true': 1, 'false': 0, 'half-true': 1}}
+        expected = (0 + 2/2 + 1/2) / 3
+        self.assertEqual(task2._compute_macro_averaged_mae(conf_matrix), expected)
+

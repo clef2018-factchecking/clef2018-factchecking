@@ -15,7 +15,7 @@ and <score> indicates the degree of 'check-worthiness' of the given line.
 """
 
 _LINE_PATTERN_A = re.compile('^[1-9][0-9]{0,3}\t([-+]?\d*\.\d+|\d+)$')
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 
 def check_format(file_path):
