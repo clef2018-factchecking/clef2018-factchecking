@@ -52,6 +52,21 @@ TEST ERROR: Scoring task 1, where the provided list of line_numbers contains a l
 INFO : Started evaluating results for Task 1 ...
 ERROR : Problem with line_number: 1500. They should be consecutive and starting from 1.
 **********
+TEST ERROR: Scoring task 1, where the provided list of line_numbers does not contain all lines from the gold file.
+INFO : Started evaluating results for Task 1 ...
+INFO : The file looks properly formatted.
+INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task1/English/Task1-English-1st-Presidential.txt
+INFO : Reading predicted ranking order from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task1_not_all_lines.txt
+ERROR : The predictions do not match the lines from the gold file - missing or extra line_no
+Traceback (most recent call last):
+  File "task1.py", line 153, in <module>
+    evaluate(args.gold_file_path, args.pred_file_path)
+  File "task1.py", line 103, in evaluate
+    gold_labels, line_score = _read_gold_and_pred(gold_fpath, pred_fpath)
+  File "task1.py", line 43, in _read_gold_and_pred
+    raise ValueError('The predictions do not match the lines from the gold file - missing or extra line_no')
+ValueError: The predictions do not match the lines from the gold file - missing or extra line_no
+**********
 **********
 Scoring the gold predictions for task 2
 INFO : Started evaluating results for Task 2 ...
@@ -121,9 +136,24 @@ INFO : Confusion Matrix computes the distribution of predicted classes, where ro
 INFO : ========================================================================================================================
 INFO : ========================================================================================================================
 **********
-TEST ERROR: Scoring a file with predicted labels, which contains a claim_number, which is not present in the gold file.
+TEST ERROR: Scoring task 2, with predictions that contains a claim_number, which is not present in the gold file.
 INFO : Started evaluating results for Task 2 ...
 INFO : The file looks properly formatted.
 INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task2/English/Task2-English-1st-Presidential.txt
-INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data//task2_other_claim_number.txt
+INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_other_claim_number.txt
 ERROR : No such claim_number: 31 in gold file!
+**********
+TEST ERROR: Scoring task 2, with predictions that do not contain all claims from the gold file.
+INFO : Started evaluating results for Task 2 ...
+INFO : The file looks properly formatted.
+INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task2/English/Task2-English-1st-Presidential.txt
+INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_not_all_claims.txt
+ERROR : The predictions do not match the claims from the gold file - missing or extra claim_number
+Traceback (most recent call last):
+  File "task2.py", line 211, in <module>
+    evaluate(args.gold_file_path, args.pred_file_path)
+  File "task2.py", line 154, in evaluate
+    gold_labels, pred_labels = _read_gold_and_pred(gold_fpath, pred_fpath)
+  File "task2.py", line 44, in _read_gold_and_pred
+    raise ValueError('The predictions do not match the claims from the gold file - missing or extra claim_number')
+ValueError: The predictions do not match the claims from the gold file - missing or extra claim_number

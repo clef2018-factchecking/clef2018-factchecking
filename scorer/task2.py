@@ -39,8 +39,9 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
 
             predicted_labels[claim_number] = label
 
-    if len(gold_labels) != len(predicted_labels):
-        logging.warning('You have missed some line_numbers in your prediction file.')
+    if len(set(gold_labels).difference(predicted_labels)) != 0:
+        logging.error('The predictions do not match the claims from the gold file - missing or extra claim_number')
+        raise ValueError('The predictions do not match the claims from the gold file - missing or extra claim_number')
 
     return gold_labels, predicted_labels
 
@@ -150,7 +151,7 @@ def evaluate(gold_fpath, pred_fpath):
     :param pred_fpath: a file with 'claim_number <TAB> label' at each line.
     """
     gold_labels, pred_labels = _read_gold_and_pred(gold_fpath, pred_fpath)
-   
+
     # Calculate Metrics
     conf_matrix = _compute_confusion_matrix(gold_labels, pred_labels)
     mae = _compute_mean_absolute_error(conf_matrix)

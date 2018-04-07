@@ -38,8 +38,9 @@ def _read_gold_and_pred(gold_fpath, pred_fpath):
                 quit()
             line_score.append((line_number, score))
 
-    if len(gold_labels) != len(line_score):
-        logging.warning('You have missed some line_numbers in your prediction file.')
+    if len(set(gold_labels).difference([tup[0] for tup in line_score])) != 0:
+        logging.error('The predictions do not match the lines from the gold file - missing or extra line_no')
+        raise ValueError('The predictions do not match the lines from the gold file - missing or extra line_no')
 
     return gold_labels, line_score
 
@@ -100,6 +101,7 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
     If not specified - 1, 3, 5, 10, 20, 50, len(ranked_lines).
     """
     gold_labels, line_score = _read_gold_and_pred(gold_fpath, pred_fpath)
+
     ranked_lines = [t[0] for t in sorted(line_score, key=lambda x: x[1], reverse=True)]
     if thresholds is None or len(thresholds) == 0:
         thresholds = [1, 3, 5, 10, 20, 50, len(ranked_lines)]

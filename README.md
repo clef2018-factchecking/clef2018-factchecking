@@ -157,6 +157,9 @@ Where _line_number_ is the number of the claim in the debate and _score_ is a nu
 >11	0.4115 <br/>
 > ...
 
+Your result file *MUST contain scores for all lines* from the respective input file.
+Otherwise the scorer will not score this result file.
+
 ### Task 2:
 
 For this subtask, participants should estimate the credibility of the fact-checked claims. The results file contains one tab-separeted line per instance with:
@@ -175,7 +178,10 @@ Where claim_number is the consecutive number only of the fact-checked claims and
 >8	HALF-TRUE <br/>
 >9	FALSE <br/>
 >10	TRUE <br/>
-> ... 
+> ...
+
+Your result file *MUST contain predictions for all claims* from the respective input file.
+Otherwise the scorer will not score this result file.
 
 ## Format checkers
 
@@ -187,6 +193,7 @@ To launch them run:
 
 `run_format_checker.sh` includes examples of the output of the checkers when dealing with an ill-formed results file. 
 Its output can be seen in [run_format_checker_out.txt](format_checker/run_format_checker_out.txt)
+The checks for completness (if the result files contain all lines / claims) is NOT handled by the format checkers, because they receive only the results file and not the gold one.
 
 ## Scorers 
 
@@ -197,6 +204,7 @@ Launch the scorers for each task as follows:
 where __<path_to_gold_file>__ is the path to the file containing the gold annotations for a debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in the 'Results File Format' section.
 
 The scorers call the format checkers for the corresponding task to verify the output is properly shaped.
+They also handle checking if the provided predictions file contains all lines / claims from the gold one.
 
 `run_scorer.sh` provides examples on using the scorers and the results can be viewed in the [run_scorer_out.txt](scorer/run_scorer_out.txt) file.
 
