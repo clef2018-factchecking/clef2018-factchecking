@@ -58,7 +58,7 @@ def _compute_confusion_matrix(gold_labels, pred_labels):
 
 
 def _compute_accuracy(conf_matrix):
-    """ Computer Accuracy. """
+    """ Computes Accuracy. """
     num_claims = sum([sum(row.values()) for row in conf_matrix.values()])
     correct_claims = sum([conf_matrix[l][l] for l in _LABELS])
     if num_claims:
