@@ -26,15 +26,16 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
         .format(pred_file_path))
 
     predicted_labels = {}
-    for i, line in enumerate(open(pred_file_path)):
-        claim_number, label = line.strip().split('\t')
-        claim_number = int(claim_number)
+    with open(pred_file_path) as pred_file:
+        for i, line in enumerate(pred_file):
+            claim_number, label = line.strip().split('\t')
+            claim_number = int(claim_number)
 
-        if int(claim_number) not in gold_labels:
-            logging.error('No such claim_number: {} in gold file!'.format(claim_number))
-            quit()
+            if int(claim_number) not in gold_labels:
+                logging.error('No such claim_number: {} in gold file!'.format(claim_number))
+                quit()
 
-        predicted_labels[claim_number] = label
+            predicted_labels[claim_number] = label
 
     if len(gold_labels) != len(predicted_labels):
         logging.warning('You have missed some line_numbers in your prediction file.')
