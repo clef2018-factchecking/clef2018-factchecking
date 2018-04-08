@@ -6,8 +6,10 @@ from scorer import task1, task2
 _ROOT_DIR = dirname(dirname(__file__))
 _GOLD_FILE_1 = join(_ROOT_DIR, 'data/task1/English/Task1-English-1st-Presidential.txt')
 _PRED_FILE_1 = join(_ROOT_DIR, 'scorer/data/task1_random_baseline.txt')
+_PRED_FILE_1_NOTFULL = join(_ROOT_DIR, 'scorer/data/task1_not_all_lines.txt')
 _GOLD_FILE_2 = join(_ROOT_DIR, 'data/task2/English/Task2-English-1st-Presidential.txt')
 _PRED_FILE_2 = join(_ROOT_DIR, 'scorer/data/task2_random_baseline.txt')
+_PRED_FILE_2_NOTFULL = join(_ROOT_DIR, 'scorer/data/task2_not_all_claims.txt')
 
 
 class ScorerTask1(TestCase):
@@ -72,6 +74,9 @@ class ScorerTask1(TestCase):
         self.assertGreater(len([k for k, v in gold_labels.items() if v == 1]), 20)
         self.assertGreater(len([k for k, v in gold_labels.items() if v == 0]), 1000)
 
+        with self.assertRaises(ValueError):
+          task1._read_gold_and_pred(_GOLD_FILE_1, _PRED_FILE_1_NOTFULL)
+
 
 class ScorerTask2(TestCase):
     def test_accuracy(self):
@@ -119,6 +124,8 @@ class ScorerTask2(TestCase):
         gold_labels, pred_labels = task2._read_gold_and_pred(_GOLD_FILE_2, _PRED_FILE_2)
         self.assertEqual(gold_labels.keys(), pred_labels.keys())
         self.assertGreater(len(gold_labels), 20)
+        with self.assertRaises(ValueError):
+          task2._read_gold_and_pred(_GOLD_FILE_2, _PRED_FILE_2_NOTFULL)
 
     def test_conf_matrix(self):
         gold_labels = {1: 'true', 2: 'true', 3: 'half-true', 4: 'false'}
