@@ -106,22 +106,23 @@ def _expand_url(url):
 	return response.geturl()
 
 def _check_matchers(urlString, allMatchers = True):
-	if not isinstance(urlString, str):
-		print('Error, the provided parameter is not a string. Will be marked as BAD.')
-		return True
 	urlLower = urlString.lower()
 	matchers = MATCHERS_ALL if allMatchers else MATCHERS_SIMPLE
 	return any([all([item in urlLower for item in row]) for row in matchers])
 
 def _is_url_bad(urlString, allMatchers = True):
+	if not isinstance(urlString, str):
+		print('Error, the provided parameter is not a string. Cannot determine if it is BAD.')
+		return False
+
 	if _check_matchers(urlString, allMatchers):
 		return True
 	try:
 		urlExpanded = _expand_url(urlString)
 	except:
 		print('Error while expanding URL "' + urlString + '":', str(sys.exc_info()[1]))
-		print('Will be marked as BAD')
-		return True
+		print('Cannot currently determine if the URL is BAD, examine manually.')
+		return False
 	return _check_matchers(urlExpanded, allMatchers)
 
 def is_url_bad_task1(urlString):
@@ -143,10 +144,7 @@ EXAMPLES = [
 	# OK for both tasks:
 	'https://www.washingtonpost.com/news/tripping/wp/2017/11/30/car-rental-companies-find-a-way-to-ding-motorists-for-electronic-tolling/',
 	'https://en.wikipedia.org/wiki/Donald_Trump',
-	'http://goo.gl/eRJPti',
-	# BAD for technical reasons:
-	1616,
-	'http://www.not-a-real-site-and-so-cannot-be-expanded.com'
+	'http://goo.gl/eRJPti'
 ]
 
 if __name__ == '__main__':
