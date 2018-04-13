@@ -263,6 +263,7 @@ Lab Organizers:
 
 
 Task website: http://alt.qcri.org/clef2018-factcheck/
+**The official rules are published on the website, check them!**
 
 Contact:   clef-factcheck@googlegroups.com
 
