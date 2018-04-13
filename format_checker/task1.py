@@ -34,10 +34,6 @@ def check_format(file_path):
             if line_number != i + 1:
                 logging.error('Problem with line_number: {}. They should be consecutive and starting from 1.'.format(line_number))
                 return False
-
-        logging.info("The file looks properly formatted.")
-
-
     return True
 
 
