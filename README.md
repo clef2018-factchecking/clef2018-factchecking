@@ -259,7 +259,8 @@ Lab Organizers:
 * Wajdi Zaghouani, Carnegie Mellon University - Qatar <br/>
 * Tamer Elsayed, Qatar University <br/>
 * Reem Suwaileh, Qatar University <br/>
-* Pepa Gencheva, Sofia University
+* Pepa Gencheva, Sofia University <br/>
+* Spas Kyuchukov, Sofia University
 
 
 Task website: http://alt.qcri.org/clef2018-factcheck/
