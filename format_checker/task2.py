@@ -41,11 +41,9 @@ def check_format(file_path):
         labels = list(id_label.values())
 
         # 2. Check if some ids are missing
-        if sorted(ids) != list(range(min(ids), max(ids) + 1)):
+        if sorted(ids) != list(range(1, max(ids) + 1)):
             logging.error("You seem to have missing claim_numbers in the provided list.")
             return False
-
-        logging.info("The file looks properly formatted.")
 
         # 3. Check if some labels are missing
         if len(set(labels)) < 3:
