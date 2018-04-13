@@ -1,5 +1,7 @@
 import logging
 import argparse
+import os
+
 from format_checker.task1 import check_format
 """
 Scoring of Task 1 with the metrics Average Precision, R-Precision, P@N, RR@N. 
@@ -7,6 +9,8 @@ Scoring of Task 1 with the metrics Average Precision, R-Precision, P@N, RR@N.
 
 logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
+
+MAIN_THRESHOLDS = [1, 3, 5, 10, 20, 50]
 
 def _read_gold_and_pred(gold_fpath, pred_fpath):
     """
@@ -104,7 +108,7 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
 
     ranked_lines = [t[0] for t in sorted(line_score, key=lambda x: x[1], reverse=True)]
     if thresholds is None or len(thresholds) == 0:
-        thresholds = [1, 3, 5, 10, 20, 50, len(ranked_lines)]
+        thresholds = MAIN_THRESHOLDS + [len(ranked_lines)]
 
     # Calculate Metrics
     precisions = _compute_precisions(gold_labels, ranked_lines, len(ranked_lines))
@@ -112,43 +116,125 @@ def evaluate(gold_fpath, pred_fpath, thresholds=None):
     reciprocal_ranks = [_compute_reciprocal_rank(gold_labels, ranked_lines, th) for th in thresholds]
     num_relevant = len({k for k, v in gold_labels.items() if v == 1})
 
-    # Log Results
-    threshold_line_format = '{:<25}' + "".join(['@{:<9}'.format(ind) for ind in thresholds])
-    lines_separator = '=' * 120
+    return thresholds, precisions, avg_precisions, reciprocal_ranks, num_relevant
 
-    logging.info('{:=^120}'.format('RESULTS'))
-    logging.info('{:<25}'.format('R-PRECISION (R={}):'.format(num_relevant))
-                 + '{0:.4f}'.format(precisions[num_relevant - 1]))
-    logging.info(lines_separator)
 
-    logging.info(threshold_line_format.format('AVERAGE PRECISION:'))
-    logging.info('{:<25}'.format("") + "".join(['{0:<10.4f}'.format(r) for r in avg_precisions]))
-    logging.info(lines_separator)
+def get_threshold_line_format(thresholds, last_entry_name):
+    threshold_line_format = '{:<30}' + "".join(['@{:<9}'.format(ind) for ind in thresholds])
+    if last_entry_name:
+        threshold_line_format = threshold_line_format + '{:<9}'.format(last_entry_name)
+    return threshold_line_format
 
-    logging.info(threshold_line_format.format('RECIPROCAL RANK@N:'))
-    logging.info('{:<25}'.format("") + "".join(['{0:<10.4f}'.format(r) for r in reciprocal_ranks]))
-    logging.info(lines_separator)
+def print_thresholded_metric(title, thresholds, data, last_entry_name=None, last_entry_value=None):
+    line_separator = '=' * 120
+    threshold_line_format = get_threshold_line_format(thresholds, last_entry_name)
+    items = data
+    if last_entry_value is not None:
+        items = items + [last_entry_value]
+    logging.info(threshold_line_format.format(title))
+    logging.info('{:<30}'.format("") + "".join(['{0:<10.4f}'.format(item) for item in items]))
+    logging.info(line_separator)
 
-    logging.info(threshold_line_format.format('PRECISION@N:'))
-    logging.info('{:<25}'.format("") + "".join(['{0:<10.4f}'.format(precisions[r-1]) for r in thresholds]))
-    logging.info(lines_separator)
+def print_single_metric(title, value):
+    line_separator = '=' * 120
+    logging.info('{:<30}'.format(title) + '{0:<10.4f}'.format(value))
+    logging.info(line_separator)
 
+def print_metrics_info(line_separator):
     logging.info('Description of the evaluation metrics: ')
+    logging.info('!!! THE OFFICIAL METRIC USED FOR THE COMPETITION RANKING IS MAP !!!')
     logging.info('R-Precision is Precision at R, where R is the number of relevant line_numbers for the evaluated set.')
     logging.info('Average Precision@N is precision, estimated at each relevant line_number, averaged for all relevant line_numbers up to the N-th (or by the threshold, if it is smaller).')
     logging.info('Reciprocal Rank@N is the sum of the reciprocal ranks of the relevant line_numbers (up to the N-th), according to the ranked list.')
     logging.info('Precision@N is precision estimated for the first N line_numbers in the provided ranked list.')
-    logging.info(lines_separator)
-    logging.info(lines_separator)
+    logging.info('The MEAN versions of each metric are provided to average over multiple debates (each with separate prediction file).')
+    logging.info(line_separator)
+    logging.info(line_separator)
+
+
+def validate_files(pred_files, gold_files):
+    if len(pred_files) != len(gold_files):
+        logging.error(
+            'Different number of gold files ({}) and pred files ({}) provided. Cannot score.'.format(
+                len(gold_files), len(pred_files)
+            )
+        )
+        return False
+
+    if len(pred_files) != len(set(pred_files)):
+        logging.error('Same pred file provided multiple times. The pred files should be for different debates.')
+        return False
+
+    for pred_file in pred_files:
+        if not check_format(pred_file):
+            logging.error('Bad format for pred file {}. Cannot score.'.format(pred_file))
+            return False
+
+    return True
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--gold_file_path", help="The absolute path to the file with gold annotations.", type=str)
-    parser.add_argument("--pred_file_path", help="The absolute path to the file with ranked line_numbers.", type=str)
+    parser.add_argument(
+        "--gold_file_path",
+        help="Comma separated list of paths to files with gold annotations.",
+        type=str,
+        required=True
+    )
+    parser.add_argument(
+        "--pred_file_path",
+        help="Comma separated list of paths to files with ranked line_numbers.",
+        type=str,
+        required=True
+    )
     args = parser.parse_args()
 
-    logging.info("Started evaluating results for Task 1 ...")
-    if check_format(args.pred_file_path):
-        evaluate(args.gold_file_path, args.pred_file_path)
+    pred_files = [pred_file.strip() for pred_file in args.pred_file_path.split(",")]
+    gold_files = [gold_file.strip() for gold_file in args.gold_file_path.split(",")]
+    line_separator = '=' * 120
+
+    if validate_files(pred_files, gold_files):
+        logging.info("Started evaluating results for Task 1 ...")
+        overall_precisions = [0.0] * len(MAIN_THRESHOLDS)
+        overall_avg_precisions = [0.0] * len(MAIN_THRESHOLDS)
+        overall_reciprocal_ranks = [0.0] * len(MAIN_THRESHOLDS)
+        mean_r_precision = 0.0
+        mean_avg_precision = 0.0
+        mean_reciprocal_rank_end = 0.0
+
+        for (pred_file, gold_file) in zip(pred_files, gold_files):
+            thresholds, precisions, avg_precisions, reciprocal_ranks, num_relevant = evaluate(gold_file, pred_file)
+            threshold_precisions = [precisions[th - 1] for th in MAIN_THRESHOLDS]
+            r_precision = precisions[num_relevant - 1]
+
+            for idx in range(0, len(MAIN_THRESHOLDS)):
+                overall_precisions[idx] += threshold_precisions[idx]
+                overall_avg_precisions[idx] += avg_precisions[idx]
+                overall_reciprocal_ranks[idx] += reciprocal_ranks[idx]
+            mean_r_precision += r_precision
+            mean_avg_precision += avg_precisions[-1]
+            mean_reciprocal_rank_end += reciprocal_ranks[-1]
+
+            filename = os.path.basename(pred_file)
+            logging.info('{:=^120}'.format(' RESULTS for {} '.format(filename)))
+            print_single_metric('R-PRECISION (R={}):'.format(num_relevant), r_precision)
+            print_thresholded_metric('AVERAGE PRECISION@N:', MAIN_THRESHOLDS, avg_precisions, 'AP')
+            print_thresholded_metric('RECIPROCAL RANK@N:', MAIN_THRESHOLDS, reciprocal_ranks, 'RR')
+            print_thresholded_metric('PRECISION@N:', MAIN_THRESHOLDS, threshold_precisions)
+
+        debate_count = len(pred_files)
+        if debate_count > 1:
+            overall_precisions = [item * 1.0 / debate_count for item in overall_precisions]
+            overall_avg_precisions = [item * 1.0 / debate_count for item in overall_avg_precisions]
+            overall_reciprocal_ranks = [item * 1.0 / debate_count for item in overall_reciprocal_ranks]
+            mean_r_precision /= debate_count
+            mean_avg_precision /= debate_count
+            mean_reciprocal_rank_end /= debate_count
+            logging.info('{:=^120}'.format(' AVERAGED RESULTS '))
+            print_single_metric('MEAN R-PRECISION:', mean_r_precision)
+            print_thresholded_metric('MEAN AVERAGE PRECISION@N:', MAIN_THRESHOLDS, overall_avg_precisions, 'MAP', mean_avg_precision)
+            print_thresholded_metric('MEAN RECIPROCAL RANK@N:', MAIN_THRESHOLDS, overall_reciprocal_ranks, 'MRR', mean_reciprocal_rank_end)
+            print_thresholded_metric('MEAN PRECISION@N:', MAIN_THRESHOLDS, overall_precisions)
+
+        print_metrics_info(line_separator)
 
