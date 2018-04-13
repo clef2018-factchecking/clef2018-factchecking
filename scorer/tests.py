@@ -121,9 +121,14 @@ class ScorerTask2(TestCase):
         self.assertEqual(task2._compute_macro_f1(conf_matrix), 0)
 
     def test_read(self):
-        gold_labels, pred_labels = task2._read_gold_and_pred(_GOLD_FILE_2, _PRED_FILE_2)
+        gold_labels, pred_labels = task2._read_gold_and_pred(_GOLD_FILE_2, _PRED_FILE_2, 'pref1-')
         self.assertEqual(gold_labels.keys(), pred_labels.keys())
         self.assertGreater(len(gold_labels), 20)
+        self.assertTrue(all([True if claim_id.startswith('pref1-') else False for claim_id in gold_labels.keys()]),
+          'Reading function should prefix all claim numbers with the provided prefix')
+        self.assertTrue(all([True if claim_id.startswith('pref1-') else False for claim_id in pred_labels.keys()]),
+          'Reading function should prefix all claim numbers with the provided prefix')
+
         with self.assertRaises(ValueError):
           task2._read_gold_and_pred(_GOLD_FILE_2, _PRED_FILE_2_NOTFULL)
 

@@ -13,7 +13,7 @@ _LABELS = ['true', 'false', 'half-true']
 _LABEL_NUMERIC_VALUES = { 'false': 0, 'half-true': 1, 'true': 2 }
 
 
-def _read_gold_and_pred(gold_file_path, pred_file_path):
+def _read_gold_and_pred(gold_file_path, pred_file_path, claim_number_prefix=''):
     logging.info("Reading gold predictions from file {}".format(gold_file_path))
 
     gold_labels = {}
@@ -22,7 +22,8 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
 
         for row in gold_reader:
             if row['claim_number'] != 'N/A':
-                gold_labels[int(row['claim_number'])] = row['label']
+                claim_id = claim_number_prefix + row['claim_number']
+                gold_labels[claim_id] = row['label']
 
     logging.info('Reading predicted classification labels from file {}'\
         .format(pred_file_path))
@@ -31,13 +32,13 @@ def _read_gold_and_pred(gold_file_path, pred_file_path):
     with open(pred_file_path) as pred_file:
         for i, line in enumerate(pred_file):
             claim_number, label = line.strip().split('\t')
-            claim_number = int(claim_number)
+            claim_id = claim_number_prefix + claim_number
 
-            if int(claim_number) not in gold_labels:
+            if claim_id not in gold_labels:
                 logging.error('No such claim_number: {} in gold file!'.format(claim_number))
                 quit()
 
-            predicted_labels[claim_number] = label
+            predicted_labels[claim_id] = label
 
     if len(set(gold_labels).difference(predicted_labels)) != 0:
         logging.error('The predictions do not match the claims from the gold file - missing or extra claim_number')
@@ -143,14 +144,13 @@ def _compute_macro_averaged_mae(conf_matrix):
     return sum(mae.values()) / len(mae)
 
 
-def evaluate(gold_fpath, pred_fpath):
+def evaluate(gold_labels, pred_labels):
     """
     Evaluates the predicted labels for claim_numbers w.r.t. a gold file.
-    Metrics are: confusion matrix, Acc, Macro F1 and Average Recall
-    :param gold_fpath: the original annotated gold file.
-    :param pred_fpath: a file with 'claim_number <TAB> label' at each line.
+    Metrics are: confusion matrix, Acc, Macro F1, Average Recall, MAE, Macro MAE
+    :param gold_labels: a dictionary with gold label for each claim_id
+    :param pred_labels: a dictionary with predicted label for each claim_id
     """
-    gold_labels, pred_labels = _read_gold_and_pred(gold_fpath, pred_fpath)
 
     # Calculate Metrics
     conf_matrix = _compute_confusion_matrix(gold_labels, pred_labels)
@@ -162,24 +162,24 @@ def evaluate(gold_fpath, pred_fpath):
     
     # Log Results
     lines_separator = '=' * 120
-    logging.info('{:=^120}'.format('RESULTS'))
+    logging.info('{:=^120}'.format(' RESULTS '))
 
-    logging.info('{:<25}'.format('MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(mae))
+    logging.info('{:<30}'.format('MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(mae))
     logging.info(lines_separator)
 
-    logging.info('{:<25}'.format('MACRO MAE:') + '{0:.4f}'.format(macro_mae))
+    logging.info('{:<30}'.format('MACRO MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(macro_mae))
     logging.info(lines_separator)
 
-    logging.info('{:<25}'.format('ACC:') + '{0:.4f}'.format(accuracy))
+    logging.info('{:<30}'.format('ACCURACY:') + '{0:.4f}'.format(accuracy))
     logging.info(lines_separator)
 
-    logging.info('{:<25}'.format('MACRO F1:') + '{0:.4f}'.format(macro_f1))
+    logging.info('{:<30}'.format('MACRO F1:') + '{0:.4f}'.format(macro_f1))
     logging.info(lines_separator)
 
-    logging.info('{:<25}'.format('MACRO RECALL:') + '{0:.4f}'.format(macro_recall))
+    logging.info('{:<30}'.format('MACRO RECALL:') + '{0:.4f}'.format(macro_recall))
     logging.info(lines_separator)
 
-    logging.info('{:<25}'.format('CONFUSION MATRIX:'))
+    logging.info('{:<30}'.format('CONFUSION MATRIX:'))
     logging.info(' '*10 + ''.join(['{:>15}'.format(l) for l in _LABELS]))
     for true_label in _LABELS:
         predicted_labels = conf_matrix[true_label]
@@ -187,7 +187,8 @@ def evaluate(gold_fpath, pred_fpath):
     logging.info(lines_separator)
 
     logging.info('Description of the evaluation metrics: ')
-    logging.info('Mean Absolute Error (MAE) is the mean "distance" between the predicted and gold labels.')
+    logging.info('!!! THE OFFICIAL METRIC USED FOR THE COMPETITION RANKING IS MEAN ABSOLUTE ERROR !!!')
+    logging.info('Mean Absolute Error (MAE) computes the mean "distance" between the predicted and gold labels.')
     logging.info('  For correct predictions the distance is 0.')
     logging.info('  For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.')
     logging.info('Macro MAE computes MAE for each of the (gold) classes and takes the average.')
@@ -199,12 +200,53 @@ def evaluate(gold_fpath, pred_fpath):
     logging.info(lines_separator)
 
 
+def validate_files(pred_files, gold_files):
+    if len(pred_files) != len(gold_files):
+        logging.error(
+            'Different number of gold files ({}) and pred files ({}) provided. Cannot score.'.format(
+                len(gold_files), len(pred_files)
+            )
+        )
+        return False
+
+    if len(pred_files) != len(set(pred_files)):
+        logging.error('Same pred file provided multiple times. The pred files should be for different debates.')
+        return False
+
+    for pred_file in pred_files:
+        if not check_format(pred_file):
+            logging.error('Bad format for pred file {}. Cannot score.'.format(pred_file))
+            return False
+
+    return True
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--gold_file_path", help="The absolute path to the file with gold annotations.", type=str)
-    parser.add_argument("--pred_file_path", help="The absolute path to the file with ranked line_numbers.", type=str)
+    parser.add_argument(
+        "--gold_file_path",
+        help="Comma separated list of paths to files with gold annotations.",
+        type=str,
+        required=True
+    )
+    parser.add_argument(
+        "--pred_file_path",
+        help="Comma separated list of paths to files with classified claims.",
+        type=str,
+        required=True
+    )
     args = parser.parse_args()
 
-    logging.info("Started evaluating results for Task 2 ...")
-    if check_format(args.pred_file_path):
-        evaluate(args.gold_file_path, args.pred_file_path)
+    pred_files = [pred_file.strip() for pred_file in args.pred_file_path.split(",")]
+    gold_files = [gold_file.strip() for gold_file in args.gold_file_path.split(",")]
+
+    if validate_files(pred_files, gold_files):
+        logging.info("Started evaluating results for Task 2 ...")
+        all_gold_labels = {}
+        all_pred_labels = {}
+        for idx, (pred_file, gold_file) in enumerate(zip(pred_files, gold_files)):
+            gold_labels, pred_labels = _read_gold_and_pred(gold_file, pred_file, 'file-{}-claim-number-'.format(idx))
+            all_gold_labels.update(gold_labels)
+            all_pred_labels.update(pred_labels)
+
+        evaluate(all_gold_labels, all_pred_labels)
