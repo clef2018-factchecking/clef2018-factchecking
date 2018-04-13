@@ -225,13 +225,13 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--gold_file_path",
-        help="Comma separated list of paths to files with gold annotations.",
+        help="Single string containing a comma separated list of paths to files with gold annotations.",
         type=str,
         required=True
     )
     parser.add_argument(
         "--pred_file_path",
-        help="Comma separated list of paths to files with classified claims.",
+        help="Single string containing a comma separated list of paths to files with classified claims.",
         type=str,
         required=True
     )
