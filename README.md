@@ -42,7 +42,7 @@ We provide the following files:
 
 - Main folder: [data](data)
 
-  * [README.txt](README.md) <br/>
+  * [README.md](README.md) <br/>
     this file
 
   - Subfolder [/task1/English/](data/task1/English) <br/>
@@ -231,10 +231,10 @@ Whenever using this resource you should use the CLEF-2018 paper by the organizer
 
 ```bib
 @InProceedings{,
-    author    = {Nakov, Preslav  and  M\`{a}rquez, Llu\'{i}s and  Barr\'{o}n-Cede\~no, Alberto and Zaghouani, Wajdi and Elsayed, Tamer and Suwaileh, Reem and Gencheva, Pepa},  <br/>
+    author    = {Nakov, Preslav  and  M\`{a}rquez, Llu\'{i}s and  Barr\'{o}n-Cede\~no, Alberto and Zaghouani, Wajdi and Elsayed, Tamer and Suwaileh, Reem and Gencheva, Pepa},  
     title     = {{CLEF}-2018 Lab on Automatic Identification and Verification of Claims in Political Debates}, <br>
-    booktitle = {Proceedings of the CLEF-2018}, <br/>
-    year      = {2018}, <br/>
+    booktitle = {Proceedings of the CLEF-2018}, 
+    year      = {2018}, 
 }
 ```
 
