@@ -1,7 +1,6 @@
 from unittest import TestCase
 from os.path import dirname, join
-import sys
-sys.path.append("..")
+
 from scorer import task1, task2
 
 _ROOT_DIR = dirname(dirname(__file__))
