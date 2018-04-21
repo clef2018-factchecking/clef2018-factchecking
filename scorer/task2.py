@@ -162,21 +162,23 @@ def evaluate(gold_labels, pred_labels):
     
     # Log Results
     lines_separator = '=' * 120
+    higher_better = '     (higher is better)'
+    lower_better = '     (lower is better)'
     logging.info('{:=^120}'.format(' RESULTS '))
 
-    logging.info('{:<30}'.format('MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(mae))
+    logging.info('{:<30}'.format('MEAN ABSOLUTE ERROR (MAE):') + '{0:.4f}'.format(mae) + lower_better)
     logging.info(lines_separator)
 
-    logging.info('{:<30}'.format('MACRO MEAN ABSOLUTE ERROR:') + '{0:.4f}'.format(macro_mae))
+    logging.info('{:<30}'.format('MACRO-AVERAGE MAE:') + '{0:.4f}'.format(macro_mae) + lower_better)
     logging.info(lines_separator)
 
-    logging.info('{:<30}'.format('ACCURACY:') + '{0:.4f}'.format(accuracy))
+    logging.info('{:<30}'.format('ACCURACY:') + '{0:.4f}'.format(accuracy) + higher_better)
     logging.info(lines_separator)
 
-    logging.info('{:<30}'.format('MACRO F1:') + '{0:.4f}'.format(macro_f1))
+    logging.info('{:<30}'.format('MACRO-AVERAGE F1:') + '{0:.4f}'.format(macro_f1) + higher_better)
     logging.info(lines_separator)
 
-    logging.info('{:<30}'.format('MACRO RECALL:') + '{0:.4f}'.format(macro_recall))
+    logging.info('{:<30}'.format('MACRO-AVERAGE RECALL:') + '{0:.4f}'.format(macro_recall) + higher_better)
     logging.info(lines_separator)
 
     logging.info('{:<30}'.format('CONFUSION MATRIX:'))
@@ -191,10 +193,10 @@ def evaluate(gold_labels, pred_labels):
     logging.info('Mean Absolute Error (MAE) computes the mean "distance" between the predicted and gold labels.')
     logging.info('  For correct predictions the distance is 0.')
     logging.info('  For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.')
-    logging.info('Macro MAE computes MAE for each of the (gold) classes and takes the average.')
+    logging.info('Macro-average MAE computes MAE for each of the (gold) classes and takes the average.')
     logging.info('Accuracy computes the percentage of correctly predicted classes.')
-    logging.info('Macro F1 computes the F1 score for each of the classes and takes their average.')
-    logging.info('Macro Recall computes Recall for each of the classes and takes its average.')
+    logging.info('Macro-average F1 computes the F1 score for each of the classes and takes their average.')
+    logging.info('Macro-average Recall computes Recall for each of the classes and takes its average.')
     logging.info('Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.')
     logging.info(lines_separator)
     logging.info(lines_separator)

@@ -215,7 +215,7 @@ They also handle checking if the provided predictions file contains all lines / 
 For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank, Precision@k and means of these over multiple debates.
 **The official metric for task1, that will be used for the competition ranking is the Mean Average Precision (MAP)**
 
-For Task 2 (classification): Mean Absolute Error (MAE), Macro MAE, Accuracy, Macro F1, Macro Recall (+ confusion matrix).
+For Task 2 (classification): Mean Absolute Error (MAE), Macro-average MAE, Accuracy, Macro-average F1, Macro-average Recall (+ confusion matrix).
 **The official metric for task2, that will be used for the competition ranking is the Mean Absolute Error (MAE)**
 
 ## Baselines

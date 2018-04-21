@@ -116,15 +116,15 @@ INFO : Started evaluating results for Task 2 ...
 INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task2/English/Task2-English-1st-Presidential.txt
 INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_gold.txt
 INFO : ======================================================= RESULTS ========================================================
-INFO : MEAN ABSOLUTE ERROR:          0.0000
+INFO : MEAN ABSOLUTE ERROR (MAE):    0.0000     (lower is better)
 INFO : ========================================================================================================================
-INFO : MACRO MEAN ABSOLUTE ERROR:    0.0000
+INFO : MACRO-AVERAGE MAE:            0.0000     (lower is better)
 INFO : ========================================================================================================================
-INFO : ACCURACY:                     1.0000
+INFO : ACCURACY:                     1.0000     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO F1:                     1.0000
+INFO : MACRO-AVERAGE F1:             1.0000     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO RECALL:                 1.0000
+INFO : MACRO-AVERAGE RECALL:         1.0000     (higher is better)
 INFO : ========================================================================================================================
 INFO : CONFUSION MATRIX:             
 INFO :                      true          false      half-true
@@ -137,10 +137,10 @@ INFO : !!! THE OFFICIAL METRIC USED FOR THE COMPETITION RANKING IS MEAN ABSOLUTE
 INFO : Mean Absolute Error (MAE) computes the mean "distance" between the predicted and gold labels.
 INFO :   For correct predictions the distance is 0.
 INFO :   For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.
-INFO : Macro MAE computes MAE for each of the (gold) classes and takes the average.
+INFO : Macro-average MAE computes MAE for each of the (gold) classes and takes the average.
 INFO : Accuracy computes the percentage of correctly predicted classes.
-INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
-INFO : Macro Recall computes Recall for each of the classes and takes its average.
+INFO : Macro-average F1 computes the F1 score for each of the classes and takes their average.
+INFO : Macro-average Recall computes Recall for each of the classes and takes its average.
 INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
 INFO : ========================================================================================================================
 INFO : ========================================================================================================================
@@ -150,15 +150,15 @@ INFO : Started evaluating results for Task 2 ...
 INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task2/English/Task2-English-1st-Presidential.txt
 INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_random_baseline.txt
 INFO : ======================================================= RESULTS ========================================================
-INFO : MEAN ABSOLUTE ERROR:          0.5333
+INFO : MEAN ABSOLUTE ERROR (MAE):    0.5333     (lower is better)
 INFO : ========================================================================================================================
-INFO : MACRO MEAN ABSOLUTE ERROR:    0.5132
+INFO : MACRO-AVERAGE MAE:            0.5132     (lower is better)
 INFO : ========================================================================================================================
-INFO : ACCURACY:                     0.6000
+INFO : ACCURACY:                     0.6000     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO F1:                     0.5912
+INFO : MACRO-AVERAGE F1:             0.5912     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO RECALL:                 0.6054
+INFO : MACRO-AVERAGE RECALL:         0.6054     (higher is better)
 INFO : ========================================================================================================================
 INFO : CONFUSION MATRIX:             
 INFO :                      true          false      half-true
@@ -171,10 +171,10 @@ INFO : !!! THE OFFICIAL METRIC USED FOR THE COMPETITION RANKING IS MEAN ABSOLUTE
 INFO : Mean Absolute Error (MAE) computes the mean "distance" between the predicted and gold labels.
 INFO :   For correct predictions the distance is 0.
 INFO :   For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.
-INFO : Macro MAE computes MAE for each of the (gold) classes and takes the average.
+INFO : Macro-average MAE computes MAE for each of the (gold) classes and takes the average.
 INFO : Accuracy computes the percentage of correctly predicted classes.
-INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
-INFO : Macro Recall computes Recall for each of the classes and takes its average.
+INFO : Macro-average F1 computes the F1 score for each of the classes and takes their average.
+INFO : Macro-average Recall computes Recall for each of the classes and takes its average.
 INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
 INFO : ========================================================================================================================
 INFO : ========================================================================================================================
@@ -186,15 +186,15 @@ INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0co
 INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-factchecking/data/task2/English/Task2-English-1st-Presidential.txt
 INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_random_baseline.txt
 INFO : ======================================================= RESULTS ========================================================
-INFO : MEAN ABSOLUTE ERROR:          0.2667
+INFO : MEAN ABSOLUTE ERROR (MAE):    0.2667     (lower is better)
 INFO : ========================================================================================================================
-INFO : MACRO MEAN ABSOLUTE ERROR:    0.2566
+INFO : MACRO-AVERAGE MAE:            0.2566     (lower is better)
 INFO : ========================================================================================================================
-INFO : ACCURACY:                     0.8000
+INFO : ACCURACY:                     0.8000     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO F1:                     0.7928
+INFO : MACRO-AVERAGE F1:             0.7928     (higher is better)
 INFO : ========================================================================================================================
-INFO : MACRO RECALL:                 0.8027
+INFO : MACRO-AVERAGE RECALL:         0.8027     (higher is better)
 INFO : ========================================================================================================================
 INFO : CONFUSION MATRIX:             
 INFO :                      true          false      half-true
@@ -207,10 +207,10 @@ INFO : !!! THE OFFICIAL METRIC USED FOR THE COMPETITION RANKING IS MEAN ABSOLUTE
 INFO : Mean Absolute Error (MAE) computes the mean "distance" between the predicted and gold labels.
 INFO :   For correct predictions the distance is 0.
 INFO :   For mistakes between FALSE and TRUE classes it is 2, and for all other mistakes it is 1.
-INFO : Macro MAE computes MAE for each of the (gold) classes and takes the average.
+INFO : Macro-average MAE computes MAE for each of the (gold) classes and takes the average.
 INFO : Accuracy computes the percentage of correctly predicted classes.
-INFO : Macro F1 computes the F1 score for each of the classes and takes their average.
-INFO : Macro Recall computes Recall for each of the classes and takes its average.
+INFO : Macro-average F1 computes the F1 score for each of the classes and takes their average.
+INFO : Macro-average Recall computes Recall for each of the classes and takes its average.
 INFO : Confusion Matrix computes the distribution of predicted classes, where rows are true labels and columns are predicted ones.
 INFO : ========================================================================================================================
 INFO : ========================================================================================================================
@@ -227,7 +227,7 @@ INFO : Reading gold predictions from file /media/sk/Data/dipl/0code/clef2018-fac
 INFO : Reading predicted classification labels from file /media/sk/Data/dipl/0code/clef2018-factchecking/scorer/data/task2_not_all_claims.txt
 ERROR : The predictions do not match the claims from the gold file - missing or extra claim_number
 Traceback (most recent call last):
-  File "task2.py", line 248, in <module>
+  File "task2.py", line 250, in <module>
     gold_labels, pred_labels = _read_gold_and_pred(gold_file, pred_file, 'file-{}-claim-number-'.format(idx))
   File "task2.py", line 45, in _read_gold_and_pred
     raise ValueError('The predictions do not match the claims from the gold file - missing or extra claim_number')
