@@ -1,6 +1,7 @@
 from unittest import TestCase
 from os.path import dirname, join
-
+import sys
+sys.path.append("..")
 from scorer import task1, task2
 
 _ROOT_DIR = dirname(dirname(__file__))
@@ -56,16 +57,15 @@ class ScorerTask1(TestCase):
 
     def test_reciprocal_rank(self):
         y_gold_labels = {1: 1, 2: 0, 3: 1, 4: 0, 5: 1}
-        y_pred_ranked = [1, 2, 3, 4, 5]
 
-        rr = task1._compute_reciprocal_rank(y_gold_labels, y_pred_ranked, 1)
+        rr = task1._compute_reciprocal_rank(y_gold_labels, [1, 2, 3, 4, 5])
         self.assertEqual(rr, 1)
-        rr = task1._compute_reciprocal_rank(y_gold_labels, y_pred_ranked, 2)
+        rr = task1._compute_reciprocal_rank(y_gold_labels, [5, 4, 3, 2, 1])
         self.assertEqual(rr, 1)
-        rr = task1._compute_reciprocal_rank(y_gold_labels, y_pred_ranked, 3)
-        self.assertEqual(rr, 1+1/3)
-        rr = task1._compute_reciprocal_rank(y_gold_labels, y_pred_ranked, 5)
-        self.assertEqual(rr, 1+1/3+1/5)
+        rr = task1._compute_reciprocal_rank(y_gold_labels, [2, 4, 1, 3, 5])
+        self.assertEqual(rr, 1/3)
+        rr = task1._compute_reciprocal_rank(y_gold_labels, [2, 5, 4, 1, 3])
+        self.assertEqual(rr, 1/2)
 
     def test_read_gold_and_pred(self):
         gold_labels, pred_ranked = task1._read_gold_and_pred(_GOLD_FILE_1, _PRED_FILE_1)

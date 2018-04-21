@@ -212,7 +212,7 @@ They also handle checking if the provided predictions file contains all lines / 
 
 ### Evaluation metrics
 
-For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank@k, Precision@k and means of these over multiple debates.
+For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank, Precision@k and means of these over multiple debates.
 **The official metric for task1, that will be used for the competition ranking is the Mean Average Precision (MAP)**
 
 For Task 2 (classification): Mean Absolute Error (MAE), Macro MAE, Accuracy, Macro F1, Macro Recall (+ confusion matrix).
