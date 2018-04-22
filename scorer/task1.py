@@ -212,9 +212,9 @@ if __name__ == '__main__':
 
             filename = os.path.basename(pred_file)
             logging.info('{:=^120}'.format(' RESULTS for {} '.format(filename)))
-            print_single_metric('R-PRECISION (R={}):'.format(num_relevant), r_precision)
             print_single_metric('AVERAGE PRECISION:', avg_precision)
             print_single_metric('RECIPROCAL RANK:', reciprocal_rank)
+            print_single_metric('R-PRECISION (R={}):'.format(num_relevant), r_precision)
             print_thresholded_metric('PRECISION@N:', MAIN_THRESHOLDS, threshold_precisions)
 
         debate_count = len(pred_files)
@@ -224,9 +224,9 @@ if __name__ == '__main__':
             mean_avg_precision /= debate_count
             mean_reciprocal_rank /= debate_count
             logging.info('{:=^120}'.format(' AVERAGED RESULTS '))
-            print_single_metric('MEAN R-PRECISION:', mean_r_precision)
             print_single_metric('MEAN AVERAGE PRECISION (MAP):', mean_avg_precision)
             print_single_metric('MEAN RECIPROCAL RANK:', mean_reciprocal_rank)
+            print_single_metric('MEAN R-PRECISION:', mean_r_precision)
             print_thresholded_metric('MEAN PRECISION@N:', MAIN_THRESHOLDS, overall_precisions)
 
         print_metrics_info(line_separator)
