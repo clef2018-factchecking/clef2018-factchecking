@@ -15,7 +15,7 @@ and <score> indicates the degree of 'check-worthiness' of the given line.
 """
 
 _LINE_PATTERN_A = re.compile('^[1-9][0-9]{0,3}\t([-+]?\d*\.\d+|\d+)$')
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 
 def check_format(file_path):
@@ -34,10 +34,6 @@ def check_format(file_path):
             if line_number != i + 1:
                 logging.error('Problem with line_number: {}. They should be consecutive and starting from 1.'.format(line_number))
                 return False
-
-        logging.info("The file looks properly formatted.")
-
-
     return True
 
 

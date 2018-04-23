@@ -157,6 +157,9 @@ Where _line_number_ is the number of the claim in the debate and _score_ is a nu
 >11	0.4115 <br/>
 > ...
 
+Your result file **MUST contain scores for all lines** from the respective input file.
+Otherwise the scorer will not score this result file.
+
 ### Task 2:
 
 For this subtask, participants should estimate the credibility of the fact-checked claims. The results file contains one tab-separeted line per instance with:
@@ -175,37 +178,45 @@ Where claim_number is the consecutive number only of the fact-checked claims and
 >8	HALF-TRUE <br/>
 >9	FALSE <br/>
 >10	TRUE <br/>
-> ... 
+> ...
+
+Your result file **MUST contain predictions for all claims** from the respective input file.
+Otherwise the scorer will not score this result file.
 
 ## Format checkers
 
 The checkers for each subtask are located in the [format_checker](format_checker) module of the project.
 Each format checker verifies that your generated results file complies with the expected format.
 To launch them run: 
-> python3 subtaskA.py --pred_file_path=<path_to_your_results_file> <br/>
-> python3 subtaskB.py --pred_file_path=<path_to_your_results_file> 
+> python3 task1.py --pred_file_path=<path_to_your_results_file> <br/>
+> python3 task2.py --pred_file_path=<path_to_your_results_file>
 
 `run_format_checker.sh` includes examples of the output of the checkers when dealing with an ill-formed results file. 
 Its output can be seen in [run_format_checker_out.txt](format_checker/run_format_checker_out.txt)
+The checks for completness (if the result files contain all lines / claims) is NOT handled by the format checkers, because they receive only the results file and not the gold one.
 
 ## Scorers 
 
 Launch the scorers for each task as follows:
-> python3 subtaskA.py --gold_file_path=<path_to_gold_file> --pred_file_path=<predicted_results_path> <br/>
-> python3 subtaskB.py --gold_file_path=<path_to_gold_file> --pred_file=<predicted_results_path> 
+> python3 task1.py --gold_file_path="<path_gold_file_1, path_to_gold_file_k>" --pred_file_path="<predictions_file_1, predictions_file_k>" <br/>
+> python3 task2.py --gold_file_path="<path_gold_file_1, path_to_gold_file_k>" --pred_file_path="<predictions_file_1, predictions_file_k>"
     
-where __<path_to_gold_file>__ is the path to the file containing the gold annotations for a debate and __<predicted_results_path>__ is the path to the predicted results, which follows the format, described in the 'Results File Format' section.
+Both `--gold_file_path` and `--pred_file_path` take a single string that contains a comma separated list of file paths. The lists may be of arbitraty positive length (so even a single file path is OK) but their lengths must match.
+
+__<path_to_gold_file_n>__ is the path to the file containing the gold annotations for debate __n__ and __<predictions_file_n>__ is the path to the respective file holding predicted results for debate __n__, which must follow the format, described in the 'Results File Format' section.
 
 The scorers call the format checkers for the corresponding task to verify the output is properly shaped.
+They also handle checking if the provided predictions file contains all lines / claims from the gold one.
 
 `run_scorer.sh` provides examples on using the scorers and the results can be viewed in the [run_scorer_out.txt](scorer/run_scorer_out.txt) file.
 
 ### Evaluation metrics
 
-For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank@k, Precision@k.
+For Task 1 (ranking): R-Precision, Average Precision, Recipocal Rank, Precision@k and means of these over multiple debates.
+**The official metric for task1, that will be used for the competition ranking is the Mean Average Precision (MAP)**
 
-For Task 2 (classification): Accuracy, Macro F1, Macro Recall (+ confusion matrix).
-
+For Task 2 (classification): Mean Absolute Error (MAE), Macro-average MAE, Accuracy, Macro-average F1, Macro-average Recall (+ confusion matrix).
+**The official metric for task2, that will be used for the competition ranking is the Mean Absolute Error (MAE)**
 
 ## Baselines
 
@@ -248,10 +259,12 @@ Lab Organizers:
 * Wajdi Zaghouani, Carnegie Mellon University - Qatar <br/>
 * Tamer Elsayed, Qatar University <br/>
 * Reem Suwaileh, Qatar University <br/>
-* Pepa Gencheva, Sofia University
+* Pepa Gencheva, Sofia University <br/>
+* Spas Kyuchukov, Sofia University
 
 
 Task website: http://alt.qcri.org/clef2018-factcheck/
+**The official rules are published on the website, check them!**
 
 Contact:   clef-factcheck@googlegroups.com
 
