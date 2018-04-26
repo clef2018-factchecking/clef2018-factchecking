@@ -260,7 +260,8 @@ Lab Organizers:
 * Tamer Elsayed, Qatar University <br/>
 * Reem Suwaileh, Qatar University <br/>
 * Pepa Gencheva, Sofia University <br/>
-* Spas Kyuchukov, Sofia University
+* Spas Kyuchukov, Sofia University <br/>
+* Giovanni Da San Martino, Qatar Computing Research Institute, HBKU
 
 
 Task website: http://alt.qcri.org/clef2018-factcheck/
