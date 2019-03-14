@@ -238,7 +238,7 @@ The performance of both baselines will be displayed.
 
 ## Citation
 
-Whenever using this resource you should use the CLEF-2018 paper by the organizers describing the Fact Checking Lab. For the moment, the paper is not available. We will update the BIB entry below in subsequent versions of this document.
+Whenever using this resource you should use the CLEF-2018 paper by the organizers describing the Fact Checking Lab.
 
 ```bib
 @InProceedings{clef2018checkthat:overall,
