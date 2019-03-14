@@ -241,11 +241,41 @@ The performance of both baselines will be displayed.
 Whenever using this resource you should use the CLEF-2018 paper by the organizers describing the Fact Checking Lab. For the moment, the paper is not available. We will update the BIB entry below in subsequent versions of this document.
 
 ```bib
-@InProceedings{,
-    author    = {Nakov, Preslav  and  M\`{a}rquez, Llu\'{i}s and  Barr\'{o}n-Cede\~no, Alberto and Zaghouani, Wajdi and Elsayed, Tamer and Suwaileh, Reem and Gencheva, Pepa},  
-    title     = {{CLEF}-2018 Lab on Automatic Identification and Verification of Claims in Political Debates}, <br>
-    booktitle = {Proceedings of the CLEF-2018}, 
-    year      = {2018}, 
+@InProceedings{clef2018checkthat:overall,
+    author    = {Nakov, Preslav  and  Barr\'{o}n-Cede\~{n}o, Alberto and Elsayed, Tamer and Suwaileh, Reem and M\`{a}rquez, Llu\'{i}s and Zaghouani, Wajdi and Atanasova, Pepa and Kyuchukov, Spas and Da San Martino, Giovanni},
+    title     = {Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims},
+    booktitle = {Proceedings of the Ninth International Conference of the CLEF Association: Experimental IR Meets Multilinguality, Multimodality, and Interaction},
+    series    = {Lecture Notes in Computer Science},
+    publisher = {Springer},
+    editor    = {Patrice Bellot, Chiraz Trabelsi, Josiane Mothe, Fionn Murtagh, Jian Yun Nie, Laure Soulier, Eric Sanjuan, Linda Cappellato, Nicola Ferro},
+    address   = {Avignon, France},
+    month     = {September},
+    year      = {2018},
+}
+
+@InProceedings{clef2018checkthat:task1,
+    author    = {Atanasova, Pepa and  M\`{a}rquez, Llu\'{i}s  and Barr\'{o}n-Cede\~{n}o, Alberto  and Elsayed, Tamer and Suwaileh, Reem and Zaghouani, Wajdi and Kyuchukov, Spas and Da San Martino, Giovanni and Nakov, Preslav},
+    title     = {Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims, Task 1: Check-Worthiness},
+    booktitle = {CLEF 2018 Working Notes. Working Notes of CLEF 2018 - Conference and Labs of the Evaluation Forum},
+    series    = {{CEUR} Workshop Proceedings},
+    publisher = {CEUR-WS.org},
+    editor    = {Cappellato, Linda and Ferro, Nicola and Nie, Jian-Yun and Soulier, Laure},
+    address   = {Avignon, France},
+    month     = {September},
+    year      = {2018},
+}
+
+
+@InProceedings{clef2018checkthat:task2,
+    author    = {Barr\'{o}n-Cede\~{n}o, Alberto and Elsayed, Tamer and Suwaileh, Reem and M\`{a}rquez, Llu\'{i}s  and Atanasova, Pepa and Zaghouani, Wajdi and Kyuchukov, Spas and Da San Martino, Giovanni and Nakov, Preslav},
+    title     = {Overview of the CLEF-2018 CheckThat! Lab on Automatic Identification and Verification of Political Claims, Task 2: Factuality},
+    booktitle = {CLEF 2018 Working Notes. Working Notes of CLEF 2018 - Conference and Labs of the Evaluation Forum},
+    series    = {{CEUR} Workshop Proceedings},
+    publisher = {CEUR-WS.org},
+    editor    = {Cappellato, Linda and Ferro, Nicola and Nie, Jian-Yun and Soulier, Laure},
+    address   = {Avignon, France},
+    month     = {September},
+    year      = {2018},
 }
 ```
 
